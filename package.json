@@ -1,0 +1,49 @@
+{
+  "name": "cs404_module3",
+  "version": "0.1.0",
+  "description": "A React.js app for a Game Browser for CS404",
+  "main": "client/index.jsx",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/server.js",
+    "server:dev": "nodemon server/server.js",
+    "client": "esbuild client/index.jsx --target=es6 --bundle --minify --outdir=public",
+    "client:dev": "esbuild client/index.jsx --target=es6 --bundle --watch --sourcemap --outdir=public",
+    "client:server": "esbuild client/index.jsx --target=es6 --bundle --watch --sourcemap --outdir=public --servedir=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShockDexterity/cs404_module3.git"
+  },
+  "author": "Will Canter",
+  "license": "MIT",
+  "prettier": {
+    "options": {
+      "editorconfig": true
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/ShockDexterity/cs404_module3/issues"
+  },
+  "homepage": "https://github.com/ShockDexterity/cs404_module3#readme",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "esbuild": "^0.20.2",
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5",
+    "prettier-eslint": "^16.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
