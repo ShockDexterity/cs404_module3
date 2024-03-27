@@ -5,14 +5,12 @@ import DeleteButton from './DeleteButton.jsx'
 import DetailsButton from './DetailsButton.jsx'
 // import GameSummary from './GameSummary.jsx'
 
-export default function GameCard ({
-  game: { id: gameID, title, year, thumbnail }
-}) {
+export default function GameCard ({ game }) {
   return (
-    <div className="col-sm-6 col-md-6 col-lg-3" id={gameID}>
+    <div className="col-sm-6 col-md-6 col-lg-3" id={game.id}>
       <div className="gameSummary">
-        <DetailsButton game={{ id: gameID, title, year, thumbnail }} />
-        <DeleteButton gameID={gameID} title={title} />
+        <DetailsButton game={game} />
+        <DeleteButton gameID={game.id} title={game.title} />
       </div>
     </div>
   )
