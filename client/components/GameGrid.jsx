@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GameRow (props) {
+export default function GameGrid (props) {
   const { listOfSummarizedGames } = props
   const gameCards = listOfSummarizedGames.map((game, index) => (
     <li key={index}>{game.id}</li>
