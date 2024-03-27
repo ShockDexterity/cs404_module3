@@ -1,13 +1,33 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+
+import GameCard from './GameCard.jsx'
+
+import { retrieveGameSummaries } from '../dataHelper.js'
 
 export default function GameGrid (props) {
-  const { listOfSummarizedGames } = props
-  const gameCards = listOfSummarizedGames.map((game, index) => (
-    <li key={index}>{game.id}</li>
+  const [summarizedGames, setSummarizedGames] = useState([])
+
+  useEffect(() => {
+    async function fetchData () {
+      try {
+        const newData = await retrieveGameSummaries()
+        setSummarizedGames(newData)
+      }
+      catch (error) {
+        console.log(error)
+      }
+    }
+
+    fetchData()
+  }, [])
+
+  const gameCards = summarizedGames.map((game) => (
+    <GameCard key={game.id} game={game} />
   ))
+
   return (
-    <div className="row gy-4" id="gameRow">
-      <ul>gameCards</ul>
+    <div className="row gy-4 pb-4" id="gameRow">
+      {gameCards}
     </div>
   )
 }

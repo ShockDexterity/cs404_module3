@@ -1,0 +1,31 @@
+.gameHeader {
+  display: block;
+  font-size: medium;
+  height: 4.5em;
+}
+
+.gameTitle {
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.gameSummary {
+  border: 1px solid black;
+  border-radius: 10px;
+
+  text-align: center;
+  font-size: medium;
+  padding: 5px;
+  vertical-align: bottom;
+  height: 250px;
+}
+
+.summaryInfo {
+  /* display: block; */
+  font-size: medium;
+}
+
+.detailsLink {
+  width: 100%;
+}
