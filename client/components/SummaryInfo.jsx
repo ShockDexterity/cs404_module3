@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 export default function SummaryInfo ({ title, thumbnail }) {
   return (
-    <div className="summaryInfo">
+    <div style={{ fontSize: 'medium' }}>
       <img
         className="img-thumbnail"
         src={thumbnail ?? './unknown.png'}

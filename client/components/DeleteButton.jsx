@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export default function DeleteButton ({ id: gameID, title }) {
+export default function DeleteButton ({ gameID, title }) {
   return (
     <button
       className="btn btn-danger"
@@ -16,6 +16,6 @@ export default function DeleteButton ({ id: gameID, title }) {
 
 // validate game properties
 DeleteButton.propTypes = {
-  id: PropTypes.number.isRequired,
+  gameID: PropTypes.number.isRequired,
   title: PropTypes.string.isRequired
 }
