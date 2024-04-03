@@ -1,6 +1,27 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+import PropTypes from 'prop-types'
 
-export default function GameDetails (props) {
+import { retrieveSpecificGame } from '../dataHelper'
+
+export default function GameDetails ({ activeGame }) {
+  const [game, setGame] = useState({})
+
+  useEffect(() => {
+    async function fetchGame () {
+      if (activeGame) {
+        try {
+          const data = await retrieveSpecificGame(activeGame)
+          setGame(data)
+        }
+        catch (error) {
+          console.log(error)
+        }
+      }
+    }
+
+    fetchGame()
+  }, [activeGame])
+
   return (
     <div className="container">
       <div className="row pb-2 mb-2 border-bottom border-secondary-subtle border-2">
@@ -51,4 +72,9 @@ export default function GameDetails (props) {
       </div>
     </div>
   )
+}
+
+// Prop validation
+GameDetails.propTypes = {
+  activeGame: PropTypes.number.isRequired
 }

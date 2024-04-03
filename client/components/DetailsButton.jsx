@@ -16,14 +16,20 @@ const gameTitleStyle = {
 }
 
 export default function DetailsButton ({
-  game: { id: gameID, title, year, thumbnail }
+  game: { id: gameID, title, year, thumbnail },
+  setActiveGame
 }) {
+  function handleDetailsClick (event) {
+    event.preventDefault()
+    setActiveGame(gameID)
+  }
+
   return (
     <button
       className="btn"
       style={{ width: '100%' }}
       data-game-id={gameID}
-      onClick={() => {}}
+      onClick={handleDetailsClick}
     >
       <div style={gameHeaderStyle}>
         <span style={gameTitleStyle}>{title}</span>
@@ -34,12 +40,13 @@ export default function DetailsButton ({
   )
 }
 
-// validate game properties
+// Prop validation
 DetailsButton.propTypes = {
   game: PropTypes.exact({
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
     thumbnail: PropTypes.string.isRequired
-  }).isRequired
+  }).isRequired,
+  setActiveGame: PropTypes.func.isRequired
 }

@@ -1,10 +1,13 @@
 import React, { useEffect, useState } from 'react'
+import PropTypes from 'prop-types'
 
 import GameCard from './GameCard.jsx'
+import DetailsButton from './DetailsButton.jsx'
+// import DeleteButton from './DeleteButton.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
 
-export default function GameGrid (props) {
+export default function GameGrid ({ setActiveGame }) {
   const [summarizedGames, setSummarizedGames] = useState([])
 
   useEffect(() => {
@@ -22,7 +25,10 @@ export default function GameGrid (props) {
   }, [])
 
   const gameCards = summarizedGames.map((game) => (
-    <GameCard key={game.id} game={game} />
+    <GameCard key={game.id} gameID={game.id}>
+      <DetailsButton game={game} setActiveGame={setActiveGame} />
+      {/* <DeleteButton gameID={game.id} title={game.title} /> */}
+    </GameCard>
   ))
 
   return (
@@ -30,4 +36,9 @@ export default function GameGrid (props) {
       {gameCards}
     </div>
   )
+}
+
+// Prop validation
+GameGrid.propTypes = {
+  setActiveGame: PropTypes.func.isRequired
 }
