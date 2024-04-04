@@ -1,4 +1,4 @@
-export default function charRefReplacer (stringToFix) {
+export default function htmlRefReplacer (stringToFix) {
   const doc = new window.DOMParser().parseFromString(stringToFix, 'text/html')
   return doc.documentElement.textContent
 }

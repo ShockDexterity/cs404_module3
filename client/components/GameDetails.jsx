@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import DetailItem from './DetailItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
-import charRefReplacer from '../utils.js'
+import htmlRefReplacer from '../utils.js'
 
 export default function GameDetails ({ detailsID }) {
   const [game, setGame] = useState(null)
@@ -42,29 +42,65 @@ export default function GameDetails ({ detailsID }) {
         </div>
         <div className="col">
           <ul className="list-group list-group-flush">
-            <DetailItem label="Age" value={game.min_age} />
+            <DetailItem label="Age" value={game.age} />
             <DetailItem
               label="Players"
-              value={`${game.min_players}-${game.max_players} players`}
+              value={
+                game.min_players === 0 && game.max_players === 0
+                  ? 'N/A'
+                  : game.min_players === game.max_players
+                    ? game.min_players
+                    : `${game.min_players}-${game.max_players}`
+              }
             />
             <DetailItem
               label="Playtime"
-              value={`${game.min_playtime}-${game.max_playtime} minutes`}
+              value={
+                game.min_playtime === 0 && game.max_playtime === 0
+                  ? 'N/A'
+                  : game.min_playtime === game.max_playtime
+                    ? `${game.min_playtime} minutes`
+                    : `${game.min_playtime}-${game.max_playtime} minutes`
+              }
             />
-            <DetailItem label="Designer(s)" value={game.designers.join(', ')} />
-            <DetailItem label="Artist(s)" value={game.artists.join(', ')} />
+            <DetailItem
+              label="Designer(s)"
+              value={
+                game.designers.length <= 5
+                  ? game.designers.join(', ')
+                  : `${game.designers[0]} (+${game.designers.length - 1})`
+              }
+            />
+            <DetailItem
+              label="Artist(s)"
+              value={
+                game.artists.length <= 5
+                  ? game.artists.join(', ')
+                  : `${game.artists[0]} (+${game.artists.length - 1})`
+              }
+            />
             <DetailItem
               label="Publisher(s)"
-              value={game.publishers.join(', ')}
+              value={
+                game.publishers.length <= 5
+                  ? game.publishers.join(', ')
+                  : `${game.publishers[0]} (+${game.publishers.length - 1})`
+              }
             />
-            <DetailItem label="Rating" value={game.rating} />
-            <DetailItem label="Weighted" value={game.weight} />
+            <DetailItem
+              label="Rating"
+              value={`${game.rating.toFixed(2)} / 10`}
+            />
+            <DetailItem
+              label="Weighted"
+              value={`${game.weight.toFixed(1)} / 5`}
+            />
           </ul>
         </div>
       </div>
       <div className="row">
         <div className="col">
-          <p>{charRefReplacer(game.description)}</p>
+          <p>{htmlRefReplacer(game.description)}</p>
         </div>
       </div>
     </div>
