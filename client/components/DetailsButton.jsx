@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import PropTypes from 'prop-types'
 
 import SummaryInfo from './SummaryInfo.jsx'
+import { DetailsDispatchContext } from '../contexts/GameDetailsContext.jsx'
 
 const gameHeaderStyle = {
   display: 'block',
@@ -17,12 +18,14 @@ const gameTitleStyle = {
 
 export default function DetailsButton ({
   game: { id, title, year, thumbnail },
-  requestGameDetails,
+  // requestGameDetails,
   showGameDetails
 }) {
+  const dispatch = useContext(DetailsDispatchContext)
+
   function handleDetailsClick (event) {
     event.preventDefault()
-    requestGameDetails({ id, title })
+    dispatch({ type: 'SET_DETAILS', id, title })
     showGameDetails()
   }
 

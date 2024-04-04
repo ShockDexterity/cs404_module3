@@ -1,13 +1,16 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useContext, useEffect, useRef, useState } from 'react'
 import PropTypes from 'prop-types'
 
 import Modal from 'bootstrap/js/dist/modal'
+import { GameDetailsContext } from '../contexts/GameDetailsContext'
 
-export default function BSModal ({ title, isOpen, onClose, children }) {
+export default function BSModal ({ isOpen, onClose, children }) {
   const [modalObj, setModalObj] = useState(null)
 
   // Create a reference for the modal
   const modalRef = useRef(null)
+
+  const { title = 'N/A' } = useContext(GameDetailsContext)
 
   useEffect(() => {
     if (modalRef.current && !modalObj) {
@@ -75,6 +78,6 @@ BSModal.propTypes = {
 }
 
 BSModal.defaultProps = {
-  title: 'N/A',
+  // title: 'N/A',
   children: null
 }

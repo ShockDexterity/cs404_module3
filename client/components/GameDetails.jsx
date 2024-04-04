@@ -1,13 +1,16 @@
-import React, { useEffect, useState } from 'react'
-import PropTypes from 'prop-types'
+import React, { useContext, useEffect, useState } from 'react'
+// import PropTypes from 'prop-types'
 
 import DetailItem from './DetailItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
 import htmlRefReplacer from '../utils.js'
+import { GameDetailsContext } from '../contexts/GameDetailsContext.jsx'
 
-export default function GameDetails ({ detailsID }) {
+export default function GameDetails (props) {
   const [game, setGame] = useState(null)
+
+  const { id: detailsID = null } = useContext(GameDetailsContext)
 
   useEffect(() => {
     async function fetchGame () {
@@ -26,6 +29,10 @@ export default function GameDetails ({ detailsID }) {
   }, [detailsID])
 
   if (!game) {
+    return null
+  }
+
+  if (!detailsID) {
     return null
   }
 
@@ -109,5 +116,5 @@ export default function GameDetails ({ detailsID }) {
 
 // Prop validation
 GameDetails.propTypes = {
-  detailsID: PropTypes.number
+  // detailsID: PropTypes.number
 }
