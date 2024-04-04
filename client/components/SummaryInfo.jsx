@@ -17,5 +17,5 @@ export default function SummaryInfo ({ title, thumbnail }) {
 // validate game properties
 SummaryInfo.propTypes = {
   title: PropTypes.string.isRequired,
-  thumbnail: PropTypes.string.isRequired
+  thumbnail: PropTypes.string
 }

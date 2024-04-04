@@ -1,17 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-// import DeleteButton from './DeleteButton.jsx'
-// import DetailsButton from './DetailsButton.jsx'
-
 const gameSummaryStyle = {
   border: '1px solid black',
   borderRadius: '10px',
   textAlign: 'center',
   fontSize: 'medium',
   padding: '5px',
-  verticalAlign: 'bottom',
-  height: '250px'
+  verticalAlign: 'bottom'
 }
 
 export default function GameCard ({ gameID, children }) {
@@ -25,5 +21,5 @@ export default function GameCard ({ gameID, children }) {
 // Prop validation
 GameCard.propTypes = {
   gameID: PropTypes.number.isRequired,
-  children: PropTypes.arrayOf(PropTypes.element).isRequired
+  children: PropTypes.node.isRequired
 }

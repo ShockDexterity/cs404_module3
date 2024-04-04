@@ -1,73 +1,70 @@
 import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 
-import { retrieveSpecificGame } from '../dataHelper'
+import DetailItem from './DetailItem.jsx'
 
-export default function GameDetails ({ activeGame }) {
-  const [game, setGame] = useState({})
+import { retrieveSpecificGame } from '../dataHelper'
+import charRefReplacer from '../utils.js'
+
+export default function GameDetails ({ detailsID }) {
+  const [game, setGame] = useState(null)
 
   useEffect(() => {
     async function fetchGame () {
-      if (activeGame) {
+      if (detailsID) {
         try {
-          const data = await retrieveSpecificGame(activeGame)
-          setGame(data)
+          const gameToShow = await retrieveSpecificGame(detailsID)
+          setGame(gameToShow)
         }
         catch (error) {
-          console.log(error)
+          console.error(error)
         }
       }
     }
 
     fetchGame()
-  }, [activeGame])
+  }, [detailsID])
+
+  if (!game) {
+    return null
+  }
 
   return (
     <div className="container">
       <div className="row pb-2 mb-2 border-bottom border-secondary-subtle border-2">
         <div className="col-lg-6 col-xl-5 d-flex justify-content-center">
-          <img className="w-100" id="details-image" alt="image goes here" />
+          <img
+            className="w-100"
+            id="details-image"
+            alt={`Cover art for ${game.title}`}
+            src={game.image}
+          />
         </div>
         <div className="col">
           <ul className="list-group list-group-flush">
-            <li className="list-group-item">
-              <span className="emphasis">Age:</span>
-              <span id="details-age"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Players:</span>
-              <span id="details-players"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Playtime:</span>
-              <span id="details-playtime"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Designer(s):</span>
-              <span id="details-designer"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Artist(s):</span>
-              <span id="details-artist"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Publisher(s):</span>
-              <span id="details-publisher"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Rating:</span>
-              <span id="details-rating"></span>
-            </li>
-            <li className="list-group-item">
-              <span className="emphasis">Weighted:</span>
-              <span id="details-weight"></span>
-            </li>
+            <DetailItem label="Age" value={game.min_age} />
+            <DetailItem
+              label="Players"
+              value={`${game.min_players}-${game.max_players} players`}
+            />
+            <DetailItem
+              label="Playtime"
+              value={`${game.min_playtime}-${game.max_playtime} minutes`}
+            />
+            <DetailItem label="Designer(s)" value={game.designers.join(', ')} />
+            <DetailItem label="Artist(s)" value={game.artists.join(', ')} />
+            <DetailItem
+              label="Publisher(s)"
+              value={game.publishers.join(', ')}
+            />
+            <DetailItem label="Rating" value={game.rating} />
+            <DetailItem label="Weighted" value={game.weight} />
           </ul>
         </div>
       </div>
       <div className="row">
         <div className="col">
-          <p id="details-description"></p>
+          <p>{charRefReplacer(game.description)}</p>
         </div>
       </div>
     </div>
@@ -76,5 +73,5 @@ export default function GameDetails ({ activeGame }) {
 
 // Prop validation
 GameDetails.propTypes = {
-  activeGame: PropTypes.number.isRequired
+  detailsID: PropTypes.number
 }

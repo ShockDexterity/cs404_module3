@@ -16,19 +16,21 @@ const gameTitleStyle = {
 }
 
 export default function DetailsButton ({
-  game: { id: gameID, title, year, thumbnail },
-  setActiveGame
+  game: { id, title, year, thumbnail },
+  requestGameDetails,
+  showGameDetails
 }) {
   function handleDetailsClick (event) {
     event.preventDefault()
-    setActiveGame(gameID)
+    requestGameDetails({ id, title })
+    showGameDetails()
   }
 
   return (
     <button
       className="btn"
       style={{ width: '100%' }}
-      data-game-id={gameID}
+      data-game-id={id}
       onClick={handleDetailsClick}
     >
       <div style={gameHeaderStyle}>
@@ -46,7 +48,8 @@ DetailsButton.propTypes = {
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
-    thumbnail: PropTypes.string.isRequired
+    thumbnail: PropTypes.string
   }).isRequired,
-  setActiveGame: PropTypes.func.isRequired
+  requestGameDetails: PropTypes.func.isRequired,
+  showGameDetails: PropTypes.func.isRequired
 }

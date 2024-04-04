@@ -12,8 +12,13 @@ export default function Header ({ title, subtitle }) {
   )
 }
 
-// Validate props
+// Prop types
 Header.propTypes = {
   title: PropTypes.string.isRequired,
-  subtitle: PropTypes.string.isRequired
+  subtitle: PropTypes.string
+}
+
+// Default props
+Header.defaultProps = {
+  subtitle: ''
 }
