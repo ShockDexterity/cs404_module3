@@ -5,33 +5,40 @@ export default function validateGame (possibleGame, callback) {
   // set up error object
   const err = {}
 
-  // check if game id exists
+  // check if the game has an id
+  // if it doesn't, callback with an error
+  // if it does, it must be an integer
+  // if it's not an integer, try to convert it
+  // if it can't be converted, callback with an error
   if (!possibleGame.id) {
-    err.message = 'Missing ID field'
+    err.message = 'Game must have an id'
     err.status = 400
     callback(err)
     return
   }
-
-  // check if the game id is a number
-  if (!Number.isInteger(possibleGame.id)) {
-    err.message = "Field 'id' must be an integer"
-    err.status = 400
-    callback(err)
-    return
+  else {
+    const id = parseInt(possibleGame.id)
+    if (isNaN(id)) {
+      err.message = 'Game id must be an integer'
+      err.status = 400
+      callback(err)
+      return
+    }
+    cleanGame.id = id
   }
 
   // check if the game has a title
+  // if it doesn't, callback with an error
+  // we don't need to check if it's a string because html forms only submit strings
   if (!possibleGame.title) {
     err.message = 'Game must have a title'
     err.status = 400
     callback(err)
     return
   }
-
-  // add id and title to clean game
-  cleanGame.id = possibleGame.id
-  cleanGame.title = possibleGame.title
+  else {
+    cleanGame.title = possibleGame.title
+  }
 
   // optional fields to check
   const optionalFields = {
@@ -57,7 +64,7 @@ export default function validateGame (possibleGame, callback) {
   // iterate through each optional property
   Object.entries(optionalFields).forEach(([key, targetType]) => {
     // skips anything in the possible game that we don't care about
-    if (key in possibleGame) {
+    if (key in possibleGame && possibleGame[key] !== '') {
       // grab the value into a variable
       const gameProp = possibleGame[key]
 

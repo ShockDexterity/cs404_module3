@@ -49,7 +49,7 @@ DetailsButton.propTypes = {
   game: PropTypes.exact({
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
-    year: PropTypes.number.isRequired,
+    year: PropTypes.number,
     thumbnail: PropTypes.string
   }).isRequired,
   showGameDetails: PropTypes.func.isRequired

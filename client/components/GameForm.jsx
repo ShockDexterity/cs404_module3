@@ -31,9 +31,6 @@ export default function GameForm ({ addGame }) {
     catch (error) {
       console.error(error)
     }
-
-    // console.log(data)
-    console.log('Form submitted')
   }
 
   return (

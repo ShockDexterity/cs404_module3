@@ -1,7 +1,8 @@
 import React, { useContext, useEffect, useState } from 'react'
 // import PropTypes from 'prop-types'
 
-import DetailItem from './DetailItem.jsx'
+import DetailSingleItem from './DetailSingleItem.jsx'
+import DetailRangeItem from './DetailRangeItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
 import { GameDetailsContext } from '../contexts/GameDetailsContext.jsx'
@@ -18,9 +19,6 @@ export default function GameDetails (props) {
         try {
           const gameToShow = await retrieveSpecificGame(detailsID)
           setGame(gameToShow)
-          console.log(
-            Object.keys(gameToShow).sort((a, b) => a.localeCompare(b))
-          )
         }
         catch (error) {
           console.error(error)
@@ -47,70 +45,50 @@ export default function GameDetails (props) {
             className="w-100"
             id="details-image"
             alt={`Cover art for ${game.title}`}
-            src={game.image}
+            src={game.image ?? './unknown.png'}
           />
         </div>
         <div className="col">
           <ul className="list-group list-group-flush">
-            <DetailItem label="Age" value={game.age} />
-            <DetailItem
-              label="Players"
-              value={
-                game.min_players === 0 && game.max_players === 0
-                  ? 'N/A'
-                  : game.min_players === game.max_players
-                    ? game.min_players
-                    : `${game.min_players}-${game.max_players}`
-              }
+            <DetailSingleItem header="Age" value={game.age} label="years" />
+
+            <DetailRangeItem
+              header="Players"
+              min={game.min_players}
+              max={game.max_players}
+              label="player(s)"
             />
-            <DetailItem
-              label="Playtime"
-              value={
-                game.min_playtime === 0 && game.max_playtime === 0
-                  ? 'N/A'
-                  : game.min_playtime === game.max_playtime
-                    ? `${game.min_playtime} minutes`
-                    : `${game.min_playtime}-${game.max_playtime} minutes`
-              }
+            <DetailRangeItem
+              header="Playtime"
+              min={game.min_playtime}
+              max={game.max_playtime}
+              label="minutes"
             />
-            <DetailItem
-              label="Designer(s)"
-              value={
-                game.designers.length <= 5
-                  ? game.designers.join(', ')
-                  : `${game.designers[0]} (+${game.designers.length - 1})`
-              }
+
+            <DetailSingleItem header="Designer(s)" value={game.designers} />
+            <DetailSingleItem header="Artist(s)" value={game.artists} />
+            <DetailSingleItem header="Publisher(s)" value={game.publishers} />
+
+            <DetailSingleItem
+              header="Rating"
+              value={game.rating ? game.rating.toFixed(2) : null}
+              label="/ 10"
             />
-            <DetailItem
-              label="Artist(s)"
-              value={
-                game.artists.length <= 5
-                  ? game.artists.join(', ')
-                  : `${game.artists[0]} (+${game.artists.length - 1})`
-              }
-            />
-            <DetailItem
-              label="Publisher(s)"
-              value={
-                game.publishers.length <= 5
-                  ? game.publishers.join(', ')
-                  : `${game.publishers[0]} (+${game.publishers.length - 1})`
-              }
-            />
-            <DetailItem
-              label="Rating"
-              value={`${game.rating.toFixed(2)} / 10`}
-            />
-            <DetailItem
-              label="Weighted"
-              value={`${game.weight.toFixed(1)} / 5`}
+            <DetailSingleItem
+              header="Weighted"
+              value={game.weight ? game.weight.toFixed(1) : null}
+              label="/ 5"
             />
           </ul>
         </div>
       </div>
       <div className="row">
         <div className="col">
-          <p>{htmlRefReplacer(game.description)}</p>
+          <p>
+            {game.description
+              ? htmlRefReplacer(game.description)
+              : 'Not available'}
+          </p>
         </div>
       </div>
     </div>
