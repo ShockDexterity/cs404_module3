@@ -10,7 +10,11 @@ export async function retrieveSpecificGame (gameID) {
   return game
 }
 
-export async function addGame (gameData) {
+export async function insertGame (gameData) {
+  if (typeof gameData === 'object') {
+    gameData = JSON.stringify(gameData)
+  }
+
   const response = await fetch('./games', {
     method: 'PUT',
     headers: {

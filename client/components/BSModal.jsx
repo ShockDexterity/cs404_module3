@@ -10,7 +10,7 @@ export default function BSModal ({ isOpen, onClose, children }) {
   // Create a reference for the modal
   const modalRef = useRef(null)
 
-  const { title = 'N/A' } = useContext(GameDetailsContext)
+  const { modalTitle = 'N/A' } = useContext(GameDetailsContext)
 
   useEffect(() => {
     if (modalRef.current && !modalObj) {
@@ -42,7 +42,7 @@ export default function BSModal ({ isOpen, onClose, children }) {
       <div className="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
         <div className="modal-content">
           <div className="modal-header">
-            <h1 className="modal-title fs-5">{title}</h1>
+            <h1 className="modal-title fs-5">{modalTitle}</h1>
 
             <button
               type="button"

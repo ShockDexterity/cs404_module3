@@ -4,8 +4,8 @@ import React, { useContext, useEffect, useState } from 'react'
 import DetailItem from './DetailItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
-import htmlRefReplacer from '../utils.js'
 import { GameDetailsContext } from '../contexts/GameDetailsContext.jsx'
+import htmlRefReplacer from '../utils.js'
 
 export default function GameDetails (props) {
   const [game, setGame] = useState(null)
@@ -18,6 +18,9 @@ export default function GameDetails (props) {
         try {
           const gameToShow = await retrieveSpecificGame(detailsID)
           setGame(gameToShow)
+          console.log(
+            Object.keys(gameToShow).sort((a, b) => a.localeCompare(b))
+          )
         }
         catch (error) {
           console.error(error)

@@ -18,7 +18,6 @@ const gameTitleStyle = {
 
 export default function DetailsButton ({
   game: { id, title, year, thumbnail },
-  // requestGameDetails,
   showGameDetails
 }) {
   const dispatch = useContext(DetailsDispatchContext)
@@ -53,6 +52,5 @@ DetailsButton.propTypes = {
     year: PropTypes.number.isRequired,
     thumbnail: PropTypes.string
   }).isRequired,
-  requestGameDetails: PropTypes.func.isRequired,
   showGameDetails: PropTypes.func.isRequired
 }

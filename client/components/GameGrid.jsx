@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import PropTypes from 'prop-types'
 
 import GameCard from './GameCard.jsx'
 import DetailsButton from './DetailsButton.jsx'
@@ -6,7 +7,7 @@ import DetailsButton from './DetailsButton.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
 
-export default function GameGrid (props) {
+export default function GameGrid ({ gameAdded, setGameAdded, ...props }) {
   const [summarizedGames, setSummarizedGames] = useState([])
 
   useEffect(() => {
@@ -20,8 +21,12 @@ export default function GameGrid (props) {
       }
     }
 
-    fetchData()
-  }, [])
+    if (gameAdded) {
+      console.log('fetching data')
+      fetchData()
+      setGameAdded(false)
+    }
+  }, [gameAdded, setGameAdded])
 
   const gameCards = summarizedGames.map((game) => (
     <GameCard key={game.id} gameID={game.id}>
@@ -31,8 +36,13 @@ export default function GameGrid (props) {
   ))
 
   return (
-    <div className="row gy-4 pb-4" id="gameRow">
+    <div className="row gy-4 pt-4 pb-4" id="gameRow">
       {gameCards}
     </div>
   )
+}
+
+GameGrid.propTypes = {
+  gameAdded: PropTypes.bool,
+  setGameAdded: PropTypes.func
 }

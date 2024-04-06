@@ -8,32 +8,64 @@ import {
   GameDetailsContext,
   DetailsDispatchContext
 } from './contexts/GameDetailsContext.jsx'
+import GameForm from './components/GameForm.jsx'
 
 export default function App () {
   // State to manage whether the modal is open or not
   const [modalOpen, setModalOpen] = useState(false)
 
+  // State to manage which modal to show
+  const [showDetails, setShowDetails] = useState(true)
+
+  // Let React know to re-render the GameGrid when a game is added
+  const [gameAdded, setGameAdded] = useState(true)
+
   // Reducer to manage the details of the game to show
   const [details, dispatch] = useReducer(detailsReducer, {
     id: null,
-    title: ''
+    title: null,
+    modalTitle: null
   })
 
   return (
     <div className="container">
       <Header
         title="Tabletop Game Browser"
-        subtitle="Click on a game below for more information."
+        subtitle="Click on a game below for more information"
+        onOpenForm={(event) => {
+          event.preventDefault()
+          setModalOpen(true)
+          setShowDetails(false)
+          dispatch({ type: 'SET_MODAL_TITLE', modalTitle: 'Add Game' })
+        }}
       />
+
       <DetailsDispatchContext.Provider value={dispatch}>
-        <GameGrid showGameDetails={() => setModalOpen(true)} />
+        <GameGrid
+          showGameDetails={() => {
+            setModalOpen(true)
+            setShowDetails(true)
+          }}
+          gameAdded={gameAdded}
+          setGameAdded={setGameAdded}
+        />
       </DetailsDispatchContext.Provider>
 
       <GameDetailsContext.Provider value={details}>
-        <BSModal isOpen={modalOpen} onClose={() => setModalOpen(false)}>
-          <GameDetailsContext.Provider value={details}>
+        <BSModal
+          isOpen={modalOpen}
+          onClose={() => {
+            setModalOpen(false)
+            setShowDetails(true)
+          }}
+        >
+          {showDetails
+            ? (
             <GameDetails />
-          </GameDetailsContext.Provider>
+              )
+            : (
+            <GameForm addGame={() => setGameAdded(true)} />
+              )}
         </BSModal>
       </GameDetailsContext.Provider>
     </div>
@@ -43,7 +75,9 @@ export default function App () {
 function detailsReducer (state, action) {
   switch (action.type) {
     case 'SET_DETAILS':
-      return { id: action.id, title: action.title }
+      return { id: action.id, title: action.title, modalTitle: action.title }
+    case 'SET_MODAL_TITLE':
+      return { ...state, modalTitle: action.modalTitle }
     default:
       return state
   }
