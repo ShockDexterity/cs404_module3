@@ -9,7 +9,7 @@ export default function DetailItem ({ header, min, max, label }) {
   const text =
     min === 0 && max === 0
       ? 'N/A'
-      : min === max
+      : min === max || min > max
         ? `${min} ${label}`
         : `${min}-${max} ${label}`
 

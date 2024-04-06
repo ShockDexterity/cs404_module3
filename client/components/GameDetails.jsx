@@ -50,7 +50,7 @@ export default function GameDetails (props) {
         </div>
         <div className="col">
           <ul className="list-group list-group-flush">
-            <DetailSingleItem header="Age" value={game.age} label="years" />
+            <DetailSingleItem header="Age" value={game.min_age} label="years" />
 
             <DetailRangeItem
               header="Players"
