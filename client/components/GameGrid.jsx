@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import GameCard from './GameCard.jsx'
 import DetailsButton from './DetailsButton.jsx'
-// import DeleteButton from './DeleteButton.jsx'
+import DeleteButton from './DeleteButton.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
 
@@ -31,7 +31,11 @@ export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
   const gameCards = summarizedGames.map((game) => (
     <GameCard key={game.id} gameID={game.id}>
       <DetailsButton game={game} {...props} />
-      {/* <DeleteButton gameID={game.id} title={game.title} /> */}
+      <DeleteButton
+        gameID={game.id}
+        title={game.title}
+        refreshGames={() => setRefreshGames(true)}
+      />
     </GameCard>
   ))
 
