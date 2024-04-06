@@ -1,13 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 
 import FloatingFormEntry from './FloatingFormEntry.jsx'
-import { insertGame } from '../dataHelper.js'
+import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'
 
-// import { GameDetailsContext } from '../contexts/GameDetailsContext'
+import { GameDetailsContext } from '../contexts/GameDetailsContext'
 
-export default function GameForm ({ addGame }) {
-  // const { id = 'N/A', title = 'N/A' } = React.useContext(GameDetailsContext)
+export default function GameForm ({ addGame, editing }) {
+  const { id: gameID = 'N/A' } = React.useContext(GameDetailsContext)
 
   async function handleSubmit (event) {
     event.preventDefault()
@@ -17,8 +17,25 @@ export default function GameForm ({ addGame }) {
 
     const data = Object.fromEntries(formData.entries())
 
-    try {
-      const response = await insertGame(data)
+    if (!editing) {
+      try {
+        const response = await insertGame(data)
+
+        window.alert(response.message)
+        if (!response.error) {
+          addGame()
+        }
+        else {
+          console.error(response.message)
+        }
+      }
+      catch (error) {
+        console.error(error)
+      }
+    }
+    else {
+      data.id = gameID
+      const response = await editGame(data)
 
       window.alert(response.message)
       if (!response.error) {
@@ -27,9 +44,6 @@ export default function GameForm ({ addGame }) {
       else {
         console.error(response.message)
       }
-    }
-    catch (error) {
-      console.error(error)
     }
   }
 
@@ -50,6 +64,57 @@ export default function GameForm ({ addGame }) {
   const [image, setImage] = React.useState('')
   const [thumbnail, setThumbnail] = React.useState('')
 
+  useEffect(() => {
+    async function setupEditing () {
+      if (gameID) {
+        try {
+          const gameToEdit = await retrieveSpecificGame(gameID)
+
+          setID(gameToEdit.id)
+          setTitle(gameToEdit.title)
+          setYear(gameToEdit.year ? gameToEdit.year : '')
+          setRating(gameToEdit.rating ? gameToEdit.rating : '')
+          setDescription(gameToEdit.description ? gameToEdit.description : '')
+          setMinAge(gameToEdit.min_age ? gameToEdit.min_age : '')
+          setMinPlayers(gameToEdit.min_players ? gameToEdit.min_players : '')
+          setMaxPlayers(gameToEdit.max_players ? gameToEdit.max_players : '')
+          setMinPlaytime(gameToEdit.min_playtime ? gameToEdit.min_playtime : '')
+          setMaxPlaytime(gameToEdit.max_playtime ? gameToEdit.max_playtime : '')
+          setWeight(gameToEdit.weight ? gameToEdit.weight : '')
+          setDesigners(gameToEdit.designers ? gameToEdit.designers : '')
+          setArtists(gameToEdit.artists ? gameToEdit.artists : '')
+          setPublishers(gameToEdit.publishers ? gameToEdit.publishers : '')
+          setImage(gameToEdit.image ? gameToEdit.image : '')
+          setThumbnail(gameToEdit.thumbnail ? gameToEdit.thumbnail : '')
+        }
+        catch (error) {
+          console.error(error)
+        }
+      }
+    }
+    if (editing) {
+      setupEditing()
+    }
+    else {
+      setID('')
+      setTitle('')
+      setYear('')
+      setRating('')
+      setDescription('')
+      setMinAge('')
+      setMinPlayers('')
+      setMaxPlayers('')
+      setMinPlaytime('')
+      setMaxPlaytime('')
+      setWeight('')
+      setDesigners('')
+      setArtists('')
+      setPublishers('')
+      setImage('')
+      setThumbnail('')
+    }
+  }, [gameID, editing])
+
   return (
     <form onSubmit={handleSubmit}>
       <div className="row">
@@ -61,6 +126,7 @@ export default function GameForm ({ addGame }) {
             placeholder=""
             value={id}
             onChange={(event) => setID(event.target.value)}
+            disabled={editing}
             required
           />
           <label htmlFor="id">ID</label>
@@ -276,7 +342,7 @@ export default function GameForm ({ addGame }) {
       </div>
 
       <button type="submit" className="btn btn-primary">
-        Submit Game
+        {editing ? 'Edit' : 'Submit'} Game
       </button>
     </form>
   )
@@ -284,5 +350,6 @@ export default function GameForm ({ addGame }) {
 
 // Prop validation
 GameForm.propTypes = {
-  addGame: PropTypes.func.isRequired
+  addGame: PropTypes.func.isRequired,
+  editing: PropTypes.bool.isRequired
 }

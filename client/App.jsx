@@ -16,6 +16,7 @@ export default function App () {
 
   // State to manage which modal to show
   const [showDetails, setShowDetails] = useState(true)
+  const [editing, setEditing] = useState(false)
 
   // Let React know to re-render the GameGrid when a game is added
   const [refreshGames, setRefreshGames] = useState(true)
@@ -36,6 +37,7 @@ export default function App () {
           event.preventDefault()
           setModalOpen(true)
           setShowDetails(false)
+          setEditing(false)
           dispatch({ type: 'SET_MODAL_TITLE', modalTitle: 'Add Game' })
         }}
       />
@@ -45,6 +47,11 @@ export default function App () {
           showGameDetails={() => {
             setModalOpen(true)
             setShowDetails(true)
+          }}
+          showEditForm={() => {
+            setEditing(true)
+            setModalOpen(true)
+            setShowDetails(false)
           }}
           refreshGames={refreshGames}
           setRefreshGames={setRefreshGames}
@@ -64,7 +71,7 @@ export default function App () {
             <GameDetails />
               )
             : (
-            <GameForm addGame={() => setRefreshGames(true)} />
+            <GameForm addGame={() => setRefreshGames(true)} editing={editing} />
               )}
         </BSModal>
       </GameDetailsContext.Provider>

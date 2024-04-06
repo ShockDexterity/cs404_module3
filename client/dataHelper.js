@@ -38,3 +38,20 @@ export async function deleteGame (gameID) {
   const respJSON = await response.json()
   return respJSON
 }
+
+export async function editGame (gameData) {
+  if (typeof gameData === 'object') {
+    gameData = JSON.stringify(gameData)
+  }
+
+  const response = await fetch('./games/edit', {
+    method: 'PUT',
+    headers: {
+      Accept: 'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: gameData
+  })
+  const respJSON = await response.json()
+  return respJSON
+}

@@ -87,6 +87,50 @@ gameRouter.put('/', (req, res) => {
   })
 })
 
+// get all PUT requests from /games/edit
+gameRouter.put('/edit', (req, res) => {
+  validateGame(req.body, (err, gameToSubmit) => {
+    if (err) {
+      res.status(err.status).json({ error: true, message: err.message })
+    }
+    else {
+      if (games.find((game) => game.id === gameToSubmit.id)) {
+        games = games.map((game) => {
+          if (game.id === gameToSubmit.id) {
+            return gameToSubmit
+          }
+          else {
+            return game
+          }
+        })
+
+        summarizedGames = summarizedGames.map((game) => {
+          if (game.id === gameToSubmit.id) {
+            return {
+              id: gameToSubmit.id,
+              title: gameToSubmit.title,
+              year: gameToSubmit.year,
+              thumbnail: gameToSubmit.thumbnail
+            }
+          }
+          else {
+            return game
+          }
+        })
+
+        res.status(200).json({
+          success: true,
+          id: gameToSubmit.id,
+          message: `"${gameToSubmit.title}" successfully updated`
+        })
+      }
+      else {
+        res.status(400).json({ error: true, message: 'Game does not exist' })
+      }
+    }
+  })
+})
+
 // get all DELETE requests from /games/id
 gameRouter.delete('/:id', (req, res) => {
   const gameID = parseInt(req.params.id)

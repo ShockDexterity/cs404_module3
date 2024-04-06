@@ -22,7 +22,7 @@ export default function DeleteButton ({ gameID, title, refreshGames }) {
 
   return (
     <button className="btn btn-danger" onClick={handleDelete}>
-      Delete Game
+      Delete
     </button>
   )
 }

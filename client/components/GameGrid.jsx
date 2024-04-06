@@ -6,6 +6,7 @@ import DetailsButton from './DetailsButton.jsx'
 import DeleteButton from './DeleteButton.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
+import EditButton from './EditButton.jsx'
 
 export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
   const [summarizedGames, setSummarizedGames] = useState([])
@@ -31,11 +32,14 @@ export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
   const gameCards = summarizedGames.map((game) => (
     <GameCard key={game.id} gameID={game.id}>
       <DetailsButton game={game} {...props} />
-      <DeleteButton
-        gameID={game.id}
-        title={game.title}
-        refreshGames={() => setRefreshGames(true)}
-      />
+      <div className="btn-group" role="group">
+        <EditButton gameID={game.id} title={game.title} {...props} />
+        <DeleteButton
+          gameID={game.id}
+          title={game.title}
+          refreshGames={() => setRefreshGames(true)}
+        />
+      </div>
     </GameCard>
   ))
 
