@@ -18,7 +18,7 @@ export default function App () {
   const [showDetails, setShowDetails] = useState(true)
 
   // Let React know to re-render the GameGrid when a game is added
-  const [gameAdded, setGameAdded] = useState(true)
+  const [refreshGames, setRefreshGames] = useState(true)
 
   // Reducer to manage the details of the game to show
   const [details, dispatch] = useReducer(detailsReducer, {
@@ -46,8 +46,8 @@ export default function App () {
             setModalOpen(true)
             setShowDetails(true)
           }}
-          gameAdded={gameAdded}
-          setGameAdded={setGameAdded}
+          refreshGames={refreshGames}
+          setRefreshGames={setRefreshGames}
         />
       </DetailsDispatchContext.Provider>
 
@@ -64,7 +64,7 @@ export default function App () {
             <GameDetails />
               )
             : (
-            <GameForm addGame={() => setGameAdded(true)} />
+            <GameForm addGame={() => setRefreshGames(true)} />
               )}
         </BSModal>
       </GameDetailsContext.Provider>

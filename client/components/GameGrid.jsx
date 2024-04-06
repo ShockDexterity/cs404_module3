@@ -7,7 +7,7 @@ import DetailsButton from './DetailsButton.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
 
-export default function GameGrid ({ gameAdded, setGameAdded, ...props }) {
+export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
   const [summarizedGames, setSummarizedGames] = useState([])
 
   useEffect(() => {
@@ -21,12 +21,12 @@ export default function GameGrid ({ gameAdded, setGameAdded, ...props }) {
       }
     }
 
-    if (gameAdded) {
+    if (refreshGames) {
       console.log('fetching data')
       fetchData()
-      setGameAdded(false)
+      setRefreshGames(false)
     }
-  }, [gameAdded, setGameAdded])
+  }, [refreshGames, setRefreshGames])
 
   const gameCards = summarizedGames.map((game) => (
     <GameCard key={game.id} gameID={game.id}>
@@ -43,6 +43,6 @@ export default function GameGrid ({ gameAdded, setGameAdded, ...props }) {
 }
 
 GameGrid.propTypes = {
-  gameAdded: PropTypes.bool,
-  setGameAdded: PropTypes.func
+  refreshGames: PropTypes.bool,
+  setRefreshGames: PropTypes.func
 }
