@@ -73,17 +73,29 @@ export default function validateGame (possibleGame, callback) {
         cleanGame[key] = gameProp
       }
       else {
-        if (targetType === 'integer' && typeof gameProp === 'number') {
-          // the property is a number, so we'll ensure it's an integer
-          cleanGame[key] = parseInt(gameProp)
+        if (targetType === 'integer') {
+          // the property is a string, so we'll try to convert it to an integer
+          const intProp = parseInt(gameProp)
+          if (isNaN(intProp)) {
+            errorMessages.push(`Field '${key}' must be an integer`)
+          }
+          else {
+            cleanGame[key] = intProp
+          }
         }
-        else if (targetType === 'float' && typeof gameProp === 'number') {
-          // the property is a number, so we'll ensure it's a float
-          cleanGame[key] = parseFloat(gameProp)
+        else if (targetType === 'float') {
+          // the property is a string, so we'll try to convert it to a float
+          const floatProp = parseFloat(gameProp)
+          if (isNaN(floatProp)) {
+            errorMessages.push(`Field '${key}' must be a float`)
+          }
+          else {
+            cleanGame[key] = floatProp
+          }
         }
-        else if (targetType === 'array' && Array.isArray(gameProp)) {
+        else if (targetType === 'array') {
           // typeof [1, 2] returns 'object', so we check if it's an array
-          cleanGame[key] = gameProp
+          cleanGame[key] = gameProp.split(',').map((item) => item.trim())
         }
         else {
           // the property wasn't valid or couldn't be converted
