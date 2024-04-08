@@ -1,10 +1,12 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 
+import { GameDetailsContext } from '../contexts/GameDetailsContext'
+
 import FloatingFormEntry from './FloatingFormEntry.jsx'
 import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'
 
-import { GameDetailsContext } from '../contexts/GameDetailsContext'
+import htmlRefReplacer from '../utils.js'
 
 export default function GameForm ({ addGame, editing }) {
   const { id: gameID = 'N/A' } = React.useContext(GameDetailsContext)
@@ -74,16 +76,24 @@ export default function GameForm ({ addGame, editing }) {
           setTitle(gameToEdit.title)
           setYear(gameToEdit.year ? gameToEdit.year : '')
           setRating(gameToEdit.rating ? gameToEdit.rating : '')
-          setDescription(gameToEdit.description ? gameToEdit.description : '')
+          setDescription(
+            gameToEdit.description
+              ? htmlRefReplacer(gameToEdit.description)
+              : ''
+          )
           setMinAge(gameToEdit.min_age ? gameToEdit.min_age : '')
           setMinPlayers(gameToEdit.min_players ? gameToEdit.min_players : '')
           setMaxPlayers(gameToEdit.max_players ? gameToEdit.max_players : '')
           setMinPlaytime(gameToEdit.min_playtime ? gameToEdit.min_playtime : '')
           setMaxPlaytime(gameToEdit.max_playtime ? gameToEdit.max_playtime : '')
           setWeight(gameToEdit.weight ? gameToEdit.weight : '')
-          setDesigners(gameToEdit.designers ? gameToEdit.designers : '')
-          setArtists(gameToEdit.artists ? gameToEdit.artists : '')
-          setPublishers(gameToEdit.publishers ? gameToEdit.publishers : '')
+          setDesigners(
+            gameToEdit.designers ? gameToEdit.designers.join(', ') : ''
+          )
+          setArtists(gameToEdit.artists ? gameToEdit.artists.join(', ') : '')
+          setPublishers(
+            gameToEdit.publishers ? gameToEdit.publishers.join(', ') : ''
+          )
           setImage(gameToEdit.image ? gameToEdit.image : '')
           setThumbnail(gameToEdit.thumbnail ? gameToEdit.thumbnail : '')
         }
