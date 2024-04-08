@@ -9,7 +9,7 @@ import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'
 import htmlRefReplacer from '../utils.js'
 
 export default function GameForm ({ addGame, editing }) {
-  const { id: gameID = 'N/A' } = React.useContext(GameDetailsContext)
+  const { id: gameID = null } = React.useContext(GameDetailsContext)
 
   async function handleSubmit (event) {
     event.preventDefault()
