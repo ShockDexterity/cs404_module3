@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import PropTypes from 'prop-types'
 
-import { DetailsDispatchContext } from '../contexts/GameDetailsContext'
+import { DetailsDispatchContext } from '../state/GameDetailsContext'
 
 export default function EditButton ({ gameID, title, showEditForm }) {
   const dispatch = useContext(DetailsDispatchContext)

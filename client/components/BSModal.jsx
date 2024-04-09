@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useRef, useState } from 'react'
 import PropTypes from 'prop-types'
 
 import Modal from 'bootstrap/js/dist/modal'
-import { GameDetailsContext } from '../contexts/GameDetailsContext'
+import { GameDetailsContext } from '../state/GameDetailsContext'
 
 export default function BSModal ({ isOpen, onClose, children }) {
   const [modalObj, setModalObj] = useState(null)

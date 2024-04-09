@@ -5,7 +5,7 @@ import DetailSingleItem from './DetailSingleItem.jsx'
 import DetailRangeItem from './DetailRangeItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
-import { GameDetailsContext } from '../contexts/GameDetailsContext.jsx'
+import { GameDetailsContext } from '../state/GameDetailsContext.jsx'
 import htmlRefReplacer from '../utils.js'
 
 export default function GameDetails (props) {

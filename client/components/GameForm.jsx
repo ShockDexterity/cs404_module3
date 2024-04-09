@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 
-import { GameDetailsContext } from '../contexts/GameDetailsContext'
+import { GameDetailsContext } from '../state/GameDetailsContext.jsx'
 
 import FloatingFormEntry from './FloatingFormEntry.jsx'
 import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'

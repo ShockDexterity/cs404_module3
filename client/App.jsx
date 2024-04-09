@@ -7,7 +7,7 @@ import GameDetails from './components/GameDetails.jsx'
 import {
   GameDetailsContext,
   DetailsDispatchContext
-} from './contexts/GameDetailsContext.jsx'
+} from './state/GameDetailsContext.jsx'
 import GameForm from './components/GameForm.jsx'
 
 export default function App () {
