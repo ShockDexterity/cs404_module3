@@ -11,7 +11,7 @@ import {
   DetailsDispatchContext
 } from './state/GameDetailsContext.jsx'
 
-export default function App () {
+export default function App (props) {
   // State to manage whether the modal is open or not
   const [modalOpen, setModalOpen] = useState(false)
 
@@ -86,6 +86,41 @@ function detailsReducer (state, action) {
       return { id: action.id, title: action.title, modalTitle: action.title }
     case 'SET_MODAL_TITLE':
       return { ...state, modalTitle: action.modalTitle }
+    default:
+      return state
+  }
+}
+
+function gameReducer (state, action) {
+  switch (action.type) {
+    // Show the modal
+    case 'SHOW':
+      return { ...state, showModal: true }
+
+    // Hide the modal
+    case 'HIDE':
+      return { ...state, showModal: false }
+
+    // Set the modal to display the game details
+    case 'DISPLAY':
+      return { ...state, func: 'display', title: action.title }
+
+    // Set the modal to display the form for adding a game
+    case 'ADD':
+      return { ...state, func: 'adding' }
+
+    // Set the modal to display the form for editing a game
+    case 'EDIT':
+      return { ...state, func: 'editing', title: action.title }
+
+    // Request the game details
+    case 'REQUEST':
+      return { ...state, requestID: action.requestID }
+
+    // Receive the game details
+    case 'RECEIVE':
+      return { ...state, game: action.game }
+
     default:
       return state
   }
