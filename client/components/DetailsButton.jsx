@@ -2,6 +2,7 @@ import React, { useContext } from 'react'
 import PropTypes from 'prop-types'
 
 import SummaryInfo from './SummaryInfo.jsx'
+
 import { DetailsDispatchContext } from '../state/GameDetailsContext.jsx'
 
 const gameHeaderStyle = {

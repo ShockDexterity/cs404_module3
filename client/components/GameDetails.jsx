@@ -1,8 +1,8 @@
 import React, { useContext, useEffect, useState } from 'react'
 // import PropTypes from 'prop-types'
 
-import DetailSingleItem from './DetailSingleItem.jsx'
 import DetailRangeItem from './DetailRangeItem.jsx'
+import DetailSingleItem from './DetailSingleItem.jsx'
 
 import { retrieveSpecificGame } from '../dataHelper'
 import { GameDetailsContext } from '../state/GameDetailsContext.jsx'

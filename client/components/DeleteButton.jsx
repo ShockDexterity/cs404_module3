@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+
 import { deleteGame } from '../dataHelper'
 
 export default function DeleteButton ({ gameID, title, refreshGames }) {

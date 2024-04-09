@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 
-import GameCard from './GameCard.jsx'
 import DetailsButton from './DetailsButton.jsx'
 import DeleteButton from './DeleteButton.jsx'
+import EditButton from './EditButton.jsx'
+import GameCard from './GameCard.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
-import EditButton from './EditButton.jsx'
 
 export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
   const [summarizedGames, setSummarizedGames] = useState([])

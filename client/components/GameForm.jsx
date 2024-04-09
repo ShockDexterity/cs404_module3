@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 
+import FloatingFormEntry from './FloatingFormEntry.jsx'
+
 import { GameDetailsContext } from '../state/GameDetailsContext.jsx'
 
-import FloatingFormEntry from './FloatingFormEntry.jsx'
 import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'
-
 import htmlRefReplacer from '../utils.js'
 
 export default function GameForm ({ addGame, editing }) {

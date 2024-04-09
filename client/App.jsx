@@ -1,14 +1,15 @@
 import React, { useReducer, useState } from 'react'
 
-import Header from './components/Header.jsx'
-import GameGrid from './components/GameGrid.jsx'
 import BSModal from './components/BSModal.jsx'
 import GameDetails from './components/GameDetails.jsx'
+import GameGrid from './components/GameGrid.jsx'
+import GameForm from './components/GameForm.jsx'
+import Header from './components/Header.jsx'
+
 import {
   GameDetailsContext,
   DetailsDispatchContext
 } from './state/GameDetailsContext.jsx'
-import GameForm from './components/GameForm.jsx'
 
 export default function App () {
   // State to manage whether the modal is open or not
