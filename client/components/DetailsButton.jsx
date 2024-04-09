@@ -19,14 +19,24 @@ const gameTitleStyle = {
 
 export default function DetailsButton ({
   game: { id, title, year, thumbnail },
-  showGameDetails
+  showGameDetails // will be replaced by dispatch
 }) {
   const dispatch = useContext(DetailsDispatchContext)
 
   function handleDetailsClick (event) {
     event.preventDefault()
     dispatch({ type: 'SET_DETAILS', id, title })
-    showGameDetails()
+    showGameDetails() // setModalOpen(true) and setShowDetails(true)
+
+    // case: 'DISPLAY'
+    // return {
+    //   ...state,
+    //   func: 'display',
+    //   id: action.id,
+    //   title: action.title,
+    //   showModal: true
+    // }
+    // dispatch({ type: 'DISPLAY', id, title })
   }
 
   return (

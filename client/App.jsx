@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from 'react'
+import React, { useEffect, useReducer, useState } from 'react'
 
 import BSModal from './components/BSModal.jsx'
 import GameDetails from './components/GameDetails.jsx'
@@ -29,6 +29,14 @@ export default function App (props) {
     modalTitle: null
   })
 
+  // const [reducer, dispatch2] = useReducer(gameReducer, {
+  //   func: '',
+  //   id: null,
+  //   title: null,
+  //   showModal: false,
+  //   game: null
+  // })
+
   return (
     <div className="container">
       <Header
@@ -40,15 +48,27 @@ export default function App (props) {
           setShowDetails(false)
           setEditing(false)
           dispatch({ type: 'SET_MODAL_TITLE', modalTitle: 'Add Game' })
+
+          // case: 'ADD'
+          // return {
+          //   ...state,
+          //   func: 'adding',
+          //   id: null,
+          //   title: 'Add Game',
+          //   showModal: true
+          // }
+          // dispatch({ type: 'ADD' })
         }}
       />
 
       <DetailsDispatchContext.Provider value={dispatch}>
         <GameGrid
+          // replaced by dispatch
           showGameDetails={() => {
             setModalOpen(true)
             setShowDetails(true)
           }}
+          // replaced by dispatch
           showEditForm={() => {
             setEditing(true)
             setModalOpen(true)
@@ -67,6 +87,8 @@ export default function App (props) {
             setShowDetails(true)
           }}
         >
+          {/* reducer.func === 'display' */}
+          {/* instead of editing, GameForm will get it from the context */}
           {showDetails
             ? (
             <GameDetails />
@@ -103,19 +125,37 @@ function gameReducer (state, action) {
 
     // Set the modal to display the game details
     case 'DISPLAY':
-      return { ...state, func: 'display', title: action.title }
+      return {
+        ...state,
+        func: 'display',
+        id: action.id,
+        title: action.title,
+        showModal: true
+      }
 
     // Set the modal to display the form for adding a game
     case 'ADD':
-      return { ...state, func: 'adding' }
+      return {
+        ...state,
+        func: 'adding',
+        id: null,
+        title: 'Add Game',
+        showModal: true
+      }
 
     // Set the modal to display the form for editing a game
     case 'EDIT':
-      return { ...state, func: 'editing', title: action.title }
+      return {
+        ...state,
+        func: 'editing',
+        id: action.id,
+        title: action.title,
+        showModal: true
+      }
 
     // Request the game details
     case 'REQUEST':
-      return { ...state, requestID: action.requestID }
+      return { ...state, id: action.id }
 
     // Receive the game details
     case 'RECEIVE':

@@ -14,7 +14,18 @@ export default function EditButton ({ gameID, title, showEditForm }) {
       title,
       modalTitle: `Editing "${title}"`
     })
-    showEditForm(gameID)
+    showEditForm(gameID) // setEditing(true), setModalOpen(true), setShowDetails(false)
+
+    // case: 'EDIT'
+    // return {
+    //   ...state,
+    //   func: 'editing',
+    //   id: action.id,
+    //   title: action.title,
+    //   showModal: true
+    // }
+    // dispatch({ type: 'EDIT', id, title })
+    // TODO: change gameID to id
   }
 
   return (
