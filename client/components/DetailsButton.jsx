@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import SummaryInfo from './SummaryInfo.jsx'
 
-import { DetailsDispatchContext } from '../state/GameDetailsContext.jsx'
+import { DetailsDispatchContext } from '../state/GameDetailsContext.js'
 
 const gameHeaderStyle = {
   display: 'block',
@@ -18,25 +18,14 @@ const gameTitleStyle = {
 }
 
 export default function DetailsButton ({
-  game: { id, title, year, thumbnail },
-  showGameDetails // will be replaced by dispatch
+  game: { id, title, year, thumbnail }
 }) {
   const dispatch = useContext(DetailsDispatchContext)
 
-  function handleDetailsClick (event) {
+  const handleDetailsClick = (event) => {
     event.preventDefault()
-    dispatch({ type: 'SET_DETAILS', id, title })
-    showGameDetails() // setModalOpen(true) and setShowDetails(true)
-
-    // case: 'DISPLAY'
-    // return {
-    //   ...state,
-    //   func: 'display',
-    //   id: action.id,
-    //   title: action.title,
-    //   showModal: true
-    // }
-    // dispatch({ type: 'DISPLAY', id, title })
+    dispatch({ type: 'REQUEST', id })
+    dispatch({ type: 'DETAILS', title })
   }
 
   return (
@@ -62,6 +51,5 @@ DetailsButton.propTypes = {
     title: PropTypes.string.isRequired,
     year: PropTypes.number,
     thumbnail: PropTypes.string
-  }).isRequired,
-  showGameDetails: PropTypes.func.isRequired
+  }).isRequired
 }

@@ -3,15 +3,14 @@ import PropTypes from 'prop-types'
 
 import Modal from 'bootstrap/js/dist/modal'
 
-import { GameDetailsContext } from '../state/GameDetailsContext'
+import { GameDetailsContext } from '../state/GameDetailsContext.js'
 
-export default function BSModal ({ isOpen, onClose, children }) {
-  const [modalObj, setModalObj] = useState(null)
+export default function BSModal ({ onClose, children }) {
+  const { title = 'N/A', show } = useContext(GameDetailsContext)
 
   // Create a reference for the modal
   const modalRef = useRef(null)
-
-  const { title = 'N/A' } = useContext(GameDetailsContext)
+  const [modalObj, setModalObj] = useState(null)
 
   useEffect(() => {
     if (modalRef.current && !modalObj) {
@@ -23,14 +22,14 @@ export default function BSModal ({ isOpen, onClose, children }) {
   // Show or hide the modal based on isOpen
   useEffect(() => {
     if (modalObj) {
-      if (isOpen) {
+      if (show) {
         modalObj.show()
       }
       else {
         modalObj.hide()
       }
     }
-  }, [isOpen, modalObj])
+  }, [show, modalObj])
 
   return (
     <div
@@ -72,8 +71,6 @@ export default function BSModal ({ isOpen, onClose, children }) {
 
 // Prop types
 BSModal.propTypes = {
-  title: PropTypes.string,
-  isOpen: PropTypes.bool.isRequired,
   onClose: PropTypes.func.isRequired,
   children: PropTypes.element
 }

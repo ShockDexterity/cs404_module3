@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { deleteGame } from '../dataHelper'
+import { deleteGame } from '../dataHelper.js'
 
 export default function DeleteButton ({ gameID, title, refreshGames }) {
   async function handleDelete (event) {

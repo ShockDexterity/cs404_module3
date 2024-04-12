@@ -8,7 +8,7 @@ import GameCard from './GameCard.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
 
-export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
+export default function GameGrid ({ refreshGames, setRefreshGames }) {
   const [summarizedGames, setSummarizedGames] = useState([])
 
   useEffect(() => {
@@ -23,29 +23,30 @@ export default function GameGrid ({ refreshGames, setRefreshGames, ...props }) {
     }
 
     if (refreshGames) {
-      console.log('fetching data')
       fetchData()
       setRefreshGames(false)
     }
   }, [refreshGames, setRefreshGames])
 
-  const gameCards = summarizedGames.map((game) => (
-    <GameCard key={game.id} gameID={game.id}>
-      <DetailsButton game={game} {...props} />
-      <div className="btn-group" role="group">
-        <EditButton gameID={game.id} title={game.title} {...props} />
-        <DeleteButton
-          gameID={game.id}
-          title={game.title}
-          refreshGames={() => setRefreshGames(true)}
-        />
-      </div>
-    </GameCard>
-  ))
+  if (summarizedGames.length === 0) {
+    return null
+  }
 
   return (
-    <div className="row gy-4 pt-4 pb-4" id="gameRow">
-      {gameCards}
+    <div className="row gy-4 pt-4 pb-4">
+      {summarizedGames.map((game) => (
+        <GameCard key={game.id}>
+          <DetailsButton game={game} />
+          <div className="btn-group" role="group">
+            <EditButton gameID={game.id} title={game.title} />
+            <DeleteButton
+              gameID={game.id}
+              title={game.title}
+              refreshGames={() => setRefreshGames(true)}
+            />
+          </div>
+        </GameCard>
+      ))}
     </div>
   )
 }

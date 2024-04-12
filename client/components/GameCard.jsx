@@ -10,9 +10,9 @@ const gameSummaryStyle = {
   verticalAlign: 'bottom'
 }
 
-export default function GameCard ({ gameID, children }) {
+export default function GameCard ({ children }) {
   return (
-    <div className="col-md-6 col-lg-3" id={gameID}>
+    <div className="col-md-6 col-lg-3">
       <div style={gameSummaryStyle}>{children}</div>
     </div>
   )
@@ -20,6 +20,5 @@ export default function GameCard ({ gameID, children }) {
 
 // Prop validation
 GameCard.propTypes = {
-  gameID: PropTypes.number.isRequired,
   children: PropTypes.node.isRequired
 }

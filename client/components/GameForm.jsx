@@ -1,17 +1,21 @@
-import React, { useEffect } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 
 import FloatingFormEntry from './FloatingFormEntry.jsx'
 
-import { GameDetailsContext } from '../state/GameDetailsContext.jsx'
+import { GameDetailsContext } from '../state/GameDetailsContext.js'
 
-import { editGame, insertGame, retrieveSpecificGame } from '../dataHelper.js'
+import { editGame, insertGame } from '../dataHelper.js'
 import htmlRefReplacer from '../utils.js'
 
-export default function GameForm ({ addGame, editing }) {
-  const { id: gameID = null } = React.useContext(GameDetailsContext)
+export default function GameForm ({ addGame }) {
+  const {
+    id: gameID = null,
+    func,
+    game: gameToEdit
+  } = useContext(GameDetailsContext)
 
-  async function handleSubmit (event) {
+  const handleSubmit = async (event) => {
     event.preventDefault()
 
     const form = event.target
@@ -19,7 +23,7 @@ export default function GameForm ({ addGame, editing }) {
 
     const data = Object.fromEntries(formData.entries())
 
-    if (!editing) {
+    if (func === 'adding') {
       try {
         const response = await insertGame(data)
 
@@ -35,7 +39,7 @@ export default function GameForm ({ addGame, editing }) {
         console.error(error)
       }
     }
-    else {
+    else if (func === 'editing') {
       data.id = gameID
       const response = await editGame(data)
 
@@ -49,29 +53,27 @@ export default function GameForm ({ addGame, editing }) {
     }
   }
 
-  const [id, setID] = React.useState('')
-  const [title, setTitle] = React.useState('')
-  const [year, setYear] = React.useState('')
-  const [rating, setRating] = React.useState('')
-  const [description, setDescription] = React.useState('')
-  const [minAge, setMinAge] = React.useState('')
-  const [minPlayers, setMinPlayers] = React.useState('')
-  const [maxPlayers, setMaxPlayers] = React.useState('')
-  const [minPlaytime, setMinPlaytime] = React.useState('')
-  const [maxPlaytime, setMaxPlaytime] = React.useState('')
-  const [weight, setWeight] = React.useState('')
-  const [designers, setDesigners] = React.useState('')
-  const [artists, setArtists] = React.useState('')
-  const [publishers, setPublishers] = React.useState('')
-  const [image, setImage] = React.useState('')
-  const [thumbnail, setThumbnail] = React.useState('')
+  const [id, setID] = useState('')
+  const [title, setTitle] = useState('')
+  const [year, setYear] = useState('')
+  const [rating, setRating] = useState('')
+  const [description, setDescription] = useState('')
+  const [minAge, setMinAge] = useState('')
+  const [minPlayers, setMinPlayers] = useState('')
+  const [maxPlayers, setMaxPlayers] = useState('')
+  const [minPlaytime, setMinPlaytime] = useState('')
+  const [maxPlaytime, setMaxPlaytime] = useState('')
+  const [weight, setWeight] = useState('')
+  const [designers, setDesigners] = useState('')
+  const [artists, setArtists] = useState('')
+  const [publishers, setPublishers] = useState('')
+  const [image, setImage] = useState('')
+  const [thumbnail, setThumbnail] = useState('')
 
   useEffect(() => {
-    async function setupEditing () {
-      if (gameID) {
+    if (func === 'editing') {
+      if (gameToEdit) {
         try {
-          const gameToEdit = await retrieveSpecificGame(gameID)
-
           setID(gameToEdit.id)
           setTitle(gameToEdit.title)
           setYear(gameToEdit.year ? gameToEdit.year : '')
@@ -102,10 +104,7 @@ export default function GameForm ({ addGame, editing }) {
         }
       }
     }
-    if (editing) {
-      setupEditing()
-    }
-    else {
+    else if (func === 'adding') {
       setID('')
       setTitle('')
       setYear('')
@@ -123,7 +122,7 @@ export default function GameForm ({ addGame, editing }) {
       setImage('')
       setThumbnail('')
     }
-  }, [gameID, editing])
+  }, [func, gameToEdit])
 
   return (
     <form onSubmit={handleSubmit}>
@@ -136,7 +135,7 @@ export default function GameForm ({ addGame, editing }) {
             placeholder=""
             value={id}
             onChange={(event) => setID(event.target.value)}
-            disabled={editing}
+            disabled={func === 'editing'}
             required
           />
           <label htmlFor="id">ID</label>
@@ -352,7 +351,7 @@ export default function GameForm ({ addGame, editing }) {
       </div>
 
       <button type="submit" className="btn btn-primary">
-        {editing ? 'Edit' : 'Submit'} Game
+        {func === 'editing' ? 'Edit' : 'Submit'} Game
       </button>
     </form>
   )
@@ -360,6 +359,5 @@ export default function GameForm ({ addGame, editing }) {
 
 // Prop validation
 GameForm.propTypes = {
-  addGame: PropTypes.func.isRequired,
-  editing: PropTypes.bool.isRequired
+  addGame: PropTypes.func.isRequired
 }

@@ -1,39 +1,16 @@
-import React, { useContext, useEffect, useState } from 'react'
+import React, { useContext } from 'react'
 // import PropTypes from 'prop-types'
 
 import DetailRangeItem from './DetailRangeItem.jsx'
 import DetailSingleItem from './DetailSingleItem.jsx'
 
-import { retrieveSpecificGame } from '../dataHelper'
-import { GameDetailsContext } from '../state/GameDetailsContext.jsx'
+import { GameDetailsContext } from '../state/GameDetailsContext.js'
 import htmlRefReplacer from '../utils.js'
 
 export default function GameDetails (props) {
-  const [game, setGame] = useState(null)
-
-  const { id: detailsID = null } = useContext(GameDetailsContext)
-
-  useEffect(() => {
-    async function fetchGame () {
-      if (detailsID) {
-        try {
-          const gameToShow = await retrieveSpecificGame(detailsID)
-          setGame(gameToShow)
-        }
-        catch (error) {
-          console.error(error)
-        }
-      }
-    }
-
-    fetchGame()
-  }, [detailsID])
+  const { game } = useContext(GameDetailsContext)
 
   if (!game) {
-    return null
-  }
-
-  if (!detailsID) {
     return null
   }
 
