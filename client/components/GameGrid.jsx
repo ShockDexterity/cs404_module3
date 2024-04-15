@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react'
-import PropTypes from 'prop-types'
+import React, { useContext, useEffect, useState } from 'react'
 
 import DetailsButton from './DetailsButton.jsx'
 import DeleteButton from './DeleteButton.jsx'
@@ -7,8 +6,15 @@ import EditButton from './EditButton.jsx'
 import GameCard from './GameCard.jsx'
 
 import { retrieveGameSummaries } from '../dataHelper.js'
+import {
+  DetailsDispatchContext,
+  GameDetailsContext
+} from '../state/GameDetailsContext.js'
 
-export default function GameGrid ({ refreshGames, setRefreshGames }) {
+export default function GameGrid (props) {
+  const { refresh } = useContext(GameDetailsContext)
+  const dispatch = useContext(DetailsDispatchContext)
+
   const [summarizedGames, setSummarizedGames] = useState([])
 
   useEffect(() => {
@@ -22,11 +28,11 @@ export default function GameGrid ({ refreshGames, setRefreshGames }) {
       }
     }
 
-    if (refreshGames) {
+    if (refresh) {
       fetchData()
-      setRefreshGames(false)
+      dispatch({ type: 'STOP_REFRESH' })
     }
-  }, [refreshGames, setRefreshGames])
+  }, [refresh, dispatch])
 
   if (summarizedGames.length === 0) {
     return null
@@ -42,7 +48,7 @@ export default function GameGrid ({ refreshGames, setRefreshGames }) {
             <DeleteButton
               gameID={game.id}
               title={game.title}
-              refreshGames={() => setRefreshGames(true)}
+              refreshGames={() => dispatch({ type: 'REFRESH' })}
             />
           </div>
         </GameCard>
@@ -51,7 +57,4 @@ export default function GameGrid ({ refreshGames, setRefreshGames }) {
   )
 }
 
-GameGrid.propTypes = {
-  refreshGames: PropTypes.bool,
-  setRefreshGames: PropTypes.func
-}
+GameGrid.propTypes = {}

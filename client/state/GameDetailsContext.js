@@ -7,6 +7,14 @@ export const DetailsDispatchContext = createContext(null)
 
 export function gameReducer (state, action) {
   switch (action.type) {
+    // Refresh the game grid
+    case 'REFRESH':
+      return { ...state, refresh: true }
+
+    // Stop refreshing the game grid
+    case 'STOP_REFRESH':
+      return { ...state, refresh: false }
+
     // Show the modal
     case 'SHOW':
       return { ...state, show: true }

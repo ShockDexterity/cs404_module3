@@ -1,11 +1,7 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
 
-import { DetailsDispatchContext } from '../state/GameDetailsContext.js'
-
-export default function EditButton ({ gameID, title }) {
-  const dispatch = useContext(DetailsDispatchContext)
-
+export default function EditButton ({ gameID, title, dispatch }) {
   const handleClick = (event) => {
     event.preventDefault()
     dispatch({ type: 'REQUEST', id: gameID })
@@ -22,5 +18,6 @@ export default function EditButton ({ gameID, title }) {
 // validate game properties
 EditButton.propTypes = {
   gameID: PropTypes.number.isRequired,
-  title: PropTypes.string.isRequired
+  title: PropTypes.string.isRequired,
+  dispatch: PropTypes.func.isRequired
 }

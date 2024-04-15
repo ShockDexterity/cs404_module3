@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer, useState } from 'react'
+import React, { useEffect, useReducer } from 'react'
 
 import BSModal from './components/BSModal.jsx'
 import GameDetails from './components/GameDetails.jsx'
@@ -15,14 +15,15 @@ import {
 
 export default function App (props) {
   // Let React know to re-render the GameGrid when a game is added
-  const [refreshGames, setRefreshGames] = useState(true)
+  // const [refreshGames, setRefreshGames] = useState(true)
 
   const [reducer, dispatch] = useReducer(gameReducer, {
     func: '',
     requestedID: '',
     title: '',
     show: false,
-    game: null
+    game: null,
+    refresh: true
   })
 
   useEffect(() => {
@@ -47,12 +48,11 @@ export default function App (props) {
         }}
       />
 
-      <DetailsDispatchContext.Provider value={dispatch}>
-        <GameGrid
-          refreshGames={refreshGames}
-          setRefreshGames={setRefreshGames}
-        />
-      </DetailsDispatchContext.Provider>
+      <GameDetailsContext.Provider value={reducer}>
+        <DetailsDispatchContext.Provider value={dispatch}>
+          <GameGrid />
+        </DetailsDispatchContext.Provider>
+      </GameDetailsContext.Provider>
 
       <GameDetailsContext.Provider value={reducer}>
         <BSModal
@@ -65,7 +65,7 @@ export default function App (props) {
             <GameDetails />
               )
             : (
-            <GameForm addGame={() => setRefreshGames(true)} />
+            <GameForm addGame={() => dispatch({ type: 'REFRESH' })} />
               )}
         </BSModal>
       </GameDetailsContext.Provider>
