@@ -20,7 +20,7 @@ app.post(/\/(.*)/, (req, res) => {
   res.status(501).json({ error: true, message: 'POST not implemented' })
 })
 
-// listen on port 5000
-app.listen(5000, () => {
-  console.log('Listening on port 5000')
+// listen on port 5001
+app.listen(5001, () => {
+  console.log('Listening on port 5001')
 })
