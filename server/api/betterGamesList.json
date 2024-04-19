@@ -17,14 +17,8 @@
     "image": "https://cf.geekdo-images.com/rpwCZAjYLD940NWwP3SRoA__original/img/yR0aoBVKNrAmmCuBeSzQnMflLYg=/0x0/filters:format(jpeg)/pic4718279.jpg",
     "rating": 7.59691,
     "weight": 4.3133,
-    "designers": [
-      "Karl-Heinz Schmiel"
-    ],
-    "artists": [
-      "Bernd Brunnhofer",
-      "Marcus Gschwendtner",
-      "Harald Lieske"
-    ],
+    "designers": ["Karl-Heinz Schmiel"],
+    "artists": ["Bernd Brunnhofer", "Marcus Gschwendtner", "Harald Lieske"],
     "publishers": [
       "Hans im Glück",
       "Moskito Spiele",
@@ -55,9 +49,7 @@
     "image": "https://cf.geekdo-images.com/6V2cU_EV_vPdE_C3MEyMkw__itemrep/img/5PllXAcUEihn4JdqHc9YM2qfU8M=/fit-in/246x300/filters:strip_icc()/pic6332152.png",
     "rating": 5.5,
     "weight": 1.11,
-    "designers": [
-      "Merle Robins"
-    ],
+    "designers": ["Merle Robins"],
     "artists": [
       "Shepard Fairey",
       "Keith Haring",
@@ -114,9 +106,7 @@
     "image": "https://cf.geekdo-images.com/0Kat0MrBaA_BSr3i0h8gdA__original/img/EUtvAIjIzP3ZwOCCRyYj6bB9tGg=/0x0/filters:format(jpeg)/pic55747.jpg",
     "rating": 6.88349,
     "weight": 3.6596,
-    "designers": [
-      "Rick Priestley"
-    ],
+    "designers": ["Rick Priestley"],
     "artists": [
       "Tony Ackland",
       "Dave Andrews",
@@ -140,10 +130,7 @@
       "John Sibbick",
       "Stephen Tappin"
     ],
-    "publishers": [
-      "Alfil Juegos",
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Alfil Juegos", "Games Workshop Ltd."]
   },
   {
     "id": 37165,
@@ -163,15 +150,9 @@
     "image": "https://cf.geekdo-images.com/WvXqowsucdzB3EUloOCF-Q__original/img/yJryKzFs32OHSyA2dgFqCIrJqDo=/0x0/filters:format(jpeg)/pic348981.jpg",
     "rating": 6.72645,
     "weight": 3.7528,
-    "designers": [
-      "Alessio Cavatore"
-    ],
-    "artists": [
-      "Robin Carey"
-    ],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "designers": ["Alessio Cavatore"],
+    "artists": ["Robin Carey"],
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 314243,
@@ -193,10 +174,7 @@
     "weight": 4.3125,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Games Workshop Ltd.",
-      "Hobby World"
-    ]
+    "publishers": ["Games Workshop Ltd.", "Hobby World"]
   },
   {
     "id": 160122,
@@ -218,9 +196,7 @@
     "weight": 0,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Rubinstein"
-    ]
+    "publishers": ["Rubinstein"]
   },
   {
     "id": 2,
@@ -240,16 +216,9 @@
     "image": "https://cf.geekdo-images.com/oQYhaJx5Lg3KcGis2reuWQ__original/img/owag4VgJDPyPt2ciYB9Hc5l4GnQ=/0x0/filters:format(jpeg)/pic4001505.jpg",
     "rating": 6.64511,
     "weight": 1.9643,
-    "designers": [
-      "G. W. \"Jerry\" D'Arcey"
-    ],
-    "artists": [
-      "Bob Pepper"
-    ],
-    "publishers": [
-      "E. S. Lowe Company Inc.",
-      "Milton Bradley"
-    ]
+    "designers": ["G. W. \"Jerry\" D'Arcey"],
+    "artists": ["Bob Pepper"],
+    "publishers": ["E. S. Lowe Company Inc.", "Milton Bradley"]
   },
   {
     "id": 68448,
@@ -269,9 +238,7 @@
     "image": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__original/img/jt70jJDZ1y1FWJs4ZQf5FI8APVY=/0x0/filters:format(jpeg)/pic7149798.jpg",
     "rating": 7.68608,
     "weight": 2.3165,
-    "designers": [
-      "Antoine Bauza"
-    ],
+    "designers": ["Antoine Bauza"],
     "artists": [
       "Dimitri Chappuis",
       "Miguel Coimbra",
@@ -312,12 +279,8 @@
     "image": "https://cf.geekdo-images.com/TiNI7bUCR2RPFMlvKEC9TQ__original/img/MEvPkkVu15k4DWM8CS41a-j5TL8=/0x0/filters:format(jpeg)/pic3476604.jpg",
     "rating": 6.99564,
     "weight": 2.3958,
-    "designers": [
-      "Filip Neduk"
-    ],
-    "artists": [
-      "Jakub Politzer"
-    ],
+    "designers": ["Filip Neduk"],
+    "artists": ["Jakub Politzer"],
     "publishers": [
       "Czech Games Edition",
       "Cranio Creations",
@@ -350,9 +313,7 @@
     "image": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__original/img/Oe2ZTGE2hUnyZQIEoIjM_zwYfcY=/0x0/filters:format(jpeg)/pic4893652.jpg",
     "rating": 7.03258,
     "weight": 2.1004,
-    "designers": [
-      "Dirk Henn"
-    ],
+    "designers": ["Dirk Henn"],
     "artists": [
       "Jörg Asselborn",
       "Jo Hartwig",
@@ -394,14 +355,8 @@
     "image": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__original/img/RMi0pEsP8agfH-tgYkeRGilD3oo=/0x0/filters:format(png)/pic4172124.png",
     "rating": 7.29596,
     "weight": 2.1295,
-    "designers": [
-      "Dan Cassar"
-    ],
-    "artists": [
-      "Philippe Guérin",
-      "Chris Quilliams",
-      "Beth Sobel"
-    ],
+    "designers": ["Dan Cassar"],
+    "artists": ["Philippe Guérin", "Chris Quilliams", "Beth Sobel"],
     "publishers": [
       "Filosofia Éditions",
       "Renegade Game Studios",
@@ -439,11 +394,7 @@
     "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__original/img/guEKCewM_2e5ugltSN3dTSwdZJI=/0x0/filters:format(jpeg)/pic3122349.jpg",
     "rating": 8.1313,
     "weight": 3.5331,
-    "designers": [
-      "Nate French",
-      "Maxine Juniper Newman",
-      "Matthew J. Newman"
-    ],
+    "designers": ["Nate French", "Maxine Juniper Newman", "Matthew J. Newman"],
     "artists": [
       "Christopher Hosch",
       "Marcin Jakubowski",
@@ -485,13 +436,8 @@
     "image": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__original/img/el-4Ilu9DeYunRT3r4TVP8Vy3uk=/0x0/filters:format(jpeg)/pic1170986.jpg",
     "rating": 6.48987,
     "weight": 1.6327,
-    "designers": [
-      "Emiliano Sciarra"
-    ],
-    "artists": [
-      "Stefano de Fazi",
-      "Alessandro Pierangelini"
-    ],
+    "designers": ["Emiliano Sciarra"],
+    "artists": ["Stefano de Fazi", "Alessandro Pierangelini"],
     "publishers": [
       "DV Games",
       "ABACUSSPIELE",
@@ -550,12 +496,7 @@
       "Christopher Moeller",
       "Peter Whitley"
     ],
-    "publishers": [
-      "Avalon Hill",
-      "Wizards of the Coast",
-      "Asmodee",
-      "Hasbro"
-    ]
+    "publishers": ["Avalon Hill", "Wizards of the Coast", "Asmodee", "Hasbro"]
   },
   {
     "id": 170216,
@@ -575,9 +516,7 @@
     "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg",
     "rating": 7.93429,
     "weight": 2.8791,
-    "designers": [
-      "Eric M. Lang"
-    ],
+    "designers": ["Eric M. Lang"],
     "artists": [
       "Henning Ludvigsen",
       "Thierry Masson",
@@ -622,11 +561,7 @@
     "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__original/img/FpyxH41Y6_ROoePAilPNEhXnzO8=/0x0/filters:format(jpeg)/pic3490053.jpg",
     "rating": 8.60043,
     "weight": 3.8846,
-    "designers": [
-      "Gavan Brown",
-      "Matt Tolman",
-      "Martin Wallace"
-    ],
+    "designers": ["Gavan Brown", "Matt Tolman", "Martin Wallace"],
     "artists": [
       "Gavan Brown",
       "Lina Cossette",
@@ -674,12 +609,8 @@
     "image": "https://cf.geekdo-images.com/b4qSA5fvVJe9QQOKPCMoNA__original/img/WVKN6ArSni8knEze0BT4VOYB-AY=/0x0/filters:format(jpeg)/pic2907864.jpg",
     "rating": 6.83048,
     "weight": 1.2507,
-    "designers": [
-      "Ludovic Maublanc"
-    ],
-    "artists": [
-      "John Kovalic"
-    ],
+    "designers": ["Ludovic Maublanc"],
+    "artists": ["John Kovalic"],
     "publishers": [
       "Repos Production",
       "Asterion Press",
@@ -707,15 +638,9 @@
     "image": "https://cf.geekdo-images.com/04Zfpi5663NsO5u_eRhi7Q__original/img/qs1wBLuogb_eIq6tnr4H074m8lM=/0x0/filters:format(png)/pic5673416.png",
     "rating": 7.23254,
     "weight": 2.4231,
-    "designers": [
-      "Eric Mosso"
-    ],
-    "artists": [
-      "Michael Menzel"
-    ],
-    "publishers": [
-      "Thunderworks Games"
-    ]
+    "designers": ["Eric Mosso"],
+    "artists": ["Michael Menzel"],
+    "publishers": ["Thunderworks Games"]
   },
   {
     "id": 295947,
@@ -735,12 +660,8 @@
     "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ=/0x0/filters:format(jpeg)/pic5100691.jpg",
     "rating": 7.96349,
     "weight": 1.8393,
-    "designers": [
-      "Randy Flynn"
-    ],
-    "artists": [
-      "Beth Sobel"
-    ],
+    "designers": ["Randy Flynn"],
+    "artists": ["Beth Sobel"],
     "publishers": [
       "Flatout Games",
       "Alderac Entertainment Group",
@@ -783,16 +704,9 @@
     "image": "https://cf.geekdo-images.com/djWGzAqcGYKhQCKo6Xeg-g__original/img/gWzeuFpSL-pNbWKVEzbWYe3nqhs=/0x0/filters:format(png)/pic5932932.png",
     "rating": 8.34582,
     "weight": 2.4706,
-    "designers": [
-      "Ted Alspach"
-    ],
-    "artists": [
-      "Agnieszka Dabrowiecka",
-      "Alanna Kelsey"
-    ],
-    "publishers": [
-      "Bézier Games"
-    ]
+    "designers": ["Ted Alspach"],
+    "artists": ["Agnieszka Dabrowiecka", "Alanna Kelsey"],
+    "publishers": ["Bézier Games"]
   },
   {
     "id": 102794,
@@ -812,13 +726,8 @@
     "image": "https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__original/img/h9il8XnFB0iqHNHsNTPNGxJZWdM=/0x0/filters:format(jpeg)/pic1790789.jpg",
     "rating": 7.95048,
     "weight": 3.7791,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Javier González Cava",
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Javier González Cava", "Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -857,9 +766,7 @@
     "image": "https://cf.geekdo-images.com/yTe9522sHL-3nhfAMH2cTg__original/img/zN6-x2bWP6lsDAC2FNsvU6ivQIc=/0x0/filters:format(jpeg)/pic1318481.jpg",
     "rating": 7.66293,
     "weight": 3.1991,
-    "designers": [
-      "Eric M. Lang"
-    ],
+    "designers": ["Eric M. Lang"],
     "artists": [
       "Tim Arney-O'Neil",
       "Kevin Childress",
@@ -894,10 +801,7 @@
     "image": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__original/img/1Fpyz7j7rTvMPRiDdPjn0Vf0m2k=/0x0/filters:format(png)/pic4885780.png",
     "rating": 8.54844,
     "weight": 2.7132,
-    "designers": [
-      "Andy Clautice",
-      "Paul Dennen"
-    ],
+    "designers": ["Andy Clautice", "Paul Dennen"],
     "artists": [
       "Clay Brooks",
       "Anika Burrell",
@@ -935,12 +839,8 @@
     "image": "https://cf.geekdo-images.com/5xPxroaMsZz2w8GG0-_9Mg__original/img/WGKTmkol-f7V9aWs3hr4qKDO0M4=/0x0/filters:format(jpeg)/pic4456791.jpg",
     "rating": 6.65624,
     "weight": 1.8478,
-    "designers": [
-      "(Uncredited)"
-    ],
-    "artists": [
-      "Tim Hildebrandt"
-    ],
+    "designers": ["(Uncredited)"],
+    "artists": ["Tim Hildebrandt"],
     "publishers": [
       "Hasbro",
       "Parker Brothers",
@@ -966,13 +866,8 @@
     "image": "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__original/img/okv8rhQupsrXsEJsovQ_BJV5hKA=/0x0/filters:format(jpeg)/pic2869710.jpg",
     "rating": 7.09415,
     "weight": 1.828,
-    "designers": [
-      "Christophe Raimbault"
-    ],
-    "artists": [
-      "Ian Parovel",
-      "Jordi Valbuena"
-    ],
+    "designers": ["Christophe Raimbault"],
+    "artists": ["Ian Parovel", "Jordi Valbuena"],
     "publishers": [
       "Ludonaute",
       "Asmodee",
@@ -1058,13 +953,8 @@
     "image": "https://cf.geekdo-images.com/7ejbxsn-UtLl3ehamuAEdw__original/img/HJOZG6y87_skppfIqX-voRlhNxE=/0x0/filters:format(jpeg)/pic79413.jpg",
     "rating": 8.03115,
     "weight": 1.2351,
-    "designers": [
-      "(Uncredited)"
-    ],
-    "artists": [
-      "Allison Litchfield",
-      "Orlando Ramirez"
-    ],
+    "designers": ["(Uncredited)"],
+    "artists": ["Allison Litchfield", "Orlando Ramirez"],
     "publishers": [
       "(Public Domain)",
       "alfaset",
@@ -1113,15 +1003,8 @@
     "image": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__original/img/NjrnSg1aeia8I4eETDU3I1Br7a8=/0x0/filters:format(jpeg)/pic3016500.jpg",
     "rating": 7.47042,
     "weight": 3.0102,
-    "designers": [
-      "Jonathan Gilmour",
-      "Isaac Vega"
-    ],
-    "artists": [
-      "David Richards",
-      "Fernanda Suárez",
-      "Peter Wocken"
-    ],
+    "designers": ["Jonathan Gilmour", "Isaac Vega"],
+    "artists": ["David Richards", "Fernanda Suárez", "Peter Wocken"],
     "publishers": [
       "Plaid Hat Games",
       "Arclight Games",
@@ -1159,12 +1042,8 @@
     "image": "https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__original/img/8G3m0Cc_y3Qa0jcFn4ynWTwOV3A=/0x0/filters:format(jpeg)/pic3477004.jpg",
     "rating": 7.22863,
     "weight": 1.9732,
-    "designers": [
-      "Régis Bonnessée"
-    ],
-    "artists": [
-      "Biboun"
-    ],
+    "designers": ["Régis Bonnessée"],
+    "artists": ["Biboun"],
     "publishers": [
       "Libellud",
       "ADC Blackfire Entertainment",
@@ -1197,12 +1076,8 @@
     "image": "https://cf.geekdo-images.com/8YPBUoAlAvGSfcRTxr7EZQ__original/img/OTf94SbWPGDsg5Oms3D8S4tDja8=/0x0/filters:format(png)/pic7104213.png",
     "rating": 7.90228,
     "weight": 2.9688,
-    "designers": [
-      "Dave Beck"
-    ],
-    "artists": [
-      "Erik Evensen"
-    ],
+    "designers": ["Dave Beck"],
+    "artists": ["Erik Evensen"],
     "publishers": [
       "Paverson Games",
       "Boardgame Mall",
@@ -1234,9 +1109,7 @@
     "image": "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__original/img/VHMKsFZvoK2KKGZiLyoKZb_YhNQ=/0x0/filters:format(jpeg)/pic460011.jpg",
     "rating": 7.69191,
     "weight": 2.4136,
-    "designers": [
-      "Donald X. Vaccarino"
-    ],
+    "designers": ["Donald X. Vaccarino"],
     "artists": [
       "Matthias Catrein",
       "Julien Delval",
@@ -1293,17 +1166,9 @@
     "image": "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__original/img/7PyNxWs85_OKGOm_jYVFvPwAViE=/0x0/filters:format(jpeg)/pic4815198.jpg",
     "rating": 7.94966,
     "weight": 3.989,
-    "designers": [
-      "Bill Eberle",
-      "Jack Kittredge",
-      "Peter Olotka"
-    ],
-    "artists": [
-      "Ilya Baranovsky"
-    ],
-    "publishers": [
-      "Gale Force Nine, LLC"
-    ]
+    "designers": ["Bill Eberle", "Jack Kittredge", "Peter Olotka"],
+    "artists": ["Ilya Baranovsky"],
+    "publishers": ["Gale Force Nine, LLC"]
   },
   {
     "id": 146021,
@@ -1323,10 +1188,7 @@
     "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__original/img/vxK08kQAEn5qPbejK2CUTyWOsig=/0x0/filters:format(jpeg)/pic1872452.jpg",
     "rating": 7.75533,
     "weight": 3.3191,
-    "designers": [
-      "Corey Konieczka",
-      "Nikki Valens"
-    ],
+    "designers": ["Corey Konieczka", "Nikki Valens"],
     "artists": [
       "Anders Finér",
       "David Griffith",
@@ -1371,14 +1233,8 @@
     "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
     "rating": 8.03316,
     "weight": 2.8158,
-    "designers": [
-      "James A. Wilson"
-    ],
-    "artists": [
-      "Andrew Bosley",
-      "Cody Jones",
-      "Dann May"
-    ],
+    "designers": ["James A. Wilson"],
+    "artists": ["Andrew Bosley", "Cody Jones", "Dann May"],
     "publishers": [
       "Starling Games (II)",
       "Abraxas",
@@ -1419,15 +1275,8 @@
     "image": "https://cf.geekdo-images.com/eGXgHOp40KYVqUGoSJ09bw__original/img/V17DBpCDqoRpLPwa3jZNGNqwvm8=/0x0/filters:format(jpeg)/pic8031112.jpg",
     "rating": 7.62266,
     "weight": 2.4247,
-    "designers": [
-      "Matt Leacock",
-      "Paolo Mori"
-    ],
-    "artists": [
-      "Atha Kanaani",
-      "Olly Lawson",
-      "Antonio Maínez"
-    ],
+    "designers": ["Matt Leacock", "Paolo Mori"],
+    "artists": ["Atha Kanaani", "Olly Lawson", "Antonio Maínez"],
     "publishers": [
       "Z-Man Games",
       "Asmodee",
@@ -1456,15 +1305,9 @@
     "image": "https://cf.geekdo-images.com/PBF3gb_a5IYLdMfKrYyKGQ__original/img/KBE5RJGsdJ6HqaoZooS-NSzuRQU=/0x0/filters:format(jpeg)/pic6966015.jpg",
     "rating": 7.53078,
     "weight": 2.8182,
-    "designers": [
-      "Kate Otte"
-    ],
-    "artists": [
-      "Kate Otte"
-    ],
-    "publishers": [
-      "(Self-Published)"
-    ]
+    "designers": ["Kate Otte"],
+    "artists": ["Kate Otte"],
+    "publishers": ["(Self-Published)"]
   },
   {
     "id": 100901,
@@ -1484,13 +1327,8 @@
     "image": "https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__original/img/ri91i22ujLCZqxXKhFIdVDPGe8Y=/0x0/filters:format(jpeg)/pic1129370.jpg",
     "rating": 7.16127,
     "weight": 2.1962,
-    "designers": [
-      "Kevin Lanzing"
-    ],
-    "artists": [
-      "Luis Francisco",
-      "George Patsouras"
-    ],
+    "designers": ["Kevin Lanzing"],
+    "artists": ["Luis Francisco", "George Patsouras"],
     "publishers": [
       "Indie Boards & Cards",
       "999 Games",
@@ -1523,13 +1361,8 @@
     "image": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__original/img/8smpJMuHROyrbu8FP-EOLXjEi0w=/0x0/filters:format(jpeg)/pic1528722.jpg",
     "rating": 7.08042,
     "weight": 2.0363,
-    "designers": [
-      "Matt Leacock"
-    ],
-    "artists": [
-      "C. B. Canga",
-      "Tyler Edlin"
-    ],
+    "designers": ["Matt Leacock"],
+    "artists": ["C. B. Canga", "Tyler Edlin"],
     "publishers": [
       "Gamewright",
       "ADC Blackfire Entertainment",
@@ -1566,12 +1399,8 @@
     "image": "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__original/img/YSzUnMqcnTg-mSk8VEnBQaRRmJU=/0x0/filters:format(png)/pic5241325.png",
     "rating": 7.12458,
     "weight": 2.4267,
-    "designers": [
-      "Grant Rodiek"
-    ],
-    "artists": [
-      "Kyle Ferrin"
-    ],
+    "designers": ["Grant Rodiek"],
+    "artists": ["Kyle Ferrin"],
     "publishers": [
       "Leder Games",
       "2Tomatoes Games",
@@ -1602,9 +1431,7 @@
     "image": "https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__original/img/ZNt6bSM6kCGFzN1_mzuPl4wCbyM=/0x0/filters:format(jpeg)/pic6177719.jpg",
     "rating": 8.86479,
     "weight": 4.3478,
-    "designers": [
-      "Isaac Childres"
-    ],
+    "designers": ["Isaac Childres"],
     "artists": [
       "Francesca Baerald",
       "David Demaret",
@@ -1637,13 +1464,8 @@
     "image": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__original/img/5vUNCkVDoQpcTfmlhFzkS4e1EaQ=/0x0/filters:format(jpeg)/pic3926631.jpg",
     "rating": 7.34975,
     "weight": 2.3297,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "artists": [
-      "Tomáš Kučerovský",
-      "Radim Pech"
-    ],
+    "designers": ["Vlaada Chvátil"],
+    "artists": ["Tomáš Kučerovský", "Radim Pech"],
     "publishers": [
       "Czech Games Edition",
       "Albi",
@@ -1681,18 +1503,9 @@
     "image": "https://cf.geekdo-images.com/ApDYRpgfdCMhEszegyHiEA__original/img/TxrPXfITtOp4XAIjOHnu-TooQiY=/0x0/filters:format(jpeg)/pic1013640.jpg",
     "rating": 7.30146,
     "weight": 2.6655,
-    "designers": [
-      "Matthias Cramer"
-    ],
-    "artists": [
-      "Loïc Billiau",
-      "Harald Lieske"
-    ],
-    "publishers": [
-      "alea",
-      "Ravensburger",
-      "Rio Grande Games"
-    ]
+    "designers": ["Matthias Cramer"],
+    "artists": ["Loïc Billiau", "Harald Lieske"],
+    "publishers": ["alea", "Ravensburger", "Rio Grande Games"]
   },
   {
     "id": 195539,
@@ -1712,14 +1525,8 @@
     "image": "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__original/img/aeV8Wk1EtLvu4n-ZXAlOAJGmeJk=/0x0/filters:format(jpeg)/pic3364797.jpg",
     "rating": 7.52663,
     "weight": 2.6474,
-    "designers": [
-      "Eric M. Lang"
-    ],
-    "artists": [
-      "Nicolas Fructus",
-      "Karl Kopinski",
-      "Richard Wright"
-    ],
+    "designers": ["Eric M. Lang"],
+    "artists": ["Nicolas Fructus", "Karl Kopinski", "Richard Wright"],
     "publishers": [
       "CMON Global Limited",
       "ADC Blackfire Entertainment",
@@ -1752,13 +1559,8 @@
     "image": "https://cf.geekdo-images.com/dTREkApZZA0e46TYFmVgIA__original/img/QWCi5b5HBizPfVYrIHo_IU8wKT8=/0x0/filters:format(jpeg)/pic2748424.jpg",
     "rating": 8.20863,
     "weight": 2.7982,
-    "designers": [
-      "Wolfgang Kramer",
-      "Richard Ulrich"
-    ],
-    "artists": [
-      "Doris Matthäus"
-    ],
+    "designers": ["Wolfgang Kramer", "Richard Ulrich"],
+    "artists": ["Doris Matthäus"],
     "publishers": [
       "Hans im Glück",
       "999 Games",
@@ -1789,13 +1591,8 @@
     "image": "https://cf.geekdo-images.com/5JuQCtSAeSZpAL3WgWdwow__original/img/hn5gRpKVlmB3Ds9gIxD7k2SrVt4=/0x0/filters:format(png)/pic3719610.png",
     "rating": 7.1371,
     "weight": 1.9776,
-    "designers": [
-      "Fabien Riffaud",
-      "Juan Rodriguez"
-    ],
-    "artists": [
-      "Tignous"
-    ],
+    "designers": ["Fabien Riffaud", "Juan Rodriguez"],
+    "artists": ["Tignous"],
     "publishers": [
       "Sweet Games",
       "BoardM Factory",
@@ -1828,14 +1625,8 @@
     "image": "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__original/img/5vNHZiTEhK4aRDuGXv5KImp9cmQ=/0x0/filters:format(jpeg)/pic2007286.jpg",
     "rating": 7.04161,
     "weight": 1.691,
-    "designers": [
-      "Antoine Bauza"
-    ],
-    "artists": [
-      "Antoine Bauza",
-      "Gérald Guerlais",
-      "Albertine Ralenti"
-    ],
+    "designers": ["Antoine Bauza"],
+    "artists": ["Antoine Bauza", "Gérald Guerlais", "Albertine Ralenti"],
     "publishers": [
       "ABACUSSPIELE",
       "Cocktail Games",
@@ -1882,13 +1673,8 @@
     "image": "https://cf.geekdo-images.com/P0B68R2CLFTuiD8M9lCYPQ__original/img/3tMVOxYhmuL3fpqW2256qUXqWxE=/0x0/filters:format(jpeg)/pic3563904.jpg",
     "rating": 7.54007,
     "weight": 3.1923,
-    "designers": [
-      "Michael Kiesling",
-      "Andreas Schmidt"
-    ],
-    "artists": [
-      "Christian Fiore"
-    ],
+    "designers": ["Michael Kiesling", "Andreas Schmidt"],
+    "artists": ["Christian Fiore"],
     "publishers": [
       "eggertspiele",
       "Arclight Games",
@@ -1915,18 +1701,9 @@
     "image": "https://cf.geekdo-images.com/B94aOIMTDarFvuewkSxjyw__original/img/YtTkJpcn3_RrjpF9aNUKIVOKTDI=/0x0/filters:format(jpeg)/pic4552910.jpg",
     "rating": 7.1156,
     "weight": 2.4444,
-    "designers": [
-      "Matthew O'Malley",
-      "Ben Rosset"
-    ],
-    "artists": [
-      "SaRae Henderson",
-      "Adam Rebottaro"
-    ],
-    "publishers": [
-      "Dice Hate Me Games",
-      "Greater Than Games, LLC"
-    ]
+    "designers": ["Matthew O'Malley", "Ben Rosset"],
+    "artists": ["SaRae Henderson", "Adam Rebottaro"],
+    "publishers": ["Dice Hate Me Games", "Greater Than Games, LLC"]
   },
   {
     "id": 177524,
@@ -1946,12 +1723,8 @@
     "image": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__original/img/rIyNSXqNgGs4Yqt0xL5CdTp9grg=/0x0/filters:format(png)/pic3320017.png",
     "rating": 6.79041,
     "weight": 1.0353,
-    "designers": [
-      "Brian Gomez"
-    ],
-    "artists": [
-      "Reinis Pētersons"
-    ],
+    "designers": ["Brian Gomez"],
+    "artists": ["Reinis Pētersons"],
     "publishers": [
       "Brain Games",
       "AMIGO",
@@ -1989,13 +1762,8 @@
     "image": "https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__original/img/pKq-l1Ms78olHwMbZYMa_x6m-fM=/0x0/filters:format(jpeg)/pic4781085.jpg",
     "rating": 7.71246,
     "weight": 2.354,
-    "designers": [
-      "Frank West"
-    ],
-    "artists": [
-      "Dragolisco",
-      "Frank West"
-    ],
+    "designers": ["Frank West"],
+    "artists": ["Dragolisco", "Frank West"],
     "publishers": [
       "The City of Games",
       "Arclight Games",
@@ -2032,13 +1800,8 @@
     "image": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__original/img/zUnAdsgt4dCxvtoRDc_9DHbic0M=/0x0/filters:format(jpeg)/pic5100947.jpg",
     "rating": 7.48738,
     "weight": 1.4657,
-    "designers": [
-      "Sébastien Pauchon"
-    ],
-    "artists": [
-      "Vincent Dutrait",
-      "Alexandre Roche"
-    ],
+    "designers": ["Sébastien Pauchon"],
+    "artists": ["Vincent Dutrait", "Alexandre Roche"],
     "publishers": [
       "GameWorks SàRL",
       "Space Cowboys",
@@ -2076,15 +1839,8 @@
     "image": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__original/img/kRFfkVnQRsBDcbO46TKS6PcT6aE=/0x0/filters:format(jpeg)/pic3979527.jpg",
     "rating": 7.65431,
     "weight": 3.0014,
-    "designers": [
-      "Jacques Bariot",
-      "Guillaume Montiage"
-    ],
-    "artists": [
-      "Dimitri Bielak",
-      "Émile Denis",
-      "Nicolas Fructus"
-    ],
+    "designers": ["Jacques Bariot", "Guillaume Montiage"],
+    "artists": ["Dimitri Bielak", "Émile Denis", "Nicolas Fructus"],
     "publishers": [
       "Matagot",
       "Asmodee",
@@ -2117,14 +1873,8 @@
     "image": "https://cf.geekdo-images.com/FJlTdSMkK5hMNtCympJFmg__original/img/pr_jKPa74JjBBm30Mo9Uj9Jq1-w=/0x0/filters:format(jpeg)/pic5429837.jpg",
     "rating": 7.7791,
     "weight": 2.2517,
-    "designers": [
-      "Hjalmar Hach",
-      "Lorenzo Silva"
-    ],
-    "artists": [
-      "Giorgio Baroni",
-      "Giulia Ghigini"
-    ],
+    "designers": ["Hjalmar Hach", "Lorenzo Silva"],
+    "artists": ["Giorgio Baroni", "Giulia Ghigini"],
     "publishers": [
       "Horrible Guild",
       "999 Games",
@@ -2160,14 +1910,8 @@
     "image": "https://cf.geekdo-images.com/0aS85HPSKKGHGVvWQEEZew__original/img/Ww2bs-arDFMqVhte3VOtmGlq_SQ=/0x0/filters:format(jpeg)/pic6795274.jpg",
     "rating": 7.71816,
     "weight": 3.1543,
-    "designers": [
-      "Gerard Ascensi",
-      "Ferran Renalias"
-    ],
-    "artists": [
-      "Jared Blando",
-      "Enrique Corominas"
-    ],
+    "designers": ["Gerard Ascensi", "Ferran Renalias"],
+    "artists": ["Jared Blando", "Enrique Corominas"],
     "publishers": [
       "Devir",
       "Buly Games",
@@ -2196,16 +1940,9 @@
     "image": "https://cf.geekdo-images.com/e5aZF2MzC7loGgH9r-kyRQ__original/img/NBTa8g7aQebC4An9U_X1RD4fbSM=/0x0/filters:format(png)/pic6524120.png",
     "rating": 7.07428,
     "weight": 4.1316,
-    "designers": [
-      "Jason Brooks"
-    ],
-    "artists": [
-      "James Churchill",
-      "Yoma"
-    ],
-    "publishers": [
-      "Brookspun Games"
-    ]
+    "designers": ["Jason Brooks"],
+    "artists": ["James Churchill", "Yoma"],
+    "publishers": ["Brookspun Games"]
   },
   {
     "id": 161533,
@@ -2225,12 +1962,8 @@
     "image": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__original/img/hVArRkZYHiPTGTfi0DPR58i4o44=/0x0/filters:format(jpeg)/pic3209553.jpg",
     "rating": 8.19133,
     "weight": 4.5852,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Angry Lion Games",
@@ -2262,16 +1995,8 @@
     "image": "https://cf.geekdo-images.com/8G6GkImjt0F_L5aYb8fmtQ__original/img/dOiPu4wGisyuw3KxDketwCSpOfY=/0x0/filters:format(jpeg)/pic3175535.jpg",
     "rating": 7.8507,
     "weight": 3.2995,
-    "designers": [
-      "Flaminia Brasini",
-      "Virginio Gigli",
-      "Simone Luciani"
-    ],
-    "artists": [
-      "Klemens Franz",
-      "Andrea Kattnig",
-      "Andreas Resch"
-    ],
+    "designers": ["Flaminia Brasini", "Virginio Gigli", "Simone Luciani"],
+    "artists": ["Klemens Franz", "Andrea Kattnig", "Andreas Resch"],
     "publishers": [
       "Cranio Creations",
       "Albi",
@@ -2304,14 +2029,8 @@
     "image": "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__original/img/H4XHVffQ4SOxgWoG396I9LUrwg8=/0x0/filters:format(png)/pic4783831.png",
     "rating": 6.60528,
     "weight": 1.5273,
-    "designers": [
-      "Masao Suganuma"
-    ],
-    "artists": [
-      "Noboru Hotta",
-      "Ian Parovel",
-      "Mirko Suzuki"
-    ],
+    "designers": ["Masao Suganuma"],
+    "artists": ["Noboru Hotta", "Ian Parovel", "Mirko Suzuki"],
     "publishers": [
       "Grounding",
       "Devir",
@@ -2351,13 +2070,8 @@
     "image": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__original/img/yhnCcq9UplffqjSCe08mjTFvgOM=/0x0/filters:format(jpeg)/pic4917407.jpg",
     "rating": 8.03941,
     "weight": 3.9129,
-    "designers": [
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Fiore GmbH",
-      "Aline Kirrmann"
-    ],
+    "designers": ["Alexander Pfister"],
+    "artists": ["Fiore GmbH", "Aline Kirrmann"],
     "publishers": [
       "Game's Up",
       "BoardM Factory",
@@ -2391,10 +2105,7 @@
     "image": "https://cf.geekdo-images.com/lmj6FZslw7ZN9KwEgwC5ww__original/img/vRyOYd79g9jLZ2thUcKnSkxEZlQ=/0x0/filters:format(jpeg)/pic6431396.jpg",
     "rating": 8.82041,
     "weight": 2.3333,
-    "designers": [
-      "Samuel E. Desjardins",
-      "Nicolas Fournier"
-    ],
+    "designers": ["Samuel E. Desjardins", "Nicolas Fournier"],
     "artists": [
       "Ariane Boies",
       "Nicolas Fournier",
@@ -2403,9 +2114,7 @@
       "Adrian Stone",
       "Unreal Studio Works"
     ],
-    "publishers": [
-      "Orion Games"
-    ]
+    "publishers": ["Orion Games"]
   },
   {
     "id": 319592,
@@ -2425,17 +2134,9 @@
     "image": "https://cf.geekdo-images.com/WEPlS84EYpImR4NdrZvMww__original/img/Sf4cA9NN1PnmZ53LERqjixo7740=/0x0/filters:format(png)/pic7606849.png",
     "rating": 6.73325,
     "weight": 2.0714,
-    "designers": [
-      "Ben Downton"
-    ],
-    "artists": [
-      "David Grigoryan"
-    ],
-    "publishers": [
-      "Don't Panic Games",
-      "Prometheus Game Labs",
-      "Reflexshop"
-    ]
+    "designers": ["Ben Downton"],
+    "artists": ["David Grigoryan"],
+    "publishers": ["Don't Panic Games", "Prometheus Game Labs", "Reflexshop"]
   },
   {
     "id": 156546,
@@ -2455,18 +2156,9 @@
     "image": "https://cf.geekdo-images.com/4ipWVnxUSwnSVywPTitgvQ__original/img/8HVhyVZH9-j3g2vge43Xvji-vX0=/0x0/filters:format(png)/pic6346032.png",
     "rating": 7.78498,
     "weight": 1.0811,
-    "designers": [
-      "Alex Hague",
-      "Justin Vickers"
-    ],
-    "artists": [
-      "Cécile Gariépy",
-      "Alex Hague"
-    ],
-    "publishers": [
-      "CMYK",
-      "Palm Court"
-    ]
+    "designers": ["Alex Hague", "Justin Vickers"],
+    "artists": ["Cécile Gariépy", "Alex Hague"],
+    "publishers": ["CMYK", "Palm Court"]
   },
   {
     "id": 226320,
@@ -2486,14 +2178,8 @@
     "image": "https://cf.geekdo-images.com/EhXCpSR6ambdYuKbrej3UQ__original/img/M1WeUiGRTGOeiB9prqpy07OIKGM=/0x0/filters:format(jpeg)/pic4134810.jpg",
     "rating": 7.24565,
     "weight": 2.0085,
-    "designers": [
-      "Hoby Chou",
-      "Vienna Chou"
-    ],
-    "artists": [
-      "Noah Adelman",
-      "Katie Khau"
-    ],
+    "designers": ["Hoby Chou", "Vienna Chou"],
+    "artists": ["Noah Adelman", "Katie Khau"],
     "publishers": [
       "Stonemaier Games",
       "(Self-Published)",
@@ -2527,9 +2213,7 @@
     "image": "https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__original/img/sA6r1p6BO_Tgyc3-xgIESC9Y-vg=/0x0/filters:format(jpeg)/pic5073276.jpg",
     "rating": 8.27673,
     "weight": 3.4597,
-    "designers": [
-      "Adam Kwapiński"
-    ],
+    "designers": ["Adam Kwapiński"],
     "artists": [
       "Piotr Foksowicz",
       "Patryk Jędraszek",
@@ -2576,10 +2260,7 @@
       "Ben Goldman",
       "Brian O'Neill"
     ],
-    "artists": [
-      "Guillaume Ducos",
-      "Catherine Hamilton"
-    ],
+    "artists": ["Guillaume Ducos", "Catherine Hamilton"],
     "publishers": [
       "NorthStar Game Studio",
       "Ediciones MasQueOca",
@@ -2612,12 +2293,8 @@
     "image": "https://cf.geekdo-images.com/MLvyN4VJ3QNXBKxli8XLiA__original/img/eDqWAa7vUdsYE6_LXVNzIdClbhw=/0x0/filters:format(jpeg)/pic5089618.jpg",
     "rating": 7.68665,
     "weight": 3.8884,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -2650,9 +2327,7 @@
     "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__original/img/IsrvRLpUV1TEyZsO5rC-btXaPz0=/0x0/filters:format(jpeg)/pic1534148.jpg",
     "rating": 7.53986,
     "weight": 2.4011,
-    "designers": [
-      "Matt Leacock"
-    ],
+    "designers": ["Matt Leacock"],
     "artists": [
       "Josh Cappel",
       "Christian Hanisch",
@@ -2715,12 +2390,8 @@
     "image": "https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__original/img/_KNgPoC_4l7iN0ntbFILexOJpfc=/0x0/filters:format(jpeg)/pic4852372.jpg",
     "rating": 7.67668,
     "weight": 2.1315,
-    "designers": [
-      "Henry Audubon"
-    ],
-    "artists": [
-      "Fifty-Nine Parks Print Series"
-    ],
+    "designers": ["Henry Audubon"],
+    "artists": ["Fifty-Nine Parks Print Series"],
     "publishers": [
       "Keymaster Games",
       "Albi",
@@ -2750,12 +2421,8 @@
     "image": "https://cf.geekdo-images.com/0m0X8qZxfARpz0lmzjxSEw__original/img/Pmg6ToAhHrfbccB29JaN0emETec=/0x0/filters:format(png)/pic2360788.png",
     "rating": 7.26896,
     "weight": 1.5259,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "artists": [
-      "Andreas Resch"
-    ],
+    "designers": ["Vlaada Chvátil"],
+    "artists": ["Andreas Resch"],
     "publishers": [
       "Czech Games Edition",
       "Dino Toys s. r. o.",
@@ -2788,9 +2455,7 @@
     "image": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__original/img/OS13C6W4i1XW__wWVVVaqF7BV0c=/0x0/filters:format(jpeg)/pic4459753.jpg",
     "rating": 7.81445,
     "weight": 3.2549,
-    "designers": [
-      "Friedemann Friese"
-    ],
+    "designers": ["Friedemann Friese"],
     "artists": [
       "Domonkos Bence",
       "Antonio Dessi",
@@ -2841,13 +2506,8 @@
     "image": "https://cf.geekdo-images.com/b5VyYjNfAxJ4Z-Dx2UWlqg__original/img/-GqQ0EOfg9e3yFVpKgJbPdlunso=/0x0/filters:format(jpeg)/pic7945692.jpg",
     "rating": 7.67497,
     "weight": 1.926,
-    "designers": [
-      "Reiner Knizia"
-    ],
-    "artists": [
-      "Vincent Dutrait",
-      "Franz Vohwinkel"
-    ],
+    "designers": ["Reiner Knizia"],
+    "artists": ["Vincent Dutrait", "Franz Vohwinkel"],
     "publishers": [
       "Ravensburger",
       "999 Games",
@@ -2884,13 +2544,8 @@
     "image": "https://cf.geekdo-images.com/x3hjEgkxZE9M96o6wgj6Tw__original/img/aLU9rLTBaZhBK_U6YMUY8mmJnrM=/0x0/filters:format(png)/pic4097632.png",
     "rating": 7.18411,
     "weight": 1.4696,
-    "designers": [
-      "Hjalmar Hach",
-      "Lorenzo Silva"
-    ],
-    "artists": [
-      "Marta Tranquilli"
-    ],
+    "designers": ["Hjalmar Hach", "Lorenzo Silva"],
+    "artists": ["Marta Tranquilli"],
     "publishers": [
       "Horrible Guild",
       "Albi",
@@ -2928,9 +2583,7 @@
     "image": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__original/img/_UahoIUTqh39xRqzCc2jwgdYbSA=/0x0/filters:format(jpeg)/pic2576459.jpg",
     "rating": 7.2177,
     "weight": 1.592,
-    "designers": [
-      "Don Eskridge"
-    ],
+    "designers": ["Don Eskridge"],
     "artists": [
       "Luis Francisco",
       "Luis Franco",
@@ -2986,14 +2639,8 @@
     "image": "https://cf.geekdo-images.com/1fjJb9ELv-x-3aCWV7vxIQ__original/img/qlpCqN7YAwFAL7lpN-Bs7MOjKxo=/0x0/filters:format(jpeg)/pic5132725.jpg",
     "rating": 8.21741,
     "weight": 3.062,
-    "designers": [
-      "Matthias Cramer",
-      "Stefan Malz",
-      "Louis Malz"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Matthias Cramer", "Stefan Malz", "Louis Malz"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Geekach Games",
@@ -3022,12 +2669,8 @@
     "image": "https://cf.geekdo-images.com/Zo4slt6oCCOFamxoR1ExcQ__original/img/lUEgowyo23P_hozCI14k2GjR7VY=/0x0/filters:format(jpeg)/pic2625790.jpg",
     "rating": 7.46902,
     "weight": 2.715,
-    "designers": [
-      "Lukas Litzsinger"
-    ],
-    "artists": [
-      "WiL Springer"
-    ],
+    "designers": ["Lukas Litzsinger"],
+    "artists": ["WiL Springer"],
     "publishers": [
       "Fantasy Flight Games",
       "Arclight Games",
@@ -3056,12 +2699,8 @@
     "image": "https://cf.geekdo-images.com/kiD03bslLpN_0Qe1LJ8OGg__original/img/rFYh1En1BFLZ3n0Do-BwOnn7efU=/0x0/filters:format(jpeg)/pic174174.jpg",
     "rating": 7.23275,
     "weight": 2.2855,
-    "designers": [
-      "Andreas Seyfarth"
-    ],
-    "artists": [
-      "Franz Vohwinkel"
-    ],
+    "designers": ["Andreas Seyfarth"],
+    "artists": ["Franz Vohwinkel"],
     "publishers": [
       "alea",
       "Ravensburger",
@@ -3091,12 +2730,8 @@
     "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__original/img/HlDb9F365w0tSP8uD1vf1pfniQE=/0x0/filters:format(jpeg)/pic3163924.jpg",
     "rating": 8.15054,
     "weight": 3.4437,
-    "designers": [
-      "Jamey Stegmaier"
-    ],
-    "artists": [
-      "Jakub Rozalski"
-    ],
+    "designers": ["Jamey Stegmaier"],
+    "artists": ["Jakub Rozalski"],
     "publishers": [
       "Stonemaier Games",
       "Albi",
@@ -3137,15 +2772,8 @@
     "image": "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__original/img/fll2MuTBPVKb7fyBJ8D-4_c1XHM=/0x0/filters:format(jpeg)/pic2075830.jpg",
     "rating": 7.0727,
     "weight": 1.6612,
-    "designers": [
-      "Sérgio Halaban",
-      "André Zatz"
-    ],
-    "artists": [
-      "John Guytan",
-      "Lorraine Schleter",
-      "David Sladek"
-    ],
+    "designers": ["Sérgio Halaban", "André Zatz"],
+    "artists": ["John Guytan", "Lorraine Schleter", "David Sladek"],
     "publishers": [
       "Arcane Wonders",
       "ADC Blackfire Entertainment",
@@ -3185,13 +2813,8 @@
     "image": "https://cf.geekdo-images.com/zNA2nt58of806l-aNOqRJw__original/img/y9JdxKf1NqmMSh2zWqU0T_wq7mg=/0x0/filters:format(jpeg)/pic4705378.jpg",
     "rating": 6.81843,
     "weight": 3.0172,
-    "designers": [
-      "Jonny Pac"
-    ],
-    "artists": [
-      "Michał Długaj",
-      "Jakub Fajtanowski"
-    ],
+    "designers": ["Jonny Pac"],
+    "artists": ["Michał Długaj", "Jakub Fajtanowski"],
     "publishers": [
       "Board&Dice",
       "BoardM Factory",
@@ -3221,13 +2844,8 @@
     "image": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__original/img/bYLzrwZO9u-3h2wyU-PHc8aTOY4=/0x0/filters:format(jpeg)/pic428828.jpg",
     "rating": 7.20987,
     "weight": 2.3495,
-    "designers": [
-      "Philippe Keyaerts"
-    ],
-    "artists": [
-      "Miguel Coimbra",
-      "Cyrille Daujean"
-    ],
+    "designers": ["Philippe Keyaerts"],
+    "artists": ["Miguel Coimbra", "Cyrille Daujean"],
     "publishers": [
       "Days of Wonder",
       "Asmodee",
@@ -3263,12 +2881,8 @@
     "image": "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__original/img/Y2tUGY2nPTGd_epJYKQXPkQD8AM=/0x0/filters:format(jpeg)/pic1904079.jpg",
     "rating": 7.4227,
     "weight": 1.7813,
-    "designers": [
-      "Marc André"
-    ],
-    "artists": [
-      "Pascal Quidault"
-    ],
+    "designers": ["Marc André"],
+    "artists": ["Pascal Quidault"],
     "publishers": [
       "Space Cowboys",
       "Asterion Press",
@@ -3316,14 +2930,8 @@
     "image": "https://cf.geekdo-images.com/-CogwvQ7V19RQH0tE6msFw__original/img/mRZ48c_emFwHzpeFIW9PBi8huQc=/0x0/filters:format(png)/pic4171533.png",
     "rating": 7.94104,
     "weight": 1.8673,
-    "designers": [
-      "Robert Dougherty",
-      "Darwin Kastle"
-    ],
-    "artists": [
-      "Antonis Papantoniou",
-      "Graphics Manufacture"
-    ],
+    "designers": ["Robert Dougherty", "Darwin Kastle"],
+    "artists": ["Antonis Papantoniou", "Graphics Manufacture"],
     "publishers": [
       "Wise Wizard Games",
       "Devir",
@@ -3350,16 +2958,8 @@
     "image": "https://cf.geekdo-images.com/Y4_BmMKtbr7P5tOaRYtJSQ__original/img/LfOrZWAdcVrvr5MqJ8McEG4eYuw=/0x0/filters:format(jpeg)/pic5934281.jpg",
     "rating": 6.77438,
     "weight": 1.6333,
-    "designers": [
-      "Pauline Kong",
-      "Haymen Lee",
-      "Marie Wong"
-    ],
-    "artists": [
-      "Tim Cheng",
-      "Grace Tjahyadi",
-      "YDX Art"
-    ],
+    "designers": ["Pauline Kong", "Haymen Lee", "Marie Wong"],
+    "artists": ["Tim Cheng", "Grace Tjahyadi", "YDX Art"],
     "publishers": [
       "Hot Banana Games",
       "Broadway Toys LTD",
@@ -3386,13 +2986,8 @@
     "image": "https://cf.geekdo-images.com/CS83e1WOA5WMc4izRw6zwg__original/img/t8rrl-N63ofmYHV3_QTNGtkywOk=/0x0/filters:format(jpeg)/pic3708878.jpg",
     "rating": 7.45667,
     "weight": 2.4451,
-    "designers": [
-      "Jerry Hawthorne"
-    ],
-    "artists": [
-      "Kristen Pauline",
-      "Tregis"
-    ],
+    "designers": ["Jerry Hawthorne"],
+    "artists": ["Kristen Pauline", "Tregis"],
     "publishers": [
       "Plaid Hat Games",
       "Arclight Games",
@@ -3427,14 +3022,8 @@
     "image": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__original/img/5vRsn2TT9eJmq27i9HtLWKpB_xs=/0x0/filters:format(jpeg)/pic1900075.jpg",
     "rating": 7.00657,
     "weight": 1.1591,
-    "designers": [
-      "Phil Walker-Harding"
-    ],
-    "artists": [
-      "Nan Rangsima",
-      "Tobias Schweiger",
-      "Phil Walker-Harding"
-    ],
+    "designers": ["Phil Walker-Harding"],
+    "artists": ["Nan Rangsima", "Tobias Schweiger", "Phil Walker-Harding"],
     "publishers": [
       "Adventureland Games",
       "Gamewright",
@@ -3479,17 +3068,9 @@
     "image": "https://cf.geekdo-images.com/ysaCi9ozqmjw9QgCDjtZ9Q__original/img/1vxY9qgfLPSZveoY9YkRZ3WIodw=/0x0/filters:format(png)/pic5350329.png",
     "rating": 6.91315,
     "weight": 3.375,
-    "designers": [
-      "Rickard Antroia",
-      "Martin Takaichi"
-    ],
-    "artists": [
-      "Reine Rosenberg",
-      "Simon Stålenhag"
-    ],
-    "publishers": [
-      "Free League Publishing"
-    ]
+    "designers": ["Rickard Antroia", "Martin Takaichi"],
+    "artists": ["Reine Rosenberg", "Simon Stålenhag"],
+    "publishers": ["Free League Publishing"]
   },
   {
     "id": 297030,
@@ -3509,10 +3090,7 @@
     "image": "https://cf.geekdo-images.com/CBLtzgG8zsqDkUZ_hN5-ew__original/img/jEL4WHl98vZHaZFcw9hDXxsxjSo=/0x0/filters:format(jpeg)/pic5313583.jpg",
     "rating": 7.71866,
     "weight": 4.0647,
-    "designers": [
-      "Daniele Tascini",
-      "Dávid Turczi"
-    ],
+    "designers": ["Daniele Tascini", "Dávid Turczi"],
     "artists": [
       "Michał Długaj",
       "Jakub Fajtanowski",
@@ -3551,13 +3129,8 @@
     "image": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__original/img/_dZS7fVfdc4DhJPbqnDpwTT4uF0=/0x0/filters:format(jpeg)/pic5375624.jpg",
     "rating": 8.06769,
     "weight": 3.9722,
-    "designers": [
-      "Jens Drögemüller",
-      "Helge Ostertag"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Jens Drögemüller", "Helge Ostertag"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Feuerland Spiele",
       "Bard Centrum Gier",
@@ -3595,10 +3168,7 @@
     "image": "https://cf.geekdo-images.com/gQOQW7p1RWHzY54Lrs-_pA__original/img/PSC8BO2njNcBJhxvi0IV5Jb5hgo=/0x0/filters:format(jpeg)/pic3315915.jpg",
     "rating": 7.7772,
     "weight": 3.315,
-    "designers": [
-      "Michał Oracz",
-      "Jakub Wiśniewski"
-    ],
+    "designers": ["Michał Oracz", "Jakub Wiśniewski"],
     "artists": [
       "Piotr Gacek",
       "Maszrum",
@@ -3641,15 +3211,8 @@
     "image": "https://cf.geekdo-images.com/2H0pJddVJA3r6btqRNLG1g__original/img/q8N6sz7FIZkbXe_0d4RiIfM8aNU=/0x0/filters:format(png)/pic7541330.png",
     "rating": 8.83147,
     "weight": 2.5435,
-    "designers": [
-      "Rob Daviau",
-      "Matt Leacock",
-      "Alan R. Moon"
-    ],
-    "artists": [
-      "Cyrille Daujean",
-      "Julien Delval"
-    ],
+    "designers": ["Rob Daviau", "Matt Leacock", "Alan R. Moon"],
+    "artists": ["Cyrille Daujean", "Julien Delval"],
     "publishers": [
       "Days of Wonder",
       "Galápagos Jogos",
@@ -3675,15 +3238,9 @@
     "image": "https://cf.geekdo-images.com/Xj2s_-D1YpMOxBSaNvZeOw__original/img/Y5nbqByLrCeJ7NI41J5S_bUJrG0=/0x0/filters:format(jpeg)/pic2262810.jpg",
     "rating": 7.66478,
     "weight": 1.9714,
-    "designers": [
-      "Antoine Bauza"
-    ],
-    "artists": [
-      "Xavier Gueniffey Durin"
-    ],
-    "publishers": [
-      "Funforge"
-    ]
+    "designers": ["Antoine Bauza"],
+    "artists": ["Xavier Gueniffey Durin"],
+    "publishers": ["Funforge"]
   },
   {
     "id": 242639,
@@ -3703,12 +3260,8 @@
     "image": "https://cf.geekdo-images.com/tHEYd09coOFilcJZf3-I9A__original/img/dsvADohNa_xOOW6-9A-YhfFsKq0=/0x0/filters:format(jpeg)/pic6974459.jpg",
     "rating": 7.23184,
     "weight": 2.2281,
-    "designers": [
-      "Marc Paquien"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Marc Paquien"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Matagot",
       "Albi",
@@ -3741,14 +3294,8 @@
     "image": "https://cf.geekdo-images.com/fBIe-aEPtJKC-ceNlspK6A__original/img/otcIVdG4ebZmK1SjUtzma18JtJ4=/0x0/filters:format(jpeg)/pic750583.jpg",
     "rating": 7.71653,
     "weight": 3.4597,
-    "designers": [
-      "Sébastien Dujardin",
-      "Xavier Georges",
-      "Alain Orban"
-    ],
-    "artists": [
-      "Alexandre Roche"
-    ],
+    "designers": ["Sébastien Dujardin", "Xavier Georges", "Alain Orban"],
+    "artists": ["Alexandre Roche"],
     "publishers": [
       "Pearl Games",
       "Asmodee",
@@ -3777,10 +3324,7 @@
     "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__original/img/Iae47UtAd_RXVd5tJ3YzbDHOv4E=/0x0/filters:format(jpeg)/pic3530661.jpg",
     "rating": 8.24753,
     "weight": 3.6073,
-    "designers": [
-      "Ananda Gupta",
-      "Jason Matthews"
-    ],
+    "designers": ["Ananda Gupta", "Jason Matthews"],
     "artists": [
       "Viktor Csete",
       "Rodger B. MacGowan",
@@ -3821,9 +3365,7 @@
     "image": "https://cf.geekdo-images.com/RQvdby3WmdROu05YFuxnqQ__original/img/zgL01zlTKSpbIgW5R3vzAJBaJlU=/0x0/filters:format(jpeg)/pic4717882.jpg",
     "rating": 7.32674,
     "weight": 2.7227,
-    "designers": [
-      "Joel Finch"
-    ],
+    "designers": ["Joel Finch"],
     "artists": [
       "Nicole Castles",
       "Lina Cossette",
@@ -3858,15 +3400,9 @@
     "image": "https://cf.geekdo-images.com/D3vm7HQyBCrR4rJQe_iMfg__original/img/3VLIK6d9zQ_VYiZXS0jeoJBKYME=/0x0/filters:format(png)/pic4609502.png",
     "rating": 7.43187,
     "weight": 2.3333,
-    "designers": [
-      "Tom Cleaver"
-    ],
-    "artists": [
-      "Banu Andaru"
-    ],
-    "publishers": [
-      "Alderac Entertainment Group"
-    ]
+    "designers": ["Tom Cleaver"],
+    "artists": ["Banu Andaru"],
+    "publishers": ["Alderac Entertainment Group"]
   },
   {
     "id": 183394,
@@ -3886,15 +3422,8 @@
     "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__original/img/gDL7OZFlzoOFgU0VYlREs8P5hCQ=/0x0/filters:format(jpeg)/pic6500949.jpg",
     "rating": 7.99514,
     "weight": 2.8871,
-    "designers": [
-      "Jamey Stegmaier",
-      "Alan Stone"
-    ],
-    "artists": [
-      "Jacqui Davis",
-      "David Montgomery",
-      "Beth Sobel"
-    ],
+    "designers": ["Jamey Stegmaier", "Alan Stone"],
+    "artists": ["Jacqui Davis", "David Montgomery", "Beth Sobel"],
     "publishers": [
       "Stonemaier Games",
       "Albi",
@@ -3934,13 +3463,8 @@
     "image": "https://cf.geekdo-images.com/iTBogxNFa3Ymh-6ST3srsw__original/img/ECgm53fEsB3eDVjZjgeejiZ__Qk=/0x0/filters:format(jpeg)/pic4768766.jpg",
     "rating": 7.78342,
     "weight": 2.2616,
-    "designers": [
-      "Matthias Cramer"
-    ],
-    "artists": [
-      "Klemens Franz",
-      "Viktor Kobilke"
-    ],
+    "designers": ["Matthias Cramer"],
+    "artists": ["Klemens Franz", "Viktor Kobilke"],
     "publishers": [
       "Frosted Games",
       "Capstone Games",
@@ -3976,12 +3500,8 @@
     "image": "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__original/img/W0gWMrkx5fEgVp8b2fMc-LfGmz8=/0x0/filters:format(png)/pic6974323.png",
     "rating": 7.60962,
     "weight": 2.8431,
-    "designers": [
-      "Hervé Lemaître"
-    ],
-    "artists": [
-      "Roland MacDonald"
-    ],
+    "designers": ["Hervé Lemaître"],
+    "artists": ["Roland MacDonald"],
     "publishers": [
       "Kolossal Games",
       "Board Game Box",
@@ -4016,9 +3536,7 @@
     "image": "https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__original/img/DcG4rhSBw8oT9drbvbuxybUOkik=/0x0/filters:format(jpeg)/pic2558555.jpg",
     "rating": 6.92494,
     "weight": 1.2084,
-    "designers": [
-      "Dominic Crapuchettes"
-    ],
+    "designers": ["Dominic Crapuchettes"],
     "artists": [],
     "publishers": [
       "NorthStar Game Studio",
@@ -4048,14 +3566,8 @@
     "image": "https://cf.geekdo-images.com/3edsEXwH21uaO8HXXdD1Dg__original/img/O-03BIpt7yhPbsffYjDwZc68zbQ=/0x0/filters:format(png)/pic7745916.png",
     "rating": 7.81124,
     "weight": 3.3073,
-    "designers": [
-      "Hisashi Hayashi"
-    ],
-    "artists": [
-      "The Creation Studio",
-      "Adam P. McIver",
-      "Ryo Nyamo"
-    ],
+    "designers": ["Hisashi Hayashi"],
+    "artists": ["The Creation Studio", "Adam P. McIver", "Ryo Nyamo"],
     "publishers": [
       "OKAZU Brand",
       "Tasty Minstrel Games",
@@ -4092,9 +3604,7 @@
     "weight": 0,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "ACE Games"
-    ]
+    "publishers": ["ACE Games"]
   },
   {
     "id": 147,
@@ -4114,12 +3624,8 @@
     "image": "https://cf.geekdo-images.com/I3eBzN15oKeaTLEdjdUEXA__original/img/XAeJPfkjBXikQHsWt9OnbU2Pw44=/0x0/filters:format(jpeg)/pic1389675.jpg",
     "rating": 6.69334,
     "weight": 2.7451,
-    "designers": [
-      "James J. St. Laurent"
-    ],
-    "artists": [
-      "William Bricker"
-    ],
+    "designers": ["James J. St. Laurent"],
+    "artists": ["William Bricker"],
     "publishers": [
       "St. Laurent Games",
       "Hexagames (I)",
@@ -4145,10 +3651,7 @@
     "image": "https://cf.geekdo-images.com/2P06IrQzoFx7-o-6zk-V6w__original/img/wWYy0r50zRyniJhNW5gdlCe6Ju4=/0x0/filters:format(jpeg)/pic577589.jpg",
     "rating": 8.03214,
     "weight": 4,
-    "designers": [
-      "Andy Chambers",
-      "Rick Priestley"
-    ],
+    "designers": ["Andy Chambers", "Rick Priestley"],
     "artists": [
       "John Blanche",
       "Wayne England",
@@ -4156,9 +3659,7 @@
       "Mark Gibbons",
       "Jes Goodwin"
     ],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 126613,
@@ -4178,20 +3679,9 @@
     "image": "https://cf.geekdo-images.com/m8d6Vr0SP7ioPy_-l78v8Q__original/img/-iwWfo_mLBHfuslWWQM7qd5q7Uw=/0x0/filters:format(jpeg)/pic1350716.jpg",
     "rating": 6.65619,
     "weight": 3.5455,
-    "designers": [
-      "Adam Troke",
-      "Jeremy Vetock",
-      "Matthew Ward"
-    ],
-    "artists": [
-      "John Blanche",
-      "Paul Dainton",
-      "Adrian Smith"
-    ],
-    "publishers": [
-      "963.com",
-      "Games Workshop Ltd."
-    ]
+    "designers": ["Adam Troke", "Jeremy Vetock", "Matthew Ward"],
+    "artists": ["John Blanche", "Paul Dainton", "Adrian Smith"],
+    "publishers": ["963.com", "Games Workshop Ltd."]
   },
   {
     "id": 386136,
@@ -4213,9 +3703,7 @@
     "weight": 4.5,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 2174,
@@ -4235,16 +3723,9 @@
     "image": "https://cf.geekdo-images.com/pUQ06tCVaWLTX-t7i4RHvA__original/img/cg8WhmhqWUrDhtLdHy7goK2rucY=/0x0/filters:format(jpeg)/pic269702.jpg",
     "rating": 6.51367,
     "weight": 2.2143,
-    "designers": [
-      "G. W. \"Jerry\" D'Arcey"
-    ],
-    "artists": [
-      "(Uncredited)"
-    ],
-    "publishers": [
-      "Miro Company",
-      "Parker Brothers"
-    ]
+    "designers": ["G. W. \"Jerry\" D'Arcey"],
+    "artists": ["(Uncredited)"],
+    "publishers": ["Miro Company", "Parker Brothers"]
   },
   {
     "id": 173346,
@@ -4264,13 +3745,8 @@
     "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
     "rating": 8.09543,
     "weight": 2.2278,
-    "designers": [
-      "Antoine Bauza",
-      "Bruno Cathala"
-    ],
-    "artists": [
-      "Miguel Coimbra"
-    ],
+    "designers": ["Antoine Bauza", "Bruno Cathala"],
+    "artists": ["Miguel Coimbra"],
     "publishers": [
       "Repos Production",
       "ADC Blackfire Entertainment",
@@ -4312,12 +3788,8 @@
     "image": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__original/img/toobKoejPiHpfpHk4SYd1UAJafw=/0x0/filters:format(jpeg)/pic831744.jpg",
     "rating": 7.87958,
     "weight": 3.6369,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -4357,11 +3829,7 @@
     "image": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__original/img/3KfMPSj7jjhG0g5lQBsO-bn67D0=/0x0/filters:format(jpeg)/pic3499707.jpg",
     "rating": 8.07695,
     "weight": 4.0152,
-    "designers": [
-      "Dávid Turczi",
-      "Richard Amann",
-      "Viktor Peter"
-    ],
+    "designers": ["Dávid Turczi", "Richard Amann", "Viktor Peter"],
     "artists": [
       "Villő Farkas",
       "László Fejes",
@@ -4410,10 +3878,7 @@
       "Eric M. Lang",
       "Fred Perret"
     ],
-    "artists": [
-      "Andrea Cofrancesco",
-      "Mathieu Harlaut"
-    ],
+    "artists": ["Andrea Cofrancesco", "Mathieu Harlaut"],
     "publishers": [
       "Cool Mini Or Not",
       "Spaghetti Western Games",
@@ -4444,13 +3909,8 @@
     "image": "https://cf.geekdo-images.com/WRHngbJkWiKAJ4U8xSySIQ__original/img/TXo07OaiWGK59Zu0IBXbnBpbmag=/0x0/filters:format(jpeg)/pic4895878.jpg",
     "rating": 7.56216,
     "weight": 2.463,
-    "designers": [
-      "Galen Ciscell",
-      "Brent Dickman"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Galen Ciscell", "Brent Dickman"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Elf Creek Games",
       "Ghenos Games",
@@ -4476,13 +3936,8 @@
     "image": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__original/img/3CcRDvDttHpWLP6wc_jZHufTfl4=/0x0/filters:format(jpeg)/pic2909713.jpg",
     "rating": 6.89807,
     "weight": 1.2771,
-    "designers": [
-      "Michael Palm",
-      "Lukas Zach"
-    ],
-    "artists": [
-      "Riccardo Pieruccini"
-    ],
+    "designers": ["Michael Palm", "Lukas Zach"],
+    "artists": ["Riccardo Pieruccini"],
     "publishers": [
       "DV Games",
       "ABACUSSPIELE",
@@ -4521,10 +3976,7 @@
     "image": "https://cf.geekdo-images.com/IwczsFUMHhIyI_39wFaHWw__original/img/jHHxcaBR6CKa16JvSEd5nY0MOsI=/0x0/filters:format(jpeg)/pic4285717.jpg",
     "rating": 7.24112,
     "weight": 2.1765,
-    "designers": [
-      "Matthew O'Malley",
-      "Ben Rosset"
-    ],
+    "designers": ["Matthew O'Malley", "Ben Rosset"],
     "artists": [
       "Laura Bevon",
       "Agnieszka Dabrowiecka",
@@ -4564,16 +4016,9 @@
     "image": "https://cf.geekdo-images.com/I0dO3GEStulLd88B7NHavw__original/img/vwLiXiU11BpAv9AmC5NbNbQlaFY=/0x0/filters:format(jpeg)/pic3652437.jpg",
     "rating": 6.75212,
     "weight": 1.7273,
-    "designers": [
-      "Prospero Hall",
-      "Brian Kirk"
-    ],
-    "artists": [
-      "Bob Ross"
-    ],
-    "publishers": [
-      "Big G Creative"
-    ]
+    "designers": ["Prospero Hall", "Brian Kirk"],
+    "artists": ["Bob Ross"],
+    "publishers": ["Big G Creative"]
   },
   {
     "id": 28720,
@@ -4593,9 +4038,7 @@
     "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__original/img/3ffdJj5Pz6HQrg09Kh8ecTen-TY=/0x0/filters:format(jpeg)/pic3469216.jpg",
     "rating": 8.19112,
     "weight": 3.8578,
-    "designers": [
-      "Martin Wallace"
-    ],
+    "designers": ["Martin Wallace"],
     "artists": [
       "Gavan Brown",
       "Lina Cossette",
@@ -4643,13 +4086,8 @@
     "image": "https://cf.geekdo-images.com/6-Pj_AxP0mjjFXYs2ukMWw__original/img/u607jS_nxYDDnpFkd0ZaJE-eFE8=/0x0/filters:format(jpeg)/pic7611495.jpg",
     "rating": 7.20507,
     "weight": 2.7887,
-    "designers": [
-      "Fabio Lopiano"
-    ],
-    "artists": [
-      "Harald Lieske",
-      "Ian O'Toole"
-    ],
+    "designers": ["Fabio Lopiano"],
+    "artists": ["Harald Lieske", "Ian O'Toole"],
     "publishers": [
       "ADC Blackfire Entertainment GmbH",
       "Alley Cat Games",
@@ -4676,15 +4114,8 @@
     "image": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__original/img/feQTYcCwgIg4LneCYIoaWz12Z24=/0x0/filters:format(jpeg)/pic7069368.jpg",
     "rating": 7.52493,
     "weight": 2.1901,
-    "designers": [
-      "Roberto Fraga",
-      "Yohan Lemonnier"
-    ],
-    "artists": [
-      "Ervin",
-      "Piotr Forkasiewicz",
-      "Sabrina Tobal"
-    ],
+    "designers": ["Roberto Fraga", "Yohan Lemonnier"],
+    "artists": ["Ervin", "Piotr Forkasiewicz", "Sabrina Tobal"],
     "publishers": [
       "Matagot",
       "Arclight Games",
@@ -4720,13 +4151,8 @@
     "image": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__original/img/N8btACZrnEYK1amBNk26VBdcGwc=/0x0/filters:format(jpeg)/pic1176894.jpg",
     "rating": 8.13751,
     "weight": 2.9831,
-    "designers": [
-      "Stefan Feld"
-    ],
-    "artists": [
-      "Julien Delval",
-      "Harald Lieske"
-    ],
+    "designers": ["Stefan Feld"],
+    "artists": ["Julien Delval", "Harald Lieske"],
     "publishers": [
       "alea",
       "Ravensburger",
@@ -4756,15 +4182,9 @@
     "image": "https://cf.geekdo-images.com/GKt4efctmFgqhu5Y6-WerQ__original/img/VrdGUtm0TnvPJjk8T1ipcY-CClQ=/0x0/filters:format(png)/pic7558843.png",
     "rating": 7.61783,
     "weight": 2.125,
-    "designers": [
-      "Josh Horsley"
-    ],
-    "artists": [
-      "Traci VanWagoner"
-    ],
-    "publishers": [
-      "Praetorian Board Games"
-    ]
+    "designers": ["Josh Horsley"],
+    "artists": ["Traci VanWagoner"],
+    "publishers": ["Praetorian Board Games"]
   },
   {
     "id": 18602,
@@ -4784,14 +4204,8 @@
     "image": "https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__original/img/ugJgRdFpYSsb5Pj1NDk76q6LKTo=/0x0/filters:format(jpeg)/pic1638795.jpg",
     "rating": 7.71844,
     "weight": 3.7966,
-    "designers": [
-      "William Attia"
-    ],
-    "artists": [
-      "Cyril Demaegd",
-      "Arnaud Demaegd",
-      "Mike Doyle (I)"
-    ],
+    "designers": ["William Attia"],
+    "artists": ["Cyril Demaegd", "Arnaud Demaegd", "Mike Doyle (I)"],
     "publishers": [
       "Ystari Games",
       "Brain Games",
@@ -4827,13 +4241,8 @@
     "image": "https://cf.geekdo-images.com/yKjDaHQiv28iqtzDxfQOZQ__original/img/TBiQWuVmimy-SBNrsBheCAspf78=/0x0/filters:format(jpeg)/pic3322613.jpg",
     "rating": 7.21942,
     "weight": 2.8485,
-    "designers": [
-      "Jamey Stegmaier"
-    ],
-    "artists": [
-      "Lina Cossette",
-      "David Forest"
-    ],
+    "designers": ["Jamey Stegmaier"],
+    "artists": ["Lina Cossette", "David Forest"],
     "publishers": [
       "Stonemaier Games",
       "Albi",
@@ -4868,14 +4277,8 @@
     "image": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__original/img/cXqOdM3BLyIeRt0GP3M3V--gF1M=/0x0/filters:format(jpeg)/pic4449526.jpg",
     "rating": 7.78226,
     "weight": 2.2252,
-    "designers": [
-      "Paul Dennen"
-    ],
-    "artists": [
-      "Rayph Beisner",
-      "Raul Ramos",
-      "Nate Storm"
-    ],
+    "designers": ["Paul Dennen"],
+    "artists": ["Rayph Beisner", "Raul Ramos", "Nate Storm"],
     "publishers": [
       "Dire Wolf",
       "Renegade Game Studios",
@@ -4910,18 +4313,9 @@
     "image": "https://cf.geekdo-images.com/VON_AMELSws22Z1hjXpsqg__original/img/LFsPSRpBNT_UbBaCJuld-jROI6k=/0x0/filters:format(jpeg)/pic886101.jpg",
     "rating": 6.79826,
     "weight": 1.9219,
-    "designers": [
-      "John LaBelle",
-      "Thomas Rabideau",
-      "Dave Rabideau"
-    ],
-    "artists": [
-      "Tim Hildebrandt"
-    ],
-    "publishers": [
-      "Parker Brothers",
-      "Waddingtons"
-    ]
+    "designers": ["John LaBelle", "Thomas Rabideau", "Dave Rabideau"],
+    "artists": ["Tim Hildebrandt"],
+    "publishers": ["Parker Brothers", "Waddingtons"]
   },
   {
     "id": 160010,
@@ -4961,9 +4355,7 @@
       "Stéphane Simon",
       "Adrian Smith"
     ],
-    "publishers": [
-      "Monolith Board Games"
-    ]
+    "publishers": ["Monolith Board Games"]
   },
   {
     "id": 131357,
@@ -4983,9 +4375,7 @@
     "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__original/img/ayAAWBK1rAEumARNmROsOtvqW-4=/0x0/filters:format(jpeg)/pic2016054.jpg",
     "rating": 6.98289,
     "weight": 1.4091,
-    "designers": [
-      "Rikki Tahta"
-    ],
+    "designers": ["Rikki Tahta"],
     "artists": [
       "Behnam Balali",
       "Luis Francisco",
@@ -5045,15 +4435,9 @@
     "image": "https://cf.geekdo-images.com/xFCtbTp9oiV7h28zrUNdjg__original/img/vcH_daWpokRO4t5BADJxfDWsvT0=/0x0/filters:format(png)/pic6611010.png",
     "rating": 7.14286,
     "weight": 1,
-    "designers": [
-      "Ryan Sromek"
-    ],
-    "artists": [
-      "Jonathan Carnehl"
-    ],
-    "publishers": [
-      "Crossbow Games"
-    ]
+    "designers": ["Ryan Sromek"],
+    "artists": ["Jonathan Carnehl"],
+    "publishers": ["Crossbow Games"]
   },
   {
     "id": 156129,
@@ -5073,15 +4457,8 @@
     "image": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__original/img/ZzyzlO15ggCfkLg9ckeM4PWNePI=/0x0/filters:format(jpeg)/pic3033330.jpg",
     "rating": 7.45549,
     "weight": 1.5823,
-    "designers": [
-      "Tobey Ho"
-    ],
-    "artists": [
-      "Marcin Adamski",
-      "Ben Carre",
-      "Tommy Ng",
-      "Ari Wong"
-    ],
+    "designers": ["Tobey Ho"],
+    "artists": ["Marcin Adamski", "Ben Carre", "Tommy Ng", "Ari Wong"],
     "publishers": [
       "Jolly Thinkers",
       "Across the Board",
@@ -5117,14 +4494,8 @@
     "image": "https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__original/img/LXqkRZSyg3hRMJlUMm2m83gmi_s=/0x0/filters:format(png)/pic3429338.png",
     "rating": 7.573,
     "weight": 3.0372,
-    "designers": [
-      "Jonathan Gilmour",
-      "Brian Lewis"
-    ],
-    "artists": [
-      "Kwanchai Moriya",
-      "Anthony Wocken"
-    ],
+    "designers": ["Jonathan Gilmour", "Brian Lewis"],
+    "artists": ["Kwanchai Moriya", "Anthony Wocken"],
     "publishers": [
       "Pandasaurus Games",
       "Angry Lion Games",
@@ -5157,12 +4528,8 @@
     "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg",
     "rating": 7.20382,
     "weight": 1.1982,
-    "designers": [
-      "Jean-Louis Roubira"
-    ],
-    "artists": [
-      "Marie Cardouat"
-    ],
+    "designers": ["Jean-Louis Roubira"],
+    "artists": ["Marie Cardouat"],
     "publishers": [
       "Libellud",
       "ADC Blackfire Entertainment",
@@ -5203,16 +4570,9 @@
     "image": "https://cf.geekdo-images.com/YIxmAusaJJq4SpiSpSAKWQ__original/img/eF9QBEETiQcbshrwrstTk6X5Pf0=/0x0/filters:format(png)/pic6935641.png",
     "rating": 6.99956,
     "weight": 1.0645,
-    "designers": [
-      "Zoe Lee",
-      "James A. Vaughan"
-    ],
+    "designers": ["Zoe Lee", "James A. Vaughan"],
     "artists": [],
-    "publishers": [
-      "Big Potato Games",
-      "Broadway Toys LTD",
-      "Mercurio"
-    ]
+    "publishers": ["Big Potato Games", "Broadway Toys LTD", "Mercurio"]
   },
   {
     "id": 316554,
@@ -5232,15 +4592,8 @@
     "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__original/img/mZzaBAEEJpMlHWWmC0R6Su0OibQ=/0x0/filters:format(jpeg)/pic5666597.jpg",
     "rating": 8.43065,
     "weight": 3.045,
-    "designers": [
-      "Paul Dennen"
-    ],
-    "artists": [
-      "Clay Brooks",
-      "Brett Nienburg",
-      "Raul Ramos",
-      "Nate Storm"
-    ],
+    "designers": ["Paul Dennen"],
+    "artists": ["Clay Brooks", "Brett Nienburg", "Raul Ramos", "Nate Storm"],
     "publishers": [
       "Dire Wolf",
       "Arclight Games",
@@ -5273,13 +4626,8 @@
     "image": "https://cf.geekdo-images.com/TFX_awTwbJxoG74GtRHytw__original/img/plU9ZhUubz-1LHGfbsDstEOE9vg=/0x0/filters:format(jpeg)/pic5624523.jpg",
     "rating": 7.76713,
     "weight": 3.2868,
-    "designers": [
-      "Stan Kordonskiy"
-    ],
-    "artists": [
-      "Mihajlo Dimitrievski",
-      "Yoma"
-    ],
+    "designers": ["Stan Kordonskiy"],
+    "artists": ["Mihajlo Dimitrievski", "Yoma"],
     "publishers": [
       "Fantasia Games",
       "Broadway Toys LTD",
@@ -5319,15 +4667,8 @@
     "image": "https://cf.geekdo-images.com/hs1P4qPgDKHXct3qs4JWGg__original/img/Do6E6XHAwbYvjH0Tb8n0G2DAlkA=/0x0/filters:format(jpeg)/pic2876816.jpg",
     "rating": 7.49563,
     "weight": 2.747,
-    "designers": [
-      "Dominic Crapuchettes",
-      "Dmitry Knorre",
-      "Sergey Machin"
-    ],
-    "artists": [
-      "Ben Goldman",
-      "Catherine Hamilton"
-    ],
+    "designers": ["Dominic Crapuchettes", "Dmitry Knorre", "Sergey Machin"],
+    "artists": ["Ben Goldman", "Catherine Hamilton"],
     "publishers": [
       "NorthStar Game Studio",
       "(Web published)",
@@ -5354,10 +4695,7 @@
     "image": "https://cf.geekdo-images.com/9gjrMWDqLCBb-G0AYbKuSQ__original/img/t5RBBMPvLBa4_vEbK7ZrNbD8IdY=/0x0/filters:format(jpeg)/pic3728149.jpg",
     "rating": 6.9231,
     "weight": 3.0193,
-    "designers": [
-      "Andrew Fischer",
-      "Nathan I. Hajek"
-    ],
+    "designers": ["Andrew Fischer", "Nathan I. Hajek"],
     "artists": [
       "Andrew Fischer",
       "Nathan I. Hajek",
@@ -5393,18 +4731,9 @@
     "image": "https://cf.geekdo-images.com/NowJcoT3uCC9LJXjYaAXkw__original/img/H3rvRlazZKxbPnxRWQVH4I_tkvw=/0x0/filters:format(png)/pic7518155.png",
     "rating": 7.57007,
     "weight": 2.1739,
-    "designers": [
-      "Matthew O'Malley",
-      "Ben Rosset"
-    ],
-    "artists": [
-      "Tomasz Bogusz",
-      "Amelia Sales"
-    ],
-    "publishers": [
-      "Artana",
-      "Happy meeple games"
-    ]
+    "designers": ["Matthew O'Malley", "Ben Rosset"],
+    "artists": ["Tomasz Bogusz", "Amelia Sales"],
+    "publishers": ["Artana", "Happy meeple games"]
   },
   {
     "id": 169124,
@@ -5424,13 +4753,8 @@
     "image": "https://cf.geekdo-images.com/uTrqB91Kzvqtb4Ophk1BPw__original/img/8A3BjcqOLKDl_f3yuT6Gfb392js=/0x0/filters:format(jpeg)/pic5095159.jpg",
     "rating": 6.85835,
     "weight": 1.3317,
-    "designers": [
-      "Gaëtan Beaujannot",
-      "Jean Yves Monpertuis"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
+    "designers": ["Gaëtan Beaujannot", "Jean Yves Monpertuis"],
+    "artists": ["Chris Quilliams"],
     "publishers": [
       "Pretzel Games",
       "Enigma (Bergsala Enigma)",
@@ -5461,12 +4785,8 @@
     "image": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__original/img/H5d4I5z_HSpPEu7EAl0DqLt9_pM=/0x0/filters:format(jpeg)/pic646458.jpg",
     "rating": 6.76292,
     "weight": 1.7369,
-    "designers": [
-      "Matt Leacock"
-    ],
-    "artists": [
-      "C. B. Canga"
-    ],
+    "designers": ["Matt Leacock"],
+    "artists": ["C. B. Canga"],
     "publishers": [
       "Gamewright",
       "ADC Blackfire Entertainment",
@@ -5508,13 +4828,8 @@
     "image": "https://cf.geekdo-images.com/eEUq1DqkPjVdSTJT4wp1zg__original/img/43O0Wj3fkQZaqYGVjWFL-DP5j5w=/0x0/filters:format(jpeg)/pic1478723.jpg",
     "rating": 7.58416,
     "weight": 2.902,
-    "designers": [
-      "Brian Mayer"
-    ],
-    "artists": [
-      "Jarek Nocoń",
-      "Steve Paschal"
-    ],
+    "designers": ["Brian Mayer"],
+    "artists": ["Jarek Nocoń", "Steve Paschal"],
     "publishers": [
       "Academy Games, Inc.",
       "(Self-Published)",
@@ -5540,18 +4855,9 @@
     "image": "https://cf.geekdo-images.com/0pUnyMKrKLJE7m940TNMjA__original/img/0NTtDBEfywNa9ezDyL_nciLjPvs=/0x0/filters:format(jpeg)/pic5561163.jpg",
     "rating": 7.42088,
     "weight": 2.1429,
-    "designers": [
-      "Joel Finch"
-    ],
-    "artists": [
-      "Lina Cossette",
-      "David Forest"
-    ],
-    "publishers": [
-      "Good Games Publishing",
-      "Lucky Duck Games",
-      "Maldito Games"
-    ]
+    "designers": ["Joel Finch"],
+    "artists": ["Lina Cossette", "David Forest"],
+    "publishers": ["Good Games Publishing", "Lucky Duck Games", "Maldito Games"]
   },
   {
     "id": 125153,
@@ -5571,12 +4877,8 @@
     "image": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__original/img/59dZRZePEgtcupkRSA2zohZuHpM=/0x0/filters:format(png)/pic2503200.png",
     "rating": 8.02428,
     "weight": 4.2505,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Angry Lion Games",
@@ -5607,13 +4909,8 @@
     "image": "https://cf.geekdo-images.com/sMRuph3HFUcaSpJZihGZKw__original/img/ehoqoTirtFb5p9Wk2SwWV8nr6ZU=/0x0/filters:format(jpeg)/pic5841874.jpg",
     "rating": 7.90945,
     "weight": 3.0142,
-    "designers": [
-      "Matthias Cramer"
-    ],
-    "artists": [
-      "Jason Coates",
-      "Hendrik Noack"
-    ],
+    "designers": ["Matthias Cramer"],
+    "artists": ["Jason Coates", "Hendrik Noack"],
     "publishers": [
       "Funtails",
       "Broadway Toys LTD",
@@ -5644,14 +4941,8 @@
     "image": "https://cf.geekdo-images.com/9wDd5YVER3lwpGO3v5EkTA__original/img/RtYW5lfwrLzWDI0rorp_vqI9af8=/0x0/filters:format(jpeg)/pic5374175.jpg",
     "rating": 7.58805,
     "weight": 3.9832,
-    "designers": [
-      "Flaminia Brasini",
-      "Virginio Gigli",
-      "Simone Luciani"
-    ],
-    "artists": [
-      "Roberto Grasso (I)"
-    ],
+    "designers": ["Flaminia Brasini", "Virginio Gigli", "Simone Luciani"],
+    "artists": ["Roberto Grasso (I)"],
     "publishers": [
       "Cranio Creations",
       "CrowD Games",
@@ -5684,12 +4975,8 @@
     "image": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__original/img/2zv_XMQoPFWk9Dn0oS4JY1IeFzw=/0x0/filters:format(jpeg)/pic4887376.jpg",
     "rating": 8.20437,
     "weight": 3.7018,
-    "designers": [
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Andreas Resch"
-    ],
+    "designers": ["Alexander Pfister"],
+    "artists": ["Andreas Resch"],
     "publishers": [
       "eggertspiele",
       "999 Games",
@@ -5729,13 +5016,8 @@
     "image": "https://cf.geekdo-images.com/bDUgQ1CfnrTniZytZ5UlQA__original/img/s7VbTdeob5YJVueIOWVn2gyJ90o=/0x0/filters:format(jpeg)/pic6618432.jpg",
     "rating": 7.34862,
     "weight": 2.7111,
-    "designers": [
-      "Katarzyna Cioch",
-      "Wojciech Wiśniewski"
-    ],
-    "artists": [
-      "Rafał Szłapa"
-    ],
+    "designers": ["Katarzyna Cioch", "Wojciech Wiśniewski"],
+    "artists": ["Rafał Szłapa"],
     "publishers": [
       "Granna",
       "Atalia",
@@ -5769,9 +5051,7 @@
       "Kami Mandell",
       "Andrew Wolf"
     ],
-    "artists": [
-      "Joe Van Wetering"
-    ],
+    "artists": ["Joe Van Wetering"],
     "publishers": [
       "The Op Games",
       "Galápagos Jogos",
@@ -5803,9 +5083,7 @@
     "image": "https://cf.geekdo-images.com/_3wm5Ikl8NtF6oTQ5KT-1g__original/img/Dv5M1RcWQ6UEZyd2eAey-OfSsrU=/0x0/filters:format(jpeg)/pic3894197.jpg",
     "rating": 7.15794,
     "weight": 1.4818,
-    "designers": [
-      "Reiner Knizia"
-    ],
+    "designers": ["Reiner Knizia"],
     "artists": [
       "Mateusz Bielski",
       "Medusa Dollmaker",
@@ -5861,12 +5139,8 @@
     "image": "https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__original/img/2mJguceZAdOqSem23FEHobaZ0a4=/0x0/filters:format(jpeg)/pic5608344.jpg",
     "rating": 7.59178,
     "weight": 2.7222,
-    "designers": [
-      "Paul Salomon"
-    ],
-    "artists": [
-      "Anne Heidsieck"
-    ],
+    "designers": ["Paul Salomon"],
+    "artists": ["Anne Heidsieck"],
     "publishers": [
       "Elf Creek Games",
       "Galápagos Jogos",
@@ -5900,13 +5174,8 @@
     "image": "https://cf.geekdo-images.com/HkAt5n4R8XM0vNozl7fftA__original/img/934t5i7J90wlw6mb6p2m_3u98i0=/0x0/filters:format(jpeg)/pic3029488.jpg",
     "rating": 7.14627,
     "weight": 2.0152,
-    "designers": [
-      "Phil Walker-Harding"
-    ],
-    "artists": [
-      "Miguel Coimbra",
-      "Michaela Kienle"
-    ],
+    "designers": ["Phil Walker-Harding"],
+    "artists": ["Miguel Coimbra", "Michaela Kienle"],
     "publishers": [
       "KOSMOS",
       "Arclight Games",
@@ -5940,13 +5209,8 @@
     "image": "https://cf.geekdo-images.com/GCxsnITFBO1pNXiBYkq_qA__original/img/8uoTbz4B_M1GbT4N3vGN-bhZF2Q=/0x0/filters:format(jpeg)/pic2524838.jpg",
     "rating": 7.39838,
     "weight": 2.2555,
-    "designers": [
-      "Andreas Pelikan",
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Andreas Pelikan", "Alexander Pfister"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -5984,16 +5248,9 @@
     "image": "https://cf.geekdo-images.com/AexbvnibtAVbGghwDb5xNg__original/img/JI8pPk_Cg3iXgaQfeEKwPXC_uC0=/0x0/filters:format(jpeg)/pic3794627.jpg",
     "rating": 5.42139,
     "weight": 2.6,
-    "designers": [
-      "Alessio Cavatore"
-    ],
-    "artists": [
-      "Johnny Fraser-Allen"
-    ],
-    "publishers": [
-      "Crazy Pawn Games",
-      "River Horse (Europe) Ltd"
-    ]
+    "designers": ["Alessio Cavatore"],
+    "artists": ["Johnny Fraser-Allen"],
+    "publishers": ["Crazy Pawn Games", "River Horse (Europe) Ltd"]
   },
   {
     "id": 297562,
@@ -6013,14 +5270,8 @@
     "image": "https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__original/img/UXp8jCSt7DxXUIPqTPZY4EBBtJg=/0x0/filters:format(jpeg)/pic6230640.jpg",
     "rating": 7.98882,
     "weight": 3.2097,
-    "designers": [
-      "Jacques Bariot",
-      "Guillaume Montiage"
-    ],
-    "artists": [
-      "Arnaud Boudoiron",
-      "Pierre Santamaria"
-    ],
+    "designers": ["Jacques Bariot", "Guillaume Montiage"],
+    "artists": ["Arnaud Boudoiron", "Pierre Santamaria"],
     "publishers": [
       "Matagot",
       "Asobition (アソビション)",
@@ -6055,12 +5306,8 @@
     "image": "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__original/img/2m6YJhA3JbYe1cNhybRtFJrRECw=/0x0/filters:format(jpeg)/pic1152359.jpg",
     "rating": 6.94357,
     "weight": 2.0611,
-    "designers": [
-      "Donald X. Vaccarino"
-    ],
-    "artists": [
-      "Oliver Schlemmer"
-    ],
+    "designers": ["Donald X. Vaccarino"],
+    "artists": ["Oliver Schlemmer"],
     "publishers": [
       "Queen Games",
       "Devir",
@@ -6087,16 +5334,9 @@
     "image": "https://cf.geekdo-images.com/8e4XYBOnFKGMoiW591ih8g__original/img/_jhK5G6MPFMsEExIi_4j9JXf1SY=/0x0/filters:format(jpeg)/pic1280761.jpg",
     "rating": 7.39311,
     "weight": 3,
-    "designers": [
-      "Matthias Cramer"
-    ],
-    "artists": [
-      "Martin Hoffmann",
-      "Claus Stephan"
-    ],
-    "publishers": [
-      "Queen Games"
-    ]
+    "designers": ["Matthias Cramer"],
+    "artists": ["Martin Hoffmann", "Claus Stephan"],
+    "publishers": ["Queen Games"]
   },
   {
     "id": 146652,
@@ -6116,14 +5356,9 @@
     "image": "https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__original/img/nrvJtT-4tYTD0fp3Cr57SKpfMfw=/0x0/filters:format(jpeg)/pic2225180.jpg",
     "rating": 7.75804,
     "weight": 2.6985,
-    "designers": [
-      "Ben Cichoski",
-      "Daniel Mandel"
-    ],
+    "designers": ["Ben Cichoski", "Daniel Mandel"],
     "artists": [],
-    "publishers": [
-      "Upper Deck Entertainment"
-    ]
+    "publishers": ["Upper Deck Entertainment"]
   },
   {
     "id": 269385,
@@ -6143,10 +5378,7 @@
     "image": "https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__original/img/MIJgG_K2IS1QT2mE0dyRFiWLSpg=/0x0/filters:format(jpeg)/pic4530974.jpg",
     "rating": 7.91972,
     "weight": 2.6588,
-    "designers": [
-      "Nathan I. Hajek",
-      "Grace Holdinghaus"
-    ],
+    "designers": ["Nathan I. Hajek", "Grace Holdinghaus"],
     "artists": [],
     "publishers": [
       "Fantasy Flight Games",
@@ -6177,9 +5409,7 @@
     "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__original/img/PdGBQ7xc0GA9ndKnnInx_sQwvl4=/0x0/filters:format(jpeg)/pic4597095.jpg",
     "rating": 7.23481,
     "weight": 1.4782,
-    "designers": [
-      "Reiner Knizia"
-    ],
+    "designers": ["Reiner Knizia"],
     "artists": [
       "Vincent Dutrait",
       "Michaela Kienle",
@@ -6233,14 +5463,8 @@
     "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__original/img/PDDH38Vf9NEB_4ODURxcJKNBfVQ=/0x0/filters:format(jpeg)/pic1083380.jpg",
     "rating": 8.08585,
     "weight": 4.3595,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "artists": [
-      "J. Lonnee",
-      "Chris Raimo",
-      "Milan Vavroň"
-    ],
+    "designers": ["Vlaada Chvátil"],
+    "artists": ["J. Lonnee", "Chris Raimo", "Milan Vavroň"],
     "publishers": [
       "WizKids (I)",
       "Asmodee",
@@ -6270,16 +5494,9 @@
     "image": "https://cf.geekdo-images.com/F0aI6AMk7djrUjtx6DmHiQ__original/img/7N_cxPbVZVzshBRdv2iMa1AskEI=/0x0/filters:format(jpeg)/pic2013885.jpg",
     "rating": 6.40073,
     "weight": 1.4032,
-    "designers": [
-      "Erika Svanoe"
-    ],
-    "artists": [
-      "Erik Evensen"
-    ],
-    "publishers": [
-      "(Self-Published)",
-      "Evensen Creative"
-    ]
+    "designers": ["Erika Svanoe"],
+    "artists": ["Erik Evensen"],
+    "publishers": ["(Self-Published)", "Evensen Creative"]
   },
   {
     "id": 10630,
@@ -6299,9 +5516,7 @@
     "image": "https://cf.geekdo-images.com/2AjxTtgBtZVst8wOAk1NAA__original/img/Ro6pGYz0WFmCOP5ytZ6Z40KhoZ4=/0x0/filters:format(jpeg)/pic6974498.jpg",
     "rating": 7.53762,
     "weight": 2.2749,
-    "designers": [
-      "Richard Borg"
-    ],
+    "designers": ["Richard Borg"],
     "artists": [
       "Cyrille Daujean",
       "Julien Delval",
@@ -6332,13 +5547,8 @@
     "image": "https://cf.geekdo-images.com/hYP-VIJGRFR8yB78-UN7Rg__original/img/3vUqoYuF2SrVU0n752sfU3bBhHc=/0x0/filters:format(jpeg)/pic5154610.jpg",
     "rating": 7.96027,
     "weight": 2.8929,
-    "designers": [
-      "Jay Cormier",
-      "Sen-Foong Lim"
-    ],
-    "artists": [
-      "Matt Kindt"
-    ],
+    "designers": ["Jay Cormier", "Sen-Foong Lim"],
+    "artists": ["Matt Kindt"],
     "publishers": [
       "Off the Page Games",
       "Corax Games",
@@ -6368,13 +5578,8 @@
     "image": "https://cf.geekdo-images.com/ggsBj1DflW234DP6E5uwqg__original/img/U1SupFfYzODAVkmkxqbXRRAmM_o=/0x0/filters:format(jpeg)/pic3616674.jpg",
     "rating": 6.51384,
     "weight": 2.0577,
-    "designers": [
-      "Rob Daviau"
-    ],
-    "artists": [
-      "Miguel Coimbra",
-      "Rob Daviau"
-    ],
+    "designers": ["Rob Daviau"],
+    "artists": ["Miguel Coimbra", "Rob Daviau"],
     "publishers": [
       "IELLO",
       "Angry Lion Games",
@@ -6403,13 +5608,8 @@
     "image": "https://cf.geekdo-images.com/btcVFa7mq_IVb8sK1S5CGQ__original/img/YiUyfLuPR2Mf2bIfB9qaxgfAxE4=/0x0/filters:format(jpeg)/pic2760567.jpg",
     "rating": 6.92998,
     "weight": 3.0918,
-    "designers": [
-      "Inka Brand",
-      "Markus Brand"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Inka Brand", "Markus Brand"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "eggertspiele",
       "999 Games",
@@ -6440,17 +5640,9 @@
     "image": "https://cf.geekdo-images.com/pqJB3ccbvCW4Fii-uQG1kA__original/img/umEFTPSPVQAE2z4toFzvMXHTnSk=/0x0/filters:format(jpeg)/pic3211823.jpg",
     "rating": 6.69731,
     "weight": 1.4444,
-    "designers": [
-      "Jeffrey D. Allers"
-    ],
-    "artists": [
-      "John Kaufmann"
-    ],
-    "publishers": [
-      "Bézier Games",
-      "Arclight Games",
-      "MYBG Co., Ltd."
-    ]
+    "designers": ["Jeffrey D. Allers"],
+    "artists": ["John Kaufmann"],
+    "publishers": ["Bézier Games", "Arclight Games", "MYBG Co., Ltd."]
   },
   {
     "id": 184267,
@@ -6470,12 +5662,8 @@
     "image": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__original/img/GNjjsgxq7wYO9pSIteDJe6Sxt00=/0x0/filters:format(jpeg)/pic4357658.jpg",
     "rating": 8.19882,
     "weight": 4.6719,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Angry Lion Games",
@@ -6510,12 +5698,8 @@
     "image": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__original/img/Qn6vlBaTUaHNFsqohIUjd0EA4z0=/0x0/filters:format(jpeg)/pic6228507.jpg",
     "rating": 8.06125,
     "weight": 3.028,
-    "designers": [
-      "Reiner Stockhausen"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Reiner Stockhausen"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "dlp games",
       "Arclight Games",
@@ -6554,13 +5738,8 @@
     "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png",
     "rating": 8.53099,
     "weight": 2.8328,
-    "designers": [
-      "Rob Daviau",
-      "Matt Leacock"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
+    "designers": ["Rob Daviau", "Matt Leacock"],
+    "artists": ["Chris Quilliams"],
     "publishers": [
       "Z-Man Games",
       "Asterion Press",
@@ -6594,9 +5773,7 @@
     "image": "https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__original/img/B1j7R-slq8wxgC71Sg1F7S1s7Kg=/0x0/filters:format(jpeg)/pic2270442.jpg",
     "rating": 7.59895,
     "weight": 1.605,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
+    "designers": ["Uwe Rosenberg"],
     "artists": [
       "Klemens Franz",
       "Maya Hanisch",
@@ -6651,9 +5828,7 @@
     "image": "https://cf.geekdo-images.com/AXnDLnuXrmbQRoFpCMvTJA__original/img/TKTOPSUFA-zKMipbpznhxY8E-XU=/0x0/filters:format(jpeg)/pic4122381.jpg",
     "rating": 7.58679,
     "weight": 1.4468,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
+    "designers": ["Vlaada Chvátil"],
     "artists": [
       "Toby Allen",
       "Sören Meding",
@@ -6694,12 +5869,8 @@
     "image": "https://cf.geekdo-images.com/aUPeXVwc40xrgud2XeZwyA__original/img/WbCD6iqzBhVucS7uRwYvtku5zD0=/0x0/filters:format(png)/pic5671087.png",
     "rating": 7.91948,
     "weight": 3.745,
-    "designers": [
-      "Vladimír Suchý"
-    ],
-    "artists": [
-      "Milan Vavroň"
-    ],
+    "designers": ["Vladimír Suchý"],
+    "artists": ["Milan Vavroň"],
     "publishers": [
       "Delicious Games",
       "Arrakis Games",
@@ -6734,13 +5905,8 @@
     "image": "https://cf.geekdo-images.com/W9HX05eyz2zQbwWdrjKUzQ__original/img/ScCURHDoqBbVK4_DjMuAywANBwE=/0x0/filters:format(jpeg)/pic4161982.jpg",
     "rating": 7.28382,
     "weight": 2.1538,
-    "designers": [
-      "Glenn Drover"
-    ],
-    "artists": [
-      "Jacoby O'Connor",
-      "Annie Stegg"
-    ],
+    "designers": ["Glenn Drover"],
+    "artists": ["Jacoby O'Connor", "Annie Stegg"],
     "publishers": [
       "Forbidden Games",
       "Arrakis Games",
@@ -6767,13 +5933,8 @@
     "image": "https://cf.geekdo-images.com/-Ro5KFX55FbZBWehBy9LKg__original/img/17jLBJbMVzZssJLpRh503itz008=/0x0/filters:format(jpeg)/pic6974678.jpg",
     "rating": 7.24305,
     "weight": 2.0658,
-    "designers": [
-      "Bruno Cathala",
-      "Bruno Faidutti"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Bruno Cathala", "Bruno Faidutti"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Matagot",
       "Boardgame Mall",
@@ -6803,9 +5964,7 @@
     "image": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__original/img/AF8HHaIad1re-eg3kd9mlm2j_ss=/0x0/filters:format(jpeg)/pic1398895.jpg",
     "rating": 7.51931,
     "weight": 1.7372,
-    "designers": [
-      "Don Eskridge"
-    ],
+    "designers": ["Don Eskridge"],
     "artists": [
       "Luis Francisco",
       "George Patsouras",
@@ -6851,15 +6010,8 @@
     "image": "https://cf.geekdo-images.com/nhoyoLpYPC2b3UiJ5kJ0yg__original/img/LoETJCbq1HpSlhPLdci3qJekpwA=/0x0/filters:format(jpeg)/pic1473629.jpg",
     "rating": 7.59448,
     "weight": 2.7757,
-    "designers": [
-      "Wei-Hwa Huang",
-      "Thomas Lehmann"
-    ],
-    "artists": [
-      "Martin Hoffmann",
-      "Claus Stephan",
-      "Mirko Suzuki"
-    ],
+    "designers": ["Wei-Hwa Huang", "Thomas Lehmann"],
+    "artists": ["Martin Hoffmann", "Claus Stephan", "Mirko Suzuki"],
     "publishers": [
       "Rio Grande Games",
       "CrowD Games",
@@ -6890,15 +6042,9 @@
     "image": "https://cf.geekdo-images.com/jJpaqzxTyANxph8PTcSgUQ__original/img/yXXeGFu6VaiWYj9rg6Fshe-u4lw=/0x0/filters:format(jpeg)/pic7501953.jpg",
     "rating": 7.8,
     "weight": 0,
-    "designers": [
-      "Guime"
-    ],
-    "artists": [
-      "Guime"
-    ],
-    "publishers": [
-      "Ruse.Games"
-    ]
+    "designers": ["Guime"],
+    "artists": ["Guime"],
+    "publishers": ["Ruse.Games"]
   },
   {
     "id": 166669,
@@ -6918,13 +6064,8 @@
     "image": "https://cf.geekdo-images.com/Upw8067nG8AmGvOfLYs1aQ__original/img/U26iPvrcmJeEsKeCIDCXbGFqB1U=/0x0/filters:format(jpeg)/pic2305703.jpg",
     "rating": 7.45622,
     "weight": 2.0851,
-    "designers": [
-      "Andreas Seyfarth"
-    ],
-    "artists": [
-      "Harald Lieske",
-      "Mia Steingräber"
-    ],
+    "designers": ["Andreas Seyfarth"],
+    "artists": ["Harald Lieske", "Mia Steingräber"],
     "publishers": [
       "alea",
       "Ravensburger",
@@ -6954,14 +6095,8 @@
     "image": "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__original/img/7oKwNUYakx3-vHUBLHWVuFNKfl4=/0x0/filters:format(jpeg)/pic5164305.jpg",
     "rating": 7.51321,
     "weight": 1.7444,
-    "designers": [
-      "Mike Boxleiter",
-      "Tommy Maranges",
-      "Max Temkin"
-    ],
-    "artists": [
-      "Mackenzie Schubert"
-    ],
+    "designers": ["Mike Boxleiter", "Tommy Maranges", "Max Temkin"],
+    "artists": ["Mackenzie Schubert"],
     "publishers": [
       "Goat Wolf & Cabbage",
       "(Self-Published)",
@@ -6992,17 +6127,8 @@
       "Suzanne Goldberg",
       "Gary Grady"
     ],
-    "artists": [
-      "Arnaud Demaegd",
-      "Neriac",
-      "Pascal Quidault"
-    ],
-    "publishers": [
-      "Space Cowboys",
-      "Asmodee",
-      "CrowD Games",
-      "Ystari Games"
-    ]
+    "artists": ["Arnaud Demaegd", "Neriac", "Pascal Quidault"],
+    "publishers": ["Space Cowboys", "Asmodee", "CrowD Games", "Ystari Games"]
   },
   {
     "id": 92415,
@@ -7022,13 +6148,8 @@
     "image": "https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__original/img/ygPnbmg8FCpA7jO5gXw38uyNQ10=/0x0/filters:format(jpeg)/pic6097488.jpg",
     "rating": 7.19231,
     "weight": 1.114,
-    "designers": [
-      "Hervé Marly"
-    ],
-    "artists": [
-      "Rose Kipik",
-      "Thomas Vuarchex"
-    ],
+    "designers": ["Hervé Marly"],
+    "artists": ["Rose Kipik", "Thomas Vuarchex"],
     "publishers": [
       "Lui-même",
       "Boardgame Space",
@@ -7063,13 +6184,8 @@
     "image": "https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__original/img/_GNdgmgIOZH657Cmh9ETKxyUqm4=/0x0/filters:format(jpeg)/pic7617053.jpg",
     "rating": 6.66436,
     "weight": 1.1333,
-    "designers": [
-      "Jeff Ochs"
-    ],
-    "artists": [
-      "Patricia Hayes Kaufman",
-      "John Kovalic"
-    ],
+    "designers": ["Jeff Ochs"],
+    "artists": ["Patricia Hayes Kaufman", "John Kovalic"],
     "publishers": [
       "Out of the Box Publishing",
       "Snake Oil, LLC",
@@ -7095,13 +6211,8 @@
     "image": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__original/img/bI3PgKtvAGiD59QYya-pqasF_tk=/0x0/filters:format(jpeg)/pic2453926.jpg",
     "rating": 6.78026,
     "weight": 1.2387,
-    "designers": [
-      "Alexandr Ushan"
-    ],
-    "artists": [
-      "Sergey Dulin",
-      "Uildrim"
-    ],
+    "designers": ["Alexandr Ushan"],
+    "artists": ["Sergey Dulin", "Uildrim"],
     "publishers": [
       "Hobby World",
       "BoardM Factory",
@@ -7149,11 +6260,7 @@
     "image": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__original/img/12Xvbw01hpsAjsO0xrajZt2b5HY=/0x0/filters:format(jpeg)/pic2247647.jpg",
     "rating": 7.96734,
     "weight": 3.3053,
-    "designers": [
-      "Justin Kemppainen",
-      "Corey Konieczka",
-      "Jonathan Ying"
-    ],
+    "designers": ["Justin Kemppainen", "Corey Konieczka", "Jonathan Ying"],
     "artists": [
       "Arden Beckwith",
       "Christopher Burdett",
@@ -7196,14 +6303,8 @@
     "image": "https://cf.geekdo-images.com/ZzoXXECs9Ut_iXSerNbblg__original/img/tGRN3WGs6VZyZhplqAzaDU37wMc=/0x0/filters:format(jpeg)/pic7060415.jpg",
     "rating": 8.09353,
     "weight": 3,
-    "designers": [
-      "Jeremy Geenen",
-      "Ethan Janssen",
-      "Matt Rayford"
-    ],
-    "artists": [
-      "Cory Freeman"
-    ],
+    "designers": ["Jeremy Geenen", "Ethan Janssen", "Matt Rayford"],
+    "artists": ["Cory Freeman"],
     "publishers": [
       "Sophisticated Cerberus Games, LLC",
       "Game Harbor",
@@ -7228,16 +6329,9 @@
     "image": "https://cf.geekdo-images.com/KshsJJWgb265ZQjcxyZ89w__original/img/xnOVN46wMhi0thUUWnkkYPB68-k=/0x0/filters:format(jpeg)/pic6149210.jpg",
     "rating": 7.13807,
     "weight": 1.875,
-    "designers": [
-      "Phil Walker-Harding"
-    ],
-    "artists": [
-      "Adam Grason"
-    ],
-    "publishers": [
-      "Buffalo Games",
-      "Game Factory"
-    ]
+    "designers": ["Phil Walker-Harding"],
+    "artists": ["Adam Grason"],
+    "publishers": ["Buffalo Games", "Game Factory"]
   },
   {
     "id": 146508,
@@ -7257,10 +6351,7 @@
     "image": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__original/img/sUuboe9L4_nrIokyjAE74uklCjE=/0x0/filters:format(png)/pic2617634.png",
     "rating": 7.39051,
     "weight": 2.5935,
-    "designers": [
-      "Peggy Chassenet",
-      "Manuel Rozoy"
-    ],
+    "designers": ["Peggy Chassenet", "Manuel Rozoy"],
     "artists": [
       "Ben Carre",
       "Vincent Dutrait",
@@ -7296,13 +6387,8 @@
     "image": "https://cf.geekdo-images.com/7kqDmkUMGxXHr1wNPA7Gvg__original/img/e6rS0PyrVlPpJjCsWPmCaGg9PXc=/0x0/filters:format(jpeg)/pic4884996.jpg",
     "rating": 7.4498,
     "weight": 2.9312,
-    "designers": [
-      "Jamey Stegmaier"
-    ],
-    "artists": [
-      "Andrew Bosley",
-      "Rom Brown"
-    ],
+    "designers": ["Jamey Stegmaier"],
+    "artists": ["Andrew Bosley", "Rom Brown"],
     "publishers": [
       "Stonemaier Games",
       "999 Games",
@@ -7338,12 +6424,8 @@
     "image": "https://cf.geekdo-images.com/oc3u6OQpJkf9TvDw4iI9xA__original/img/Hh2zbSnLEARMlNg0OzImf2-5FIw=/0x0/filters:format(jpeg)/pic4991936.jpg",
     "rating": 7.38379,
     "weight": 1.0724,
-    "designers": [
-      "(Uncredited)"
-    ],
-    "artists": [
-      "(Uncredited)"
-    ],
+    "designers": ["(Uncredited)"],
+    "artists": ["(Uncredited)"],
     "publishers": [
       "Användbart Litet Företag",
       "Broadway Toys LTD",
@@ -7384,15 +6466,8 @@
     "image": "https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__original/img/oFVZWHX2exjGnior8uy6UQ--kB0=/0x0/filters:format(jpeg)/pic6949932.jpg",
     "rating": 7.47217,
     "weight": 3.2812,
-    "designers": [
-      "Przemysław Fornal",
-      "Adam Kwapiński"
-    ],
-    "artists": [
-      "Zuzanna Kołakowska",
-      "Jan Lipiński",
-      "Aleksander Zawada"
-    ],
+    "designers": ["Przemysław Fornal", "Adam Kwapiński"],
+    "artists": ["Zuzanna Kołakowska", "Jan Lipiński", "Aleksander Zawada"],
     "publishers": [
       "Board&Dice",
       "Board Game Rookie",
@@ -7424,15 +6499,8 @@
     "image": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__original/img/1jawNpljTXwnT4km_2CjGwoUPR8=/0x0/filters:format(jpeg)/pic2663291.jpg",
     "rating": 8.29625,
     "weight": 4.4363,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "artists": [
-      "Filip Murmak",
-      "Radim Pech",
-      "Jakub Politzer",
-      "Milan Vavroň"
-    ],
+    "designers": ["Vlaada Chvátil"],
+    "artists": ["Filip Murmak", "Radim Pech", "Jakub Politzer", "Milan Vavroň"],
     "publishers": [
       "Czech Games Edition",
       "Cranio Creations",
@@ -7470,9 +6538,7 @@
     "image": "https://cf.geekdo-images.com/soAzNVWglCdVBacNjoCTJw__original/img/HClVZy9phFP-NPte4UBQpclsaHU=/0x0/filters:format(jpeg)/pic2338267.jpg",
     "rating": 7.70407,
     "weight": 3.5002,
-    "designers": [
-      "Reiner Knizia"
-    ],
+    "designers": ["Reiner Knizia"],
     "artists": [
       "Bascu",
       "Christine Conrad",
@@ -7520,14 +6586,8 @@
     "image": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__original/img/Wpp0vzsVe4HxXGUqiZ1hDvwAHZU=/0x0/filters:format(png)/pic6624445.png",
     "rating": 8.35194,
     "weight": 3.8539,
-    "designers": [
-      "Josh J. Carlson",
-      "Adam Carlson"
-    ],
-    "artists": [
-      "Josh J. Carlson",
-      "Anthony LeTourneau"
-    ],
+    "designers": ["Josh J. Carlson", "Adam Carlson"],
+    "artists": ["Josh J. Carlson", "Anthony LeTourneau"],
     "publishers": [
       "Chip Theory Games",
       "Dice Realm",
@@ -7558,12 +6618,8 @@
     "image": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__original/img/EMx7ANS4LvolbOXmwJh-wT0UXPQ=/0x0/filters:format(jpeg)/pic7970728.jpg",
     "rating": 7.69354,
     "weight": 1.7732,
-    "designers": [
-      "Charlie Bink"
-    ],
-    "artists": [
-      "Eric Hibbeler"
-    ],
+    "designers": ["Charlie Bink"],
+    "artists": ["Eric Hibbeler"],
     "publishers": [
       "Underdog Games (I)",
       "ADC Blackfire Entertainment",
@@ -7595,9 +6651,7 @@
     "image": "https://cf.geekdo-images.com/2V3d4ryhxkS3RoPtDrvpUw__original/img/TP5U-O2eujPBK9IVmmifdfkWwdQ=/0x0/filters:format(jpeg)/pic875761.jpg",
     "rating": 6.66661,
     "weight": 1.2231,
-    "designers": [
-      "Tom McMurchie"
-    ],
+    "designers": ["Tom McMurchie"],
     "artists": [
       "Cathy Brigg",
       "Andrew Hepworth",
@@ -7635,13 +6689,8 @@
     "image": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__original/img/f6-Au0KTnNR4nugSu2U-wPNbZCU=/0x0/filters:format(jpeg)/pic4604439.jpg",
     "rating": 7.86268,
     "weight": 3.6679,
-    "designers": [
-      "Simone Luciani",
-      "Daniele Tascini"
-    ],
-    "artists": [
-      "Milan Vavroň"
-    ],
+    "designers": ["Simone Luciani", "Daniele Tascini"],
+    "artists": ["Milan Vavroň"],
     "publishers": [
       "Czech Games Edition",
       "Cranio Creations",
@@ -7680,13 +6729,8 @@
     "image": "https://cf.geekdo-images.com/1N4DBN9ggYo7didRPyL2bg__original/img/WLWRzXWDzLRPmHNKzr7bJC1IIrg=/0x0/filters:format(jpeg)/pic6230642.jpg",
     "rating": 7.53698,
     "weight": 3.0724,
-    "designers": [
-      "Tony Fanchi",
-      "Corey Konieczka"
-    ],
-    "artists": [
-      "Henning Ludvigsen"
-    ],
+    "designers": ["Tony Fanchi", "Corey Konieczka"],
+    "artists": ["Henning Ludvigsen"],
     "publishers": [
       "Fantasy Flight Games",
       "ADC Blackfire Entertainment",
@@ -7716,13 +6760,8 @@
     "image": "https://cf.geekdo-images.com/5FBIAvZi3Sw8dvmfwwJTjg__original/img/HZYRVZoUtl7COYnS0NvXNSuaf80=/0x0/filters:format(jpeg)/pic2760568.jpg",
     "rating": 7.4937,
     "weight": 3.0653,
-    "designers": [
-      "Inka Brand",
-      "Markus Brand"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Inka Brand", "Markus Brand"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "eggertspiele",
       "999 Games",
@@ -7765,13 +6804,8 @@
     "image": "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__original/img/VQddnfi_QO0r4GmUU3M8_-nuO3Q=/0x0/filters:format(png)/pic2461346.png",
     "rating": 7.78845,
     "weight": 3.1826,
-    "designers": [
-      "Simone Luciani",
-      "Daniele Tascini"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Simone Luciani", "Daniele Tascini"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Hans im Glück",
       "999 Games",
@@ -7807,15 +6841,8 @@
     "image": "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__original/img/bP1gM8RC-o5iz20_WazBaBNDHnU=/0x0/filters:format(png)/pic4552862.png",
     "rating": 7.28199,
     "weight": 1.1176,
-    "designers": [
-      "Alex Hague",
-      "Justin Vickers",
-      "Wolfgang Warsch"
-    ],
-    "artists": [
-      "Sofie Hannibal",
-      "Nan Na Hvass"
-    ],
+    "designers": ["Alex Hague", "Justin Vickers", "Wolfgang Warsch"],
+    "artists": ["Sofie Hannibal", "Nan Na Hvass"],
     "publishers": [
       "Palm Court",
       "Arrakis Games",
@@ -7850,9 +6877,7 @@
     "image": "https://cf.geekdo-images.com/E7bmvTXE2dWskxFaMwXYrA__original/img/B4tgeOFmRTASb8G5Ak2KCKwsTk0=/0x0/filters:format(png)/pic3747128.png",
     "rating": 6.95644,
     "weight": 1.1928,
-    "designers": [
-      "Chris Darsaklis"
-    ],
+    "designers": ["Chris Darsaklis"],
     "artists": [
       "Jonathan Aucomte",
       "Éric Azagury",
@@ -7911,12 +6936,8 @@
     "image": "https://cf.geekdo-images.com/8L0pOe9aMT6Mi4FeieCA0A__original/img/RKx-oEQ9bSMymahtEls8qH9hNb4=/0x0/filters:format(jpeg)/pic1285411.jpg",
     "rating": 6.89838,
     "weight": 1.1132,
-    "designers": [
-      "Dominic Crapuchettes"
-    ],
-    "artists": [
-      "Ali Douglass"
-    ],
+    "designers": ["Dominic Crapuchettes"],
+    "artists": ["Ali Douglass"],
     "publishers": [
       "NorthStar Game Studio",
       "Asmodee",
@@ -7944,15 +6965,8 @@
     "image": "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__original/img/Xak18xf2xfSedYFS9-ZKwjSk7yc=/0x0/filters:format(jpeg)/pic2482309.jpg",
     "rating": 7.6163,
     "weight": 2.4839,
-    "designers": [
-      "Raphaël Guiton",
-      "Jean-Baptiste Lullien",
-      "Nicolas Raoult"
-    ],
-    "artists": [
-      "Nicolas Fructus",
-      "Jérémy Masson"
-    ],
+    "designers": ["Raphaël Guiton", "Jean-Baptiste Lullien", "Nicolas Raoult"],
+    "artists": ["Nicolas Fructus", "Jérémy Masson"],
     "publishers": [
       "Cool Mini Or Not",
       "Guillotine Games",
@@ -7985,13 +6999,9 @@
     "image": null,
     "rating": 0,
     "weight": 0,
-    "designers": [
-      "Kim Vandenbroucke"
-    ],
+    "designers": ["Kim Vandenbroucke"],
     "artists": [],
-    "publishers": [
-      "Mudpuppy"
-    ]
+    "publishers": ["Mudpuppy"]
   },
   {
     "id": 171,
@@ -8011,9 +7021,7 @@
     "image": "https://cf.geekdo-images.com/0-DjGBOko6RV8zg5ejhYIg__original/img/0pn_QgMuWaIJb2Q7aZNfORse0_o=/0x0/filters:format(jpeg)/pic260745.jpg",
     "rating": 7.20209,
     "weight": 3.6547,
-    "designers": [
-      "(Uncredited)"
-    ],
+    "designers": ["(Uncredited)"],
     "artists": [
       "(Uncredited)",
       "Paolo Chiari",
@@ -8249,12 +7257,8 @@
       "Rick Priestley",
       "Gavin Thorpe"
     ],
-    "artists": [
-      "John Blanche"
-    ],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "artists": ["John Blanche"],
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 160044,
@@ -8276,9 +7280,7 @@
     "weight": 4.125,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 393971,
@@ -8300,9 +7302,7 @@
     "weight": 4,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 348220,
@@ -8322,16 +7322,9 @@
     "image": "https://cf.geekdo-images.com/LlbizD6pMEMBm2pzYg8QVA__original/img/_6xbP9HoSLZi9CoJa0_GV_OSGd8=/0x0/filters:format(jpeg)/pic6653293.jpg",
     "rating": 8.33224,
     "weight": 2.7447,
-    "designers": [
-      "Ole Steiness"
-    ],
-    "artists": [
-      "Rasmus Berggreen",
-      "Jonas Springborg"
-    ],
-    "publishers": [
-      "MOOD Publishing"
-    ]
+    "designers": ["Ole Steiness"],
+    "artists": ["Rasmus Berggreen", "Jonas Springborg"],
+    "publishers": ["MOOD Publishing"]
   },
   {
     "id": 215308,
@@ -8356,13 +7349,8 @@
       "Rob Daviau",
       "Justin D. Jacobson"
     ],
-    "artists": [
-      "Chelsea Harper",
-      "Jason Taylor"
-    ],
-    "publishers": [
-      "Restoration Games"
-    ]
+    "artists": ["Chelsea Harper", "Jason Taylor"],
+    "publishers": ["Restoration Games"]
   },
   {
     "id": 180263,
@@ -8382,16 +7370,9 @@
     "image": "https://cf.geekdo-images.com/OYne8uBCHv5oEgRfpOrV0A__original/img/jcTlhpYG2496xQtuQ277bFTIldY=/0x0/filters:format(jpeg)/pic2648303.jpg",
     "rating": 7.82696,
     "weight": 2.9054,
-    "designers": [
-      "Ludovic Roudy",
-      "Bruno Sautter"
-    ],
-    "artists": [
-      "Ludovic Roudy"
-    ],
-    "publishers": [
-      "Serious Poulp"
-    ]
+    "designers": ["Ludovic Roudy", "Bruno Sautter"],
+    "artists": ["Ludovic Roudy"],
+    "publishers": ["Serious Poulp"]
   },
   {
     "id": 200680,
@@ -8411,12 +7392,8 @@
     "image": "https://cf.geekdo-images.com/Vf_0TrTfz9yll7rVBvYGsg__original/img/K6dtSMTAibW5f0QhHXo37CeuECc=/0x0/filters:format(jpeg)/pic3029377.jpg",
     "rating": 7.96021,
     "weight": 3.4569,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -8455,10 +7432,7 @@
     "image": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__original/img/cassW39WF2QrPImJF59efADAmM0=/0x0/filters:format(jpeg)/pic3738560.jpg",
     "rating": 7.88,
     "weight": 3.4053,
-    "designers": [
-      "Richard Garfield",
-      "Lukas Litzsinger"
-    ],
+    "designers": ["Richard Garfield", "Lukas Litzsinger"],
     "artists": [
       "Bruno Balixa",
       "Ralph Beisner",
@@ -8502,13 +7476,8 @@
     "image": "https://cf.geekdo-images.com/OAX7HfOz-9N60StgADzd0g__original/img/x2Y_DYWrzzleMETfnu7Jm3R8jPo=/0x0/filters:format(png)/pic3781944.png",
     "rating": 7.73843,
     "weight": 2.75,
-    "designers": [
-      "S J Macdonald",
-      "Shem Phillips"
-    ],
-    "artists": [
-      "Mihajlo Dimitrievski"
-    ],
+    "designers": ["S J Macdonald", "Shem Phillips"],
+    "artists": ["Mihajlo Dimitrievski"],
     "publishers": [
       "Garphill Games",
       "Angry Lion Games",
@@ -8551,13 +7520,8 @@
     "image": "https://cf.geekdo-images.com/Awopfw5_5Qyh-7YcSbtudA__original/img/GxYtTK43oCTDn2J3pyukUw07bKo=/0x0/filters:format(jpeg)/pic4870482.jpg",
     "rating": 7.5877,
     "weight": 2.3121,
-    "designers": [
-      "Ron Gonzalo García"
-    ],
-    "artists": [
-      "Samuel Gonzalo García",
-      "Laura Medina Solera"
-    ],
+    "designers": ["Ron Gonzalo García"],
+    "artists": ["Samuel Gonzalo García", "Laura Medina Solera"],
     "publishers": [
       "Megacorpin Games",
       "17wanzy (Yihu BG)",
@@ -8586,15 +7550,8 @@
     "image": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__original/img/rkHKwkUqpQC7PAGG7n2gbrcQiUY=/0x0/filters:format(png)/pic4336469.png",
     "rating": 8.17363,
     "weight": 4.1085,
-    "designers": [
-      "Tommaso Battista",
-      "Simone Luciani"
-    ],
-    "artists": [
-      "Mauro Alocci",
-      "Antonio De Luca",
-      "Roman Roland Kuteynikov"
-    ],
+    "designers": ["Tommaso Battista", "Simone Luciani"],
+    "artists": ["Mauro Alocci", "Antonio De Luca", "Roman Roland Kuteynikov"],
     "publishers": [
       "Cranio Creations",
       "CrowD Games",
@@ -8629,13 +7586,8 @@
     "image": "https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__original/img/Z1jHr2yyOS982h3F5IktoEYTxeU=/0x0/filters:format(jpeg)/pic6352795.jpg",
     "rating": 6.98439,
     "weight": 1.8177,
-    "designers": [
-      "Matthew O'Malley",
-      "Ben Rosset"
-    ],
-    "artists": [
-      "Beth Sobel"
-    ],
+    "designers": ["Matthew O'Malley", "Ben Rosset"],
+    "artists": ["Beth Sobel"],
     "publishers": [
       "Stonemaier Games",
       "Arclight Games",
@@ -8665,9 +7617,7 @@
     "image": "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__original/img/RNuAr2CDbxE3XzeJVkxj4Df3eVM=/0x0/filters:format(jpeg)/pic6348964.jpg",
     "rating": 7.05474,
     "weight": 1.669,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
+    "designers": ["Uwe Rosenberg"],
     "artists": [
       "Fréderic Bertrand",
       "Marek Bláha",
@@ -8735,16 +7685,9 @@
     "image": "https://cf.geekdo-images.com/NAeItcDkAqhXVAe0ogT4yw__original/img/mKXBLJmeM638RFzxFEp22NZ1oP8=/0x0/filters:format(jpeg)/pic1601585.jpg",
     "rating": 7.38681,
     "weight": 3.5789,
-    "designers": [
-      "Ben Rosset"
-    ],
-    "artists": [
-      "Jaqui Davis",
-      "Christopher Kirkman"
-    ],
-    "publishers": [
-      "Dice Hate Me Games"
-    ]
+    "designers": ["Ben Rosset"],
+    "artists": ["Jaqui Davis", "Christopher Kirkman"],
+    "publishers": ["Dice Hate Me Games"]
   },
   {
     "id": 153938,
@@ -8764,13 +7707,8 @@
     "image": "https://cf.geekdo-images.com/1ph2jVOD1MudR1fK1nkwwA__original/img/73QLoWe-ejV9mijfd7HWZwns51A=/0x0/filters:format(png)/pic2031446.png",
     "rating": 7.04199,
     "weight": 1.4803,
-    "designers": [
-      "Steffen Bogen"
-    ],
-    "artists": [
-      "Dennis Lohausen",
-      "Chris Quilliams"
-    ],
+    "designers": ["Steffen Bogen"],
+    "artists": ["Dennis Lohausen", "Chris Quilliams"],
     "publishers": [
       "eggertspiele",
       "999 Games",
@@ -8813,9 +7751,7 @@
     "image": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__original/img/aVZEXAI-cUtuunNfPhjeHlS4fwQ=/0x0/filters:format(png)/pic6544250.png",
     "rating": 7.41016,
     "weight": 1.8939,
-    "designers": [
-      "Klaus-Jürgen Wrede"
-    ],
+    "designers": ["Klaus-Jürgen Wrede"],
     "artists": [
       "Marcel Gröber",
       "Doris Matthäus",
@@ -8879,13 +7815,8 @@
     "image": "https://cf.geekdo-images.com/JUrmY8GgFPQlENiPT7BGZw__original/img/whCMdZhta-uXHgNJfVnetnjZueU=/0x0/filters:format(jpeg)/pic6884563.jpg",
     "rating": 9.15701,
     "weight": 2.8623,
-    "designers": [
-      "Stefan Feld"
-    ],
-    "artists": [
-      "Jakub Dzikowski",
-      "Patryk Jędraszek"
-    ],
+    "designers": ["Stefan Feld"],
+    "artists": ["Jakub Dzikowski", "Patryk Jędraszek"],
     "publishers": [
       "alea",
       "Awaken Realms",
@@ -8912,9 +7843,7 @@
     "image": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__original/img/xV7oisd3RQ8R-k18cdWAYthHXsA=/0x0/filters:format(jpeg)/pic2419375.jpg",
     "rating": 7.09987,
     "weight": 2.2947,
-    "designers": [
-      "Klaus Teuber"
-    ],
+    "designers": ["Klaus Teuber"],
     "artists": [
       "Volkan Baga",
       "Tanja Donner",
@@ -9000,19 +7929,9 @@
     "image": "https://cf.geekdo-images.com/wMd7npCj8VObsqMVK5kawg__original/img/Ffu3d_UNX6tVFbEqk_c7TIdNb3U=/0x0/filters:format(jpeg)/pic4175159.jpg",
     "rating": 6.76239,
     "weight": 1.6667,
-    "designers": [
-      "Dan Kazmaier",
-      "Connie Kazmaier"
-    ],
-    "artists": [
-      "Mary Haasdyk",
-      "Sahana VJ"
-    ],
-    "publishers": [
-      "Steeped Games Ltd.",
-      "Arrakis Games",
-      "Little Rocket Games"
-    ]
+    "designers": ["Dan Kazmaier", "Connie Kazmaier"],
+    "artists": ["Mary Haasdyk", "Sahana VJ"],
+    "publishers": ["Steeped Games Ltd.", "Arrakis Games", "Little Rocket Games"]
   },
   {
     "id": 239188,
@@ -9032,9 +7951,7 @@
     "image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__original/img/3OigysLof9HIk4jvV79Cm-tb-gY=/0x0/filters:format(jpeg)/pic4317519.jpg",
     "rating": 7.59502,
     "weight": 2.0618,
-    "designers": [
-      "David Cicurel"
-    ],
+    "designers": ["David Cicurel"],
     "artists": [
       "David Cicurel",
       "Matijos Gebreselassie",
@@ -9084,12 +8001,8 @@
     "image": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__original/img/GcuvCavv-ZZP5_O1kCTrZELuZdY=/0x0/filters:format(png)/pic3511783.png",
     "rating": 7.94669,
     "weight": 3.4571,
-    "designers": [
-      "Juma Al-JouJou"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Juma Al-JouJou"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Karma Games",
       "BoardM Factory",
@@ -9122,14 +8035,8 @@
     "image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg",
     "rating": 7.54544,
     "weight": 1.2612,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "artists": [
-      "Stéphane Gantiez",
-      "Tomáš Kučerovský",
-      "Filip Murmak"
-    ],
+    "designers": ["Vlaada Chvátil"],
+    "artists": ["Stéphane Gantiez", "Tomáš Kučerovský", "Filip Murmak"],
     "publishers": [
       "Czech Games Edition",
       "Asmodee",
@@ -9184,14 +8091,8 @@
     "image": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__original/img/BhJ3sB3uk-eSdR1iW4EP3cu0Wi0=/0x0/filters:format(jpeg)/pic3453267.jpg",
     "rating": 8.09642,
     "weight": 2.9975,
-    "designers": [
-      "Mac Gerdts"
-    ],
-    "artists": [
-      "Marina Fahrenbach",
-      "Mac Gerdts",
-      "Dominik Mayer"
-    ],
+    "designers": ["Mac Gerdts"],
+    "artists": ["Marina Fahrenbach", "Mac Gerdts", "Dominik Mayer"],
     "publishers": [
       "PD-Verlag",
       "999 Games",
@@ -9227,12 +8128,8 @@
     "image": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__original/img/jGWxczXC_VWZofeAmlO_DkB0hCI=/0x0/filters:format(jpeg)/pic5988903.jpg",
     "rating": 8.17445,
     "weight": 2.0339,
-    "designers": [
-      "Thomas Sing"
-    ],
-    "artists": [
-      "Marco Armbruster"
-    ],
+    "designers": ["Thomas Sing"],
+    "artists": ["Marco Armbruster"],
     "publishers": [
       "KOSMOS",
       "999 Games",
@@ -9268,13 +8165,8 @@
     "image": "https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__original/img/GuDlOog3eTRrkxCUzCEgRc17B-g=/0x0/filters:format(png)/pic5726930.png",
     "rating": 8.19921,
     "weight": 3.8681,
-    "designers": [
-      "Simone Luciani",
-      "Nestore Mangone"
-    ],
-    "artists": [
-      "Paolo Voto"
-    ],
+    "designers": ["Simone Luciani", "Nestore Mangone"],
+    "artists": ["Paolo Voto"],
     "publishers": [
       "ThunderGryph Games",
       "Blackrock Games",
@@ -9305,9 +8197,7 @@
     "image": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__original/img/lL6QJ69UmZT7CeljUcjyA47b-e0=/0x0/filters:format(jpeg)/pic3759421.jpg",
     "rating": 7.77119,
     "weight": 1.8042,
-    "designers": [
-      "Thomas Dagenais-Lespérance"
-    ],
+    "designers": ["Thomas Dagenais-Lespérance"],
     "artists": [
       "Thomas Dagenais-Lespérance",
       "Fabien Fulchiron",
@@ -9353,16 +8243,8 @@
     "image": "https://cf.geekdo-images.com/q-CvtJOYWZQDw1tuOdDd4Q__original/img/Eo6IIIYE_Ks1AkMS7garjfSXsh4=/0x0/filters:format(jpeg)/pic6020854.jpg",
     "rating": 7.38876,
     "weight": 3.2576,
-    "designers": [
-      "Brian Lewis",
-      "David McGregor",
-      "Marissa Misura"
-    ],
-    "artists": [
-      "Kwanchai Moriya",
-      "Joe Shawcross",
-      "Andrew Thompson"
-    ],
+    "designers": ["Brian Lewis", "David McGregor", "Marissa Misura"],
+    "artists": ["Kwanchai Moriya", "Joe Shawcross", "Andrew Thompson"],
     "publishers": [
       "Pandasaurus Games",
       "La Boîte de Jeu",
@@ -9389,9 +8271,7 @@
     "image": "https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__original/img/U-WjAGlPXS_p89z4R0V4b8IADxA=/0x0/filters:format(jpeg)/pic784193.jpg",
     "rating": 7.81763,
     "weight": 4.0404,
-    "designers": [
-      "Chad Jensen"
-    ],
+    "designers": ["Chad Jensen"],
     "artists": [
       "Bartek Jędrzejewski",
       "Chad Jensen",
@@ -9430,12 +8310,8 @@
     "image": "https://cf.geekdo-images.com/SAWf0NIsIICJBRWal4bDNQ__original/img/kShoTHRkodi-hXX9Mb-Ksm6ym8I=/0x0/filters:format(jpeg)/pic2736237.jpg",
     "rating": 6.57185,
     "weight": 1.0484,
-    "designers": [
-      "Roberto Fraga"
-    ],
-    "artists": [
-      "Stéphane Escapa"
-    ],
+    "designers": ["Roberto Fraga"],
+    "artists": ["Stéphane Escapa"],
     "publishers": [
       "Blue Orange (EU)",
       "Bard Centrum Gier",
@@ -9479,13 +8355,8 @@
     "image": "https://cf.geekdo-images.com/cnFppsVNOSTJ-W3APQFuTg__original/img/AbcjscBi-x3tVrsJsBhXq2RxLbc=/0x0/filters:format(jpeg)/pic1974056.jpg",
     "rating": 7.83444,
     "weight": 3.7042,
-    "designers": [
-      "Touko Tahkokallio"
-    ],
-    "artists": [
-      "Ossi Hiekkala",
-      "Sampo Sikiö"
-    ],
+    "designers": ["Touko Tahkokallio"],
+    "artists": ["Ossi Hiekkala", "Sampo Sikiö"],
     "publishers": [
       "Lautapelit.fi",
       "(Self-Published)",
@@ -9513,18 +8384,9 @@
     "image": "https://cf.geekdo-images.com/YM3nT93EPNNajfmJYO1eGg__original/img/MH7aT7xaZyHJlG6pj1LZhYA0AKI=/0x0/filters:format(jpeg)/pic965113.jpg",
     "rating": 6.10333,
     "weight": 2.0179,
-    "designers": [
-      "Chris James (I)"
-    ],
-    "artists": [
-      "Andy Kurzen",
-      "Matt Plett"
-    ],
-    "publishers": [
-      "Magellan",
-      "Mosigra",
-      "Stratus Games"
-    ]
+    "designers": ["Chris James (I)"],
+    "artists": ["Andy Kurzen", "Matt Plett"],
+    "publishers": ["Magellan", "Mosigra", "Stratus Games"]
   },
   {
     "id": 203417,
@@ -9544,10 +8406,7 @@
     "image": "https://cf.geekdo-images.com/3c1Wy_dXjVZ8Fpytyf9UvQ__original/img/sAMsCqIli73aTRtMJhbaYjOeucI=/0x0/filters:format(jpeg)/pic3332425.jpg",
     "rating": 7.06322,
     "weight": 2.5556,
-    "designers": [
-      "Inka Brand",
-      "Markus Brand"
-    ],
+    "designers": ["Inka Brand", "Markus Brand"],
     "artists": [
       "Silvia Christoph",
       "Michaela Kienle",
@@ -9591,12 +8450,8 @@
     "image": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__original/img/N1X-0JB1GapFVhl98nP4tNFXMcM=/0x0/filters:format(png)/pic3146943.png",
     "rating": 8.17485,
     "weight": 3.8609,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Feuerland Spiele",
       "Cranio Creations",
@@ -9634,12 +8489,8 @@
     "image": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__original/img/PS9HXrThM8Pepbd-cuA1tX8KCYU=/0x0/filters:format(jpeg)/pic2055255.jpg",
     "rating": 7.77467,
     "weight": 2.8475,
-    "designers": [
-      "Bruno Cathala"
-    ],
-    "artists": [
-      "Clément Masson"
-    ],
+    "designers": ["Bruno Cathala"],
+    "artists": ["Clément Masson"],
     "publishers": [
       "Days of Wonder",
       "Arclight Games",
@@ -9671,10 +8522,7 @@
     "image": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__original/img/9c-MJB6x54vN5eB-1hT4XQaHtP8=/0x0/filters:format(png)/pic2649434.png",
     "rating": 8.06563,
     "weight": 4.1996,
-    "designers": [
-      "Jeroen Doumen",
-      "Joris Wiersinga"
-    ],
+    "designers": ["Jeroen Doumen", "Joris Wiersinga"],
     "artists": [
       "Snow Conrad",
       "Iris de Haan",
@@ -9714,11 +8562,7 @@
     "image": "https://cf.geekdo-images.com/WlvyznYhlYNXMtMbKKu1oA__original/img/AQ1P6PKw7ZW-XTOAFKhCwsnfP0I=/0x0/filters:format(jpeg)/pic2471359.jpg",
     "rating": 7.97433,
     "weight": 3.8436,
-    "designers": [
-      "Samuel Bailey",
-      "James Kniffen",
-      "Corey Konieczka"
-    ],
+    "designers": ["Samuel Bailey", "James Kniffen", "Corey Konieczka"],
     "artists": [],
     "publishers": [
       "Fantasy Flight Games",
@@ -9746,14 +8590,8 @@
     "image": "https://cf.geekdo-images.com/DCVRR-zA7Jy9wjuZudTZ8w__original/img/dF1pDf3JLgqAdzD9uhy14Pd3yx8=/0x0/filters:format(jpeg)/pic714398.jpg",
     "rating": 7.25298,
     "weight": 2.6311,
-    "designers": [
-      "Wolfgang Panning",
-      "Marco Ruskowski",
-      "Marcel Süßelbeck"
-    ],
-    "artists": [
-      "Oliver Schlemmer"
-    ],
+    "designers": ["Wolfgang Panning", "Marco Ruskowski", "Marcel Süßelbeck"],
+    "artists": ["Oliver Schlemmer"],
     "publishers": [
       "Queen Games",
       "Arclight Games",
@@ -9780,15 +8618,8 @@
     "image": "https://cf.geekdo-images.com/iLiUp891Wqb5EE0gBqjBaA__original/img/XowehLK_AtTFigFRNeLqCMmVXNo=/0x0/filters:format(jpeg)/pic4411188.jpg",
     "rating": 7.432,
     "weight": 3.2789,
-    "designers": [
-      "Frank Brooks",
-      "Stephen Hand",
-      "Kevin Wilson"
-    ],
-    "artists": [
-      "Chris Beck",
-      "Samuel R. Shimota"
-    ],
+    "designers": ["Frank Brooks", "Stephen Hand", "Kevin Wilson"],
+    "artists": ["Chris Beck", "Samuel R. Shimota"],
     "publishers": [
       "Fantasy Flight Games",
       "ADC Blackfire Entertainment",
@@ -9822,13 +8653,8 @@
     "image": "https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__original/img/3tv6H7jX5T9rqwuI84YZKZDBGcw=/0x0/filters:format(jpeg)/pic1077906.jpg",
     "rating": 7.53805,
     "weight": 3.7257,
-    "designers": [
-      "Christian T. Petersen"
-    ],
-    "artists": [
-      "Tomasz Jedruszek",
-      "Henning Ludvigsen"
-    ],
+    "designers": ["Christian T. Petersen"],
+    "artists": ["Tomasz Jedruszek", "Henning Ludvigsen"],
     "publishers": [
       "Fantasy Flight Games",
       "ADC Blackfire Entertainment",
@@ -9868,14 +8694,8 @@
     "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__original/img/7d-lj5Gd1e8PFnD97LYFah2c45M=/0x0/filters:format(jpeg)/pic2437871.jpg",
     "rating": 8.59882,
     "weight": 3.9065,
-    "designers": [
-      "Isaac Childres"
-    ],
-    "artists": [
-      "Alexandr Elichev",
-      "Josh T. McDowell",
-      "Alvaro Nebot"
-    ],
+    "designers": ["Isaac Childres"],
+    "artists": ["Alexandr Elichev", "Josh T. McDowell", "Alvaro Nebot"],
     "publishers": [
       "Cephalofair Games",
       "Albi",
@@ -9908,13 +8728,8 @@
     "image": "https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__original/img/5vNCdK9mQ0szo_SwSeVQUWnirZ8=/0x0/filters:format(jpeg)/pic6966955.jpg",
     "rating": 7.93843,
     "weight": 3.2119,
-    "designers": [
-      "Virginio Gigli",
-      "Simone Luciani"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Virginio Gigli", "Simone Luciani"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "Cranio Creations",
@@ -9949,12 +8764,8 @@
     "image": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__original/img/yecB1xO32nnjBAyskVOTq9LBuLo=/0x0/filters:format(jpeg)/pic5988511.jpg",
     "rating": 8.35787,
     "weight": 3.726,
-    "designers": [
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
+    "designers": ["Alexander Pfister"],
+    "artists": ["Chris Quilliams"],
     "publishers": [
       "eggertspiele",
       "Arclight Games",
@@ -9988,14 +8799,8 @@
     "image": "https://cf.geekdo-images.com/wirPJ4tfSDafd-TNhVr7eA__original/img/TGfmdsLs7evU3CnR99ksDMeRtCo=/0x0/filters:format(png)/pic7663518.png",
     "rating": 6.99193,
     "weight": 2.1106,
-    "designers": [
-      "Sean Ross (I)"
-    ],
-    "artists": [
-      "Luis Francisco",
-      "別府さい (Sai Beppu)",
-      "Gary Simpson"
-    ],
+    "designers": ["Sean Ross (I)"],
+    "artists": ["Luis Francisco", "別府さい (Sai Beppu)", "Gary Simpson"],
     "publishers": [
       "Indie Boards & Cards",
       "(Self-Published)",
@@ -10021,12 +8826,8 @@
     "image": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__original/img/tQFXv1w2R-J-1cjyaKG9LAS2UOs=/0x0/filters:format(jpeg)/pic6091101.jpg",
     "rating": 7.85085,
     "weight": 3.72,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -10066,12 +8867,8 @@
     "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__original/img/eqUVrCJKcMBGBhw4Gfc9_9JabYE=/0x0/filters:format(jpeg)/pic791151.jpg",
     "rating": 7.31949,
     "weight": 2.3173,
-    "designers": [
-      "John Yianni"
-    ],
-    "artists": [
-      "John Yianni"
-    ],
+    "designers": ["John Yianni"],
+    "artists": ["John Yianni"],
     "publishers": [
       "Gen42 Games",
       "Asmodee",
@@ -10112,15 +8909,9 @@
     "image": "https://cf.geekdo-images.com/LIA_kl5a8K3ha69ETOKhCw__original/img/1ugbiheC-PND8PFgwtzXxVaJ-7s=/0x0/filters:format(png)/pic5645477.png",
     "rating": 8.15,
     "weight": 0,
-    "designers": [
-      "Michael Zummo"
-    ],
-    "artists": [
-      "Matthew Zummo"
-    ],
-    "publishers": [
-      "(Self-Published)"
-    ]
+    "designers": ["Michael Zummo"],
+    "artists": ["Matthew Zummo"],
+    "publishers": ["(Self-Published)"]
   },
   {
     "id": 207310,
@@ -10140,17 +8931,9 @@
     "image": "https://cf.geekdo-images.com/0sLQ_y3fZ8RywNyp60sjsQ__original/img/pYRsHy65qy9D3DQf-eF5Tay4U74=/0x0/filters:format(jpeg)/pic3493604.jpg",
     "rating": 5.68459,
     "weight": 1.8333,
-    "designers": [
-      "Bryan Sloan"
-    ],
-    "artists": [
-      "Artur Jag",
-      "Josh T. McDowell"
-    ],
-    "publishers": [
-      "(Self-Published)",
-      "Black Forest Studio"
-    ]
+    "designers": ["Bryan Sloan"],
+    "artists": ["Artur Jag", "Josh T. McDowell"],
+    "publishers": ["(Self-Published)", "Black Forest Studio"]
   },
   {
     "id": 148949,
@@ -10170,13 +8953,8 @@
     "image": "https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__original/img/pHIJibqf-DmlOQD3CfT_rAjGmc0=/0x0/filters:format(jpeg)/pic1885326.jpg",
     "rating": 7.54506,
     "weight": 2.5816,
-    "designers": [
-      "Rüdiger Dorn"
-    ],
-    "artists": [
-      "Andreas Resch",
-      "Hans-Georg Schneider"
-    ],
+    "designers": ["Rüdiger Dorn"],
+    "artists": ["Andreas Resch", "Hans-Georg Schneider"],
     "publishers": [
       "Pegasus Spiele",
       "2 Pionki",
@@ -10213,14 +8991,8 @@
     "image": "https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__original/img/hYCWWUIvO5DnVqx_Ij4JnRIyLHo=/0x0/filters:format(jpeg)/pic5137279.jpg",
     "rating": 7.60172,
     "weight": 1.0397,
-    "designers": [
-      "Ludovic Roudy",
-      "Bruno Sautter"
-    ],
-    "artists": [
-      "Éric Azagury",
-      "Florian Poullet"
-    ],
+    "designers": ["Ludovic Roudy", "Bruno Sautter"],
+    "artists": ["Éric Azagury", "Florian Poullet"],
     "publishers": [
       "Repos Production",
       "ADC Blackfire Entertainment",
@@ -10260,15 +9032,8 @@
     "image": "https://cf.geekdo-images.com/HbfgxDJZQnNEZQKvpmJxQg__original/img/HsrtfanhKfXX07zNEm-xZpSbxyY=/0x0/filters:format(jpeg)/pic2278942.jpg",
     "rating": 7.72764,
     "weight": 3.3409,
-    "designers": [
-      "Sebastian Bleasdale",
-      "Richard Breese"
-    ],
-    "artists": [
-      "Juliet Breese",
-      "Jo Breese",
-      "Gemma Tegelaers"
-    ],
+    "designers": ["Sebastian Bleasdale", "Richard Breese"],
+    "artists": ["Juliet Breese", "Jo Breese", "Gemma Tegelaers"],
     "publishers": [
       "R&D Games",
       "Arclight Games",
@@ -10304,16 +9069,9 @@
     "image": "https://cf.geekdo-images.com/N83hyjtlRzQ3DF1ldMhTkg__original/img/FAix0GlPJutzbBMSbTspouHzHnE=/0x0/filters:format(jpeg)/pic3387491.jpg",
     "rating": 7.56337,
     "weight": 2.325,
-    "designers": [
-      "Donald X. Vaccarino"
-    ],
-    "artists": [
-      "Michael Schacht",
-      "Oliver Schlemmer"
-    ],
-    "publishers": [
-      "Queen Games"
-    ]
+    "designers": ["Donald X. Vaccarino"],
+    "artists": ["Michael Schacht", "Oliver Schlemmer"],
+    "publishers": ["Queen Games"]
   },
   {
     "id": 29368,
@@ -10333,16 +9091,9 @@
     "image": "https://cf.geekdo-images.com/jseUQXzKFKPPSUV_SB1YAg__original/img/c6pFkS-dVLo41OHpzbY6u8MJpok=/0x0/filters:format(jpeg)/pic6974555.jpg",
     "rating": 6.90901,
     "weight": 2.2954,
-    "designers": [
-      "Jason C. Hill"
-    ],
-    "artists": [
-      "Jack Scott Hill"
-    ],
-    "publishers": [
-      "Flying Frog Productions",
-      "Hobby Base"
-    ]
+    "designers": ["Jason C. Hill"],
+    "artists": ["Jack Scott Hill"],
+    "publishers": ["Flying Frog Productions", "Hobby Base"]
   },
   {
     "id": 59959,
@@ -10362,13 +9113,8 @@
     "image": "https://cf.geekdo-images.com/H3G1t-oIjN9gEVVI21FoVg__original/img/YfHGqQB_HXicZUTY-XgXgpsl_rg=/0x0/filters:format(jpeg)/pic1545654.jpg",
     "rating": 7.35156,
     "weight": 2.6452,
-    "designers": [
-      "Gabriele Mari",
-      "Gianluca Santopietro"
-    ],
-    "artists": [
-      "Gianluca Santopietro"
-    ],
+    "designers": ["Gabriele Mari", "Gianluca Santopietro"],
+    "artists": ["Gianluca Santopietro"],
     "publishers": [
       "Nexus Editrice",
       "Sir Chester Cobblepot",
@@ -10407,13 +9153,8 @@
     "image": "https://cf.geekdo-images.com/afCkJ0fvvhui6A9wlzOnyQ__original/img/LD-7rmkdrZUzgee0JGxCZeT_jRg=/0x0/filters:format(jpeg)/pic2338327.jpg",
     "rating": 6.75496,
     "weight": 1.932,
-    "designers": [
-      "Richard James"
-    ],
-    "artists": [
-      "Gabrielle Levion",
-      "Chris Quilliams"
-    ],
+    "designers": ["Richard James"],
+    "artists": ["Gabrielle Levion", "Chris Quilliams"],
     "publishers": [
       "Evertide Games",
       "Z-Man Games",
@@ -10440,10 +9181,7 @@
     "image": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__original/img/CXqwimJPonWy1oyXEMgPN_ZVmUI=/0x0/filters:format(jpeg)/pic5674958.jpg",
     "rating": 8.07941,
     "weight": 2.9166,
-    "designers": [
-      "Elwen",
-      "Mín"
-    ],
+    "designers": ["Elwen", "Mín"],
     "artists": [
       "Ondřej Hrdina",
       "Jiří Kůs",
@@ -10495,12 +9233,8 @@
     "image": "https://cf.geekdo-images.com/wJfDIveg2zpTGn8E1WzEpA__original/img/hlp96WuBfwiCijcfPddNmfgTq6E=/0x0/filters:format(jpeg)/pic3268473.jpg",
     "rating": 6.96077,
     "weight": 1.7655,
-    "designers": [
-      "Kasper Lapp"
-    ],
-    "artists": [
-      "Gyom"
-    ],
+    "designers": ["Kasper Lapp"],
+    "artists": ["Gyom"],
     "publishers": [
       "Sit Down!",
       "2Tomatoes Games",
@@ -10546,13 +9280,8 @@
       "Prashant Saraswat",
       "Nathan Tiras"
     ],
-    "artists": [
-      "Danny Beck",
-      "Tysen Henderson"
-    ],
-    "publishers": [
-      "Riot Games"
-    ]
+    "artists": ["Danny Beck", "Tysen Henderson"],
+    "publishers": ["Riot Games"]
   },
   {
     "id": 25292,
@@ -10572,14 +9301,8 @@
     "image": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__original/img/wrLHO6mElyCGzog0aHzJ9KE-SeE=/0x0/filters:format(jpeg)/pic738119.jpg",
     "rating": 7.39523,
     "weight": 3.2447,
-    "designers": [
-      "Kasper Aagaard",
-      "Christian Marcussen"
-    ],
-    "artists": [
-      "Ben Nelson",
-      "Chris Quilliams"
-    ],
+    "designers": ["Kasper Aagaard", "Christian Marcussen"],
+    "artists": ["Ben Nelson", "Chris Quilliams"],
     "publishers": [
       "Z-Man Games",
       "Asmodee",
@@ -10609,9 +9332,7 @@
     "image": "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__original/img/s3Gai8XBTVfWFFlYpL4XF3kIlWU=/0x0/filters:format(png)/pic3458036.png",
     "rating": 7.49666,
     "weight": 2.2879,
-    "designers": [
-      "Reiner Knizia"
-    ],
+    "designers": ["Reiner Knizia"],
     "artists": [
       "Carole Carrion",
       "Manuel Carvalho",
@@ -10669,18 +9390,9 @@
     "image": "https://cf.geekdo-images.com/QXa7ib_4b-hxQo98wwclog__original/img/kCzDTBExe6J48qWf3gCj3dxU0ZM=/0x0/filters:format(jpeg)/pic4645233.jpg",
     "rating": 7.179,
     "weight": 2.5763,
-    "designers": [
-      "Eric Dubus",
-      "Olivier Melison"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
-    "publishers": [
-      "Holy Grail Games",
-      "Devir",
-      "Luma Games"
-    ]
+    "designers": ["Eric Dubus", "Olivier Melison"],
+    "artists": ["Vincent Dutrait"],
+    "publishers": ["Holy Grail Games", "Devir", "Luma Games"]
   },
   {
     "id": 181304,
@@ -10700,10 +9412,7 @@
     "image": "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__original/img/uhvKoYDfAsLg-nMkjQcbSJTDFmU=/0x0/filters:format(jpeg)/pic2601683.jpg",
     "rating": 7.22293,
     "weight": 1.8983,
-    "designers": [
-      "Oleksandr Nevskiy",
-      "Oleg Sidorenko"
-    ],
+    "designers": ["Oleksandr Nevskiy", "Oleg Sidorenko"],
     "artists": [
       "Igor Burlakov",
       "Xavier Collette",
@@ -10745,13 +9454,8 @@
     "image": "https://cf.geekdo-images.com/ZyCjYnNS6VFF1X7e6IFA1A__original/img/4CK6Cx5xj0b0p6r69c7kvDjANGE=/0x0/filters:format(jpeg)/pic4058665.jpg",
     "rating": 7.55837,
     "weight": 3.3946,
-    "designers": [
-      "Simone Luciani",
-      "Nestore Mangone"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Simone Luciani", "Nestore Mangone"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Cranio Creations",
       "CMON Global Limited",
@@ -10783,13 +9487,8 @@
     "image": "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__original/img/9YTYFSMwiRA01ZRNG0R5e9Rq01E=/0x0/filters:format(jpeg)/pic1809823.jpg",
     "rating": 7.06121,
     "weight": 1.3721,
-    "designers": [
-      "Ted Alspach",
-      "Akihisa Okui"
-    ],
-    "artists": [
-      "Gus Batts"
-    ],
+    "designers": ["Ted Alspach", "Akihisa Okui"],
+    "artists": ["Gus Batts"],
     "publishers": [
       "Bézier Games",
       "Games7Days",
@@ -10825,12 +9524,8 @@
     "image": "https://cf.geekdo-images.com/VTOAey9BsFvxUs3I1VlGIQ__original/img/yCNBnWRPJEAIuDPEcXXQd_-EbrA=/0x0/filters:format(jpeg)/pic7070031.jpg",
     "rating": 7.35756,
     "weight": 3.2615,
-    "designers": [
-      "Brandt Brinkerhoff"
-    ],
-    "artists": [
-      "Brandt Brinkerhoff"
-    ],
+    "designers": ["Brandt Brinkerhoff"],
+    "artists": ["Brandt Brinkerhoff"],
     "publishers": [
       "Aesc Games",
       "Board Game Circus",
@@ -10856,14 +9551,8 @@
     "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__original/img/wJiRr7lBmWSKcRS3lPpvKIPMgQQ=/0x0/filters:format(jpeg)/pic3763549.jpg",
     "rating": 8.0383,
     "weight": 3.2532,
-    "designers": [
-      "Rob Daviau",
-      "Matt Leacock"
-    ],
-    "artists": [
-      "Atha Kanaani",
-      "Chris Quilliams"
-    ],
+    "designers": ["Rob Daviau", "Matt Leacock"],
+    "artists": ["Atha Kanaani", "Chris Quilliams"],
     "publishers": [
       "Z-Man Games",
       "Asmodee",
@@ -10893,12 +9582,8 @@
     "image": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__original/img/7DlaMCmuoJzm9AzelmStYIDgutI=/0x0/filters:format(png)/pic4503733.png",
     "rating": 8.20874,
     "weight": 3.8495,
-    "designers": [
-      "Cole Wehrle"
-    ],
-    "artists": [
-      "Cole Wehrle"
-    ],
+    "designers": ["Cole Wehrle"],
+    "artists": ["Cole Wehrle"],
     "publishers": [
       "Wehrlegig Games",
       "2Tomatoes Games",
@@ -10931,12 +9616,8 @@
     "image": "https://cf.geekdo-images.com/x39hXnP-GkLN1CDEq932oA__original/img/dns582_OrWD9ZbABtUmXcQOxguQ=/0x0/filters:format(jpeg)/pic4227162.jpg",
     "rating": 7.60902,
     "weight": 3.9124,
-    "designers": [
-      "Ryan Courtney"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Ryan Courtney"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Capstone Games",
       "Game Harbor",
@@ -10962,12 +9643,8 @@
     "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__original/img/DOgIp57F7tKZvxeITGAd3e_Q9as=/0x0/filters:format(jpeg)/pic158548.jpg",
     "rating": 7.92101,
     "weight": 3.2704,
-    "designers": [
-      "Andreas Seyfarth"
-    ],
-    "artists": [
-      "Franz Vohwinkel"
-    ],
+    "designers": ["Andreas Seyfarth"],
+    "artists": ["Franz Vohwinkel"],
     "publishers": [
       "alea",
       "Ravensburger",
@@ -11002,13 +9679,8 @@
     "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__original/img/Vh-DCkTPa8OU45LaJdUywwhiYqE=/0x0/filters:format(jpeg)/pic5261714.jpg",
     "rating": 7.74439,
     "weight": 2.9909,
-    "designers": [
-      "Thomas Lehmann"
-    ],
-    "artists": [
-      "Martin Hoffmann",
-      "Claus Stephan"
-    ],
+    "designers": ["Thomas Lehmann"],
+    "artists": ["Martin Hoffmann", "Claus Stephan"],
     "publishers": [
       "Rio Grande Games",
       "ABACUSSPIELE",
@@ -11049,14 +9721,8 @@
     "image": "https://cf.geekdo-images.com/-PuiCnbxlBzMSjnUegp9AQ__original/img/hH1AwTR4fdtYY_cO8IYp1-I8dhE=/0x0/filters:format(jpeg)/pic5556025.jpg",
     "rating": 7.72283,
     "weight": 2.8184,
-    "designers": [
-      "Isra C.",
-      "Shei S."
-    ],
-    "artists": [
-      "Chema Román",
-      "Pedro Soto"
-    ],
+    "designers": ["Isra C.", "Shei S."],
+    "artists": ["Chema Román", "Pedro Soto"],
     "publishers": [
       "Devir",
       "Banana Games",
@@ -11088,12 +9754,8 @@
     "image": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__original/img/pKJ1XyLN4hvHim5eRj2VJHijv1E=/0x0/filters:format(jpeg)/pic3880340.jpg",
     "rating": 7.77784,
     "weight": 3.3,
-    "designers": [
-      "Eric M. Lang"
-    ],
-    "artists": [
-      "Adrian Smith"
-    ],
+    "designers": ["Eric M. Lang"],
+    "artists": ["Adrian Smith"],
     "publishers": [
       "CMON Global Limited",
       "Guillotine Games",
@@ -11127,12 +9789,8 @@
     "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg",
     "rating": 8.07397,
     "weight": 3.7971,
-    "designers": [
-      "Cole Wehrle"
-    ],
-    "artists": [
-      "Kyle Ferrin"
-    ],
+    "designers": ["Cole Wehrle"],
+    "artists": ["Kyle Ferrin"],
     "publishers": [
       "Leder Games",
       "2Tomatoes Games",
@@ -11171,14 +9829,8 @@
     "image": "https://cf.geekdo-images.com/B0oEVgeqs4_rT8oyb1_Juw__original/img/EnBmUkDKSbcBusI6nVRczadYs0M=/0x0/filters:format(jpeg)/pic1772936.jpg",
     "rating": 7.73695,
     "weight": 3.4052,
-    "designers": [
-      "Helmut Ohley",
-      "Leonhard \"Lonny\" Orgler"
-    ],
-    "artists": [
-      "Martin Hoffmann",
-      "Claus Stephan"
-    ],
+    "designers": ["Helmut Ohley", "Leonhard \"Lonny\" Orgler"],
+    "artists": ["Martin Hoffmann", "Claus Stephan"],
     "publishers": [
       "Hans im Glück",
       "999 Games",
@@ -11209,13 +9861,8 @@
     "image": "https://cf.geekdo-images.com/665Ply7Ho1WVf1v1iZlWeg__original/img/4q6RCxd7st-yW2MyrJwVC_d3ajk=/0x0/filters:format(png)/pic3283110.png",
     "rating": 7.36769,
     "weight": 1.7262,
-    "designers": [
-      "Gord!"
-    ],
-    "artists": [
-      "Lina Cossette",
-      "David Forest"
-    ],
+    "designers": ["Gord!"],
+    "artists": ["Lina Cossette", "David Forest"],
     "publishers": [
       "Roxley",
       "Galápagos Jogos",
@@ -11241,15 +9888,9 @@
     "image": "https://cf.geekdo-images.com/LuIuUwRIQEOkb36RDhrppw__original/img/TqnWq9o9ly3gmDTt3siO6HaOYQo=/0x0/filters:format(png)/pic7324859.png",
     "rating": 7.63686,
     "weight": 2.9524,
-    "designers": [
-      "Mike Elliott",
-      "Rob Heinsoo",
-      "Gregory Marques"
-    ],
+    "designers": ["Mike Elliott", "Rob Heinsoo", "Gregory Marques"],
     "artists": [],
-    "publishers": [
-      "Catalyst Game Labs"
-    ]
+    "publishers": ["Catalyst Game Labs"]
   },
   {
     "id": 204305,
@@ -11269,11 +9910,7 @@
     "image": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__original/img/z6PE755XxEt8AdNJAlVJnMQoMHs=/0x0/filters:format(jpeg)/pic3238299.jpg",
     "rating": 7.58953,
     "weight": 2.1786,
-    "designers": [
-      "Suzanne Goldberg",
-      "Gary Grady",
-      "Jérôme Ropert"
-    ],
+    "designers": ["Suzanne Goldberg", "Gary Grady", "Jérôme Ropert"],
     "artists": [
       "Bernard Bittler",
       "Arnaud Demaegd",
@@ -11307,15 +9944,8 @@
     "image": "https://cf.geekdo-images.com/jiL3MIGH_w3g6El3OHVVig__original/img/JlMGgWGzFWmqz4s5DMLpPuHMUzg=/0x0/filters:format(png)/pic6137456.png",
     "rating": 7.52448,
     "weight": 1.7009,
-    "designers": [
-      "Brent Beck",
-      "Jeffrey Beck"
-    ],
-    "artists": [
-      "David Bock",
-      "Eckhard Freytag",
-      "Apryl Stott"
-    ],
+    "designers": ["Brent Beck", "Jeffrey Beck"],
+    "artists": ["David Bock", "Eckhard Freytag", "Apryl Stott"],
     "publishers": [
       "Grandpa Beck's Games",
       "Broadway Toys LTD",
@@ -11347,15 +9977,9 @@
     "image": "https://cf.geekdo-images.com/4J7COXZVuyYwzBuQ0HEeWA__original/img/3UBwPufle9cC04aV5L-VHzCtFoA=/0x0/filters:format(png)/pic6168012.png",
     "rating": 6.93346,
     "weight": 2,
-    "designers": [
-      "Andy Kim"
-    ],
-    "artists": [
-      "Kwanchai Moriya"
-    ],
-    "publishers": [
-      "Smirk & Dagger Games"
-    ]
+    "designers": ["Andy Kim"],
+    "artists": ["Kwanchai Moriya"],
+    "publishers": ["Smirk & Dagger Games"]
   },
   {
     "id": 102104,
@@ -11375,16 +9999,9 @@
     "image": "https://cf.geekdo-images.com/4rafBr5oDBZVSzN7ije3ZA__original/img/JmHFu2p6rCZFFSIEtjqIHmB-Ozs=/0x0/filters:format(jpeg)/pic1059779.jpg",
     "rating": 6.3077,
     "weight": 1.4219,
-    "designers": [
-      "Andrew Looney"
-    ],
-    "artists": [
-      "Derek Ring"
-    ],
-    "publishers": [
-      "Looney Labs",
-      "Black Monk"
-    ]
+    "designers": ["Andrew Looney"],
+    "artists": ["Derek Ring"],
+    "publishers": ["Looney Labs", "Black Monk"]
   },
   {
     "id": 187645,
@@ -11404,9 +10021,7 @@
     "image": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__original/img/GKueTbkCk2Ramf6ai8mDj-BP6cI=/0x0/filters:format(jpeg)/pic4325841.jpg",
     "rating": 8.41945,
     "weight": 3.7438,
-    "designers": [
-      "Corey Konieczka"
-    ],
+    "designers": ["Corey Konieczka"],
     "artists": [
       "Matt Allsopp",
       "David Ardila",
@@ -11485,12 +10100,8 @@
     "image": "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__original/img/cR92Dm6yQ3Lgxt1yR81zUb0ooqQ=/0x0/filters:format(jpeg)/pic1632539.jpg",
     "rating": 7.52798,
     "weight": 2.46,
-    "designers": [
-      "Bernd Brunnhofer"
-    ],
-    "artists": [
-      "Michael Menzel"
-    ],
+    "designers": ["Bernd Brunnhofer"],
+    "artists": ["Michael Menzel"],
     "publishers": [
       "Hans im Glück",
       "999 Games",
@@ -11536,15 +10147,9 @@
     "image": "https://cf.geekdo-images.com/jTxW1dl2nY5rFcsEU24bBQ__original/img/uOD-dF0JwAHqQNfO17u44yiuZck=/0x0/filters:format(jpeg)/pic6506949.jpg",
     "rating": 7.39286,
     "weight": 2.5,
-    "designers": [
-      "Galen McCown"
-    ],
-    "artists": [
-      "H.S. Law"
-    ],
-    "publishers": [
-      "Galen's Games"
-    ]
+    "designers": ["Galen McCown"],
+    "artists": ["H.S. Law"],
+    "publishers": ["Galen's Games"]
   },
   {
     "id": 264220,
@@ -11564,10 +10169,7 @@
     "image": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__original/img/e1HfD3XIvObNuGH6rq7kUSK-5aQ=/0x0/filters:format(jpeg)/pic4385726.jpg",
     "rating": 8.0959,
     "weight": 3.3513,
-    "designers": [
-      "Krzysztof Piskorski",
-      "Marcin Świerkot"
-    ],
+    "designers": ["Krzysztof Piskorski", "Marcin Świerkot"],
     "artists": [
       "Piotr Foksowicz",
       "Piotr Gacek",
@@ -11610,12 +10212,8 @@
     "image": "https://cf.geekdo-images.com/H-AU-nhjCbaxWlWj_O-eFw__original/img/lA3TNJgLhVo-hB9rPKxr66js5j0=/0x0/filters:format(jpeg)/pic4873141.jpg",
     "rating": 7.58189,
     "weight": 2.6765,
-    "designers": [
-      "Wolfgang Warsch"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Wolfgang Warsch"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Schmidt Spiele",
       "999 Games",
@@ -11650,12 +10248,8 @@
     "image": "https://cf.geekdo-images.com/-e6f1-cht9Proly7cjsM9g__original/img/Z6OKDCmjl_dzbcheAVi8g87Ys0k=/0x0/filters:format(jpeg)/pic6175532.jpg",
     "rating": 7.48972,
     "weight": 2.15,
-    "designers": [
-      "Nate Linhart"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Nate Linhart"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Thunderworks Games",
       "JJ Board game",
@@ -11681,13 +10275,8 @@
     "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__original/img/thIqWDnH9utKuoKVEUqveDixprI=/0x0/filters:format(jpeg)/pic3536616.jpg",
     "rating": 8.36397,
     "weight": 3.2597,
-    "designers": [
-      "Jacob Fryxelius"
-    ],
-    "artists": [
-      "Isaac Fryxelius",
-      "Daniel Fryxelius"
-    ],
+    "designers": ["Jacob Fryxelius"],
+    "artists": ["Isaac Fryxelius", "Daniel Fryxelius"],
     "publishers": [
       "FryxGames",
       "Arclight Games",
@@ -11735,19 +10324,9 @@
     "image": "https://cf.geekdo-images.com/iNbiiQKqSfa4Eoq7U-O4Uw__original/img/xOr7JPv4PnikAfJkvfDS3FRUlhM=/0x0/filters:format(jpeg)/pic3941484.jpg",
     "rating": 7.77441,
     "weight": 2.8333,
-    "designers": [
-      "Mike Elliott",
-      "Bryan Reese",
-      "Mark Wootton"
-    ],
-    "artists": [
-      "Jason Engle",
-      "Matt Paquette & Co.",
-      "David Su"
-    ],
-    "publishers": [
-      "Alderac Entertainment Group"
-    ]
+    "designers": ["Mike Elliott", "Bryan Reese", "Mark Wootton"],
+    "artists": ["Jason Engle", "Matt Paquette & Co.", "David Su"],
+    "publishers": ["Alderac Entertainment Group"]
   },
   {
     "id": 351913,
@@ -11767,14 +10346,8 @@
     "image": "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__original/img/a70U9DGHGxiyo8WWMOb9Zd4hrxc=/0x0/filters:format(jpeg)/pic7533289.jpg",
     "rating": 7.95169,
     "weight": 3.4222,
-    "designers": [
-      "Simone Luciani",
-      "Daniele Tascini"
-    ],
-    "artists": [
-      "Giorgio De Michele",
-      "Zbigniew Umgelter"
-    ],
+    "designers": ["Simone Luciani", "Daniele Tascini"],
+    "artists": ["Giorgio De Michele", "Zbigniew Umgelter"],
     "publishers": [
       "Board&Dice",
       "CMON Global Limited",
@@ -11807,12 +10380,8 @@
     "image": "https://cf.geekdo-images.com/djdeCr__iNV5rMnGnxNiaQ__original/img/-pxFp0FHDLLZK_hMT5kHG7IAQ7M=/0x0/filters:format(png)/pic4336095.png",
     "rating": 7.75252,
     "weight": 3.6413,
-    "designers": [
-      "Stefan Feld"
-    ],
-    "artists": [
-      "Jo Hartwig"
-    ],
+    "designers": ["Stefan Feld"],
+    "artists": ["Jo Hartwig"],
     "publishers": [
       "Ammonit Spiele",
       "Asterion Press",
@@ -11850,14 +10419,8 @@
     "image": "https://cf.geekdo-images.com/hWxrNSHxNtf-ynX13FyN4w__original/img/uIskCBDhLMpEjXrMgj-Unoj1qZc=/0x0/filters:format(png)/pic5301842.png",
     "rating": 8.78159,
     "weight": 4.5467,
-    "designers": [
-      "Richard Amann",
-      "Viktor Peter"
-    ],
-    "artists": [
-      "Villő Farkas",
-      "László Fejes"
-    ],
+    "designers": ["Richard Amann", "Viktor Peter"],
+    "artists": ["Villő Farkas", "László Fejes"],
     "publishers": [
       "Corax Games",
       "CrowD Games",
@@ -11886,14 +10449,8 @@
     "image": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__original/img/kVpZ0Maa_LeQGWxOqsYKP3N4KUY=/0x0/filters:format(jpeg)/pic3727516.jpg",
     "rating": 8.60597,
     "weight": 4.3166,
-    "designers": [
-      "Dane Beltrami",
-      "Corey Konieczka",
-      "Christian T. Petersen"
-    ],
-    "artists": [
-      "Scott Schomburg"
-    ],
+    "designers": ["Dane Beltrami", "Corey Konieczka", "Christian T. Petersen"],
+    "artists": ["Scott Schomburg"],
     "publishers": [
       "Fantasy Flight Games",
       "ADC Blackfire Entertainment",
@@ -11925,17 +10482,8 @@
     "image": "https://cf.geekdo-images.com/ufkAbhulnKJ7uDpi09TXOQ__original/img/hhBc0bcNj9U3t-4trByrjrO8-ro=/0x0/filters:format(jpeg)/pic7127448.jpg",
     "rating": 7.93747,
     "weight": 3.9667,
-    "designers": [
-      "Laskas",
-      "Jonny Pac",
-      "Yoma",
-      "Antonio Zax"
-    ],
-    "artists": [
-      "Andrew Bosley",
-      "Vincent Dutrait",
-      "Yoma"
-    ],
+    "designers": ["Laskas", "Jonny Pac", "Yoma", "Antonio Zax"],
+    "artists": ["Andrew Bosley", "Vincent Dutrait", "Yoma"],
     "publishers": [
       "Fantasia Games",
       "Frosted Games",
@@ -11963,16 +10511,9 @@
     "image": "https://cf.geekdo-images.com/9n7MQKUN9G5PMQzisZWm4g__original/img/rP9Yw-FGo4ODqVgvy_dwfTCX1MA=/0x0/filters:format(png)/pic5860305.png",
     "rating": 7.65371,
     "weight": 2.6,
-    "designers": [
-      "Tom Butler"
-    ],
-    "artists": [
-      "Nicholas Avallone",
-      "Milan Stojanovic"
-    ],
-    "publishers": [
-      "Green Feet Games"
-    ]
+    "designers": ["Tom Butler"],
+    "artists": ["Nicholas Avallone", "Milan Stojanovic"],
+    "publishers": ["Green Feet Games"]
   },
   {
     "id": 175640,
@@ -11992,12 +10533,8 @@
     "image": "https://cf.geekdo-images.com/JuyN9UOenAG_BlO-APPpdw__original/img/_0ZWOmqFvL5UybNWgPIyioib3mQ=/0x0/filters:format(jpeg)/pic2649446.jpg",
     "rating": 8.09951,
     "weight": 4.0056,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Choo Choo Games",
@@ -12024,11 +10561,7 @@
     "image": "https://cf.geekdo-images.com/JmdqlBJBynZMOciZzkVIkw__original/img/9LYzTUmOTO2enhJvqauMt6odC5Y=/0x0/filters:format(jpeg)/pic725882.jpg",
     "rating": 7.77337,
     "weight": 3.8452,
-    "designers": [
-      "Roberto Di Meglio",
-      "Marco Maggi",
-      "Francesco Nepitello"
-    ],
+    "designers": ["Roberto Di Meglio", "Marco Maggi", "Francesco Nepitello"],
     "artists": [
       "John Howe",
       "Matteo Macchi",
@@ -12069,12 +10602,8 @@
     "image": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__original/img/pb6XFQZFUNOr6OPysOHB3usVDFk=/0x0/filters:format(jpeg)/pic3761012.jpg",
     "rating": 7.54181,
     "weight": 1.8351,
-    "designers": [
-      "Benoit Turpin"
-    ],
-    "artists": [
-      "Anne Heidsieck"
-    ],
+    "designers": ["Benoit Turpin"],
+    "artists": ["Anne Heidsieck"],
     "publishers": [
       "Blue Cocker Games",
       "Broadway Toys LTD",
@@ -12115,14 +10644,8 @@
     "image": "https://cf.geekdo-images.com/LA-CPp3BnCHkJa8ut85aIQ__original/img/0OqPWgqiD32midVjoYvwTvHZ62Y=/0x0/filters:format(jpeg)/pic3360633.jpg",
     "rating": 7.55089,
     "weight": 2.122,
-    "designers": [
-      "Gabriele Mari",
-      "Gianluca Santopietro"
-    ],
-    "artists": [
-      "Alan D'Amico",
-      "Gianluca Santopietro"
-    ],
+    "designers": ["Gabriele Mari", "Gianluca Santopietro"],
+    "artists": ["Alan D'Amico", "Gianluca Santopietro"],
     "publishers": [
       "Giochi Uniti",
       "Sir Chester Cobblepot",
@@ -12154,14 +10677,8 @@
     "image": "https://cf.geekdo-images.com/bUbrvlY6Dw1cdb-sNrnkew__original/img/KcU-Srht_4xyLQ69ZjFcFKEOfMc=/0x0/filters:format(jpeg)/pic5188761.jpg",
     "rating": 8.14078,
     "weight": 3.0278,
-    "designers": [
-      "Tim Eisner",
-      "Ben Eisner",
-      "Ian Moss"
-    ],
-    "artists": [
-      "Manny Trembley"
-    ],
+    "designers": ["Tim Eisner", "Ben Eisner", "Ian Moss"],
+    "artists": ["Manny Trembley"],
     "publishers": [
       "Druid City Games",
       "Dice Realm",
@@ -12192,11 +10709,7 @@
     "image": "https://cf.geekdo-images.com/rtJTab2_kHN2k4_nUddRTQ__original/img/Xs4zH6y3WpZ8XFq-X4T1p5XWncY=/0x0/filters:format(jpeg)/pic3564805.jpg",
     "rating": 7.69227,
     "weight": 2.4737,
-    "designers": [
-      "Raphaël Guiton",
-      "Jean-Baptiste Lullien",
-      "Nicolas Raoult"
-    ],
+    "designers": ["Raphaël Guiton", "Jean-Baptiste Lullien", "Nicolas Raoult"],
     "artists": [
       "Nicolas Fructus",
       "Mathieu Harlaut",
@@ -12238,9 +10751,7 @@
     "weight": 0,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "(Self-Published)"
-    ]
+    "publishers": ["(Self-Published)"]
   },
   {
     "id": 253344,
@@ -12260,10 +10771,7 @@
     "image": "https://cf.geekdo-images.com/e8D09pfFsUsoX1D81EeoZg__original/img/8_FKwPd8bBL3PFjef8Yjz_sFWSk=/0x0/filters:format(jpeg)/pic4705171.jpg",
     "rating": 8.18453,
     "weight": 2.4577,
-    "designers": [
-      "Rob Daviau",
-      "Eric M. Lang"
-    ],
+    "designers": ["Rob Daviau", "Eric M. Lang"],
     "artists": [
       "Nicolas Fructus",
       "Karl Kopinski",
@@ -12319,9 +10827,7 @@
       "Alan Merrett",
       "Markus Trenkner"
     ],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 229427,
@@ -12343,9 +10849,7 @@
     "weight": 3.5556,
     "designers": [],
     "artists": [],
-    "publishers": [
-      "Games Workshop Ltd."
-    ]
+    "publishers": ["Games Workshop Ltd."]
   },
   {
     "id": 284934,
@@ -12365,15 +10869,9 @@
     "image": "https://cf.geekdo-images.com/qg45TV7AnLl_-XHNmiyh9g__original/img/A1N4FQiyGUdsKdatZpbIdSUFNZA=/0x0/filters:format(jpeg)/pic5281148.jpg",
     "rating": 6.28571,
     "weight": 0,
-    "designers": [
-      "Jack England"
-    ],
-    "artists": [
-      "Adrian Stone"
-    ],
-    "publishers": [
-      "(Self-Published)"
-    ]
+    "designers": ["Jack England"],
+    "artists": ["Adrian Stone"],
+    "publishers": ["(Self-Published)"]
   },
   {
     "id": 296358,
@@ -12393,15 +10891,9 @@
     "image": "https://cf.geekdo-images.com/FbBxKgiG8JaRWHG_BkHDig__original/img/IKttsyHBTpX_To6TKeHhw9VNpIA=/0x0/filters:format(jpeg)/pic5225426.jpg",
     "rating": 6.28578,
     "weight": 1,
-    "designers": [
-      "Felix Beukemann"
-    ],
-    "artists": [
-      "Anna-Lena Kühler"
-    ],
-    "publishers": [
-      "HABA"
-    ]
+    "designers": ["Felix Beukemann"],
+    "artists": ["Anna-Lena Kühler"],
+    "publishers": ["HABA"]
   },
   {
     "id": 286198,
@@ -12421,15 +10913,9 @@
     "image": "https://cf.geekdo-images.com/z6fQnUMQY6nJLwbsdZtEHQ__original/img/KBELcWLB5-4hl1pEyt60BHR1wGM=/0x0/filters:format(jpeg)/pic4885883.jpg",
     "rating": 6.32,
     "weight": 0,
-    "designers": [
-      "William Angus"
-    ],
-    "artists": [
-      "Jamie Noble-Frier"
-    ],
-    "publishers": [
-      "Kitten Kaiju Games"
-    ]
+    "designers": ["William Angus"],
+    "artists": ["Jamie Noble-Frier"],
+    "publishers": ["Kitten Kaiju Games"]
   },
   {
     "id": 172818,
@@ -12449,12 +10935,8 @@
     "image": "https://cf.geekdo-images.com/U0wpvRmBe65e4vwGf0Jbpg__original/img/gIlpowYQ7XzumYO0jZyVldxosBA=/0x0/filters:format(jpeg)/pic2398773.jpg",
     "rating": 7.3679,
     "weight": 2.5258,
-    "designers": [
-      "Ryan Laukat"
-    ],
-    "artists": [
-      "Ryan Laukat"
-    ],
+    "designers": ["Ryan Laukat"],
+    "artists": ["Ryan Laukat"],
     "publishers": [
       "Red Raven Games",
       "Arclight Games",
@@ -12487,12 +10969,8 @@
     "image": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__original/img/SP4ItZ27dLweUPbz_bF7C-P7GtA=/0x0/filters:format(png)/pic2241156.png",
     "rating": 7.64941,
     "weight": 3.9289,
-    "designers": [
-      "Matúš Kotry"
-    ],
-    "artists": [
-      "David Cochard"
-    ],
+    "designers": ["Matúš Kotry"],
+    "artists": ["David Cochard"],
     "publishers": [
       "Czech Games Edition",
       "Arclight Games",
@@ -12529,14 +11007,8 @@
     "image": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__original/img/h4jBTaOjznJgWELa6tTrfPqqSeA=/0x0/filters:format(jpeg)/pic6107853.jpg",
     "rating": 7.81601,
     "weight": 3.1039,
-    "designers": [
-      "Eric M. Lang"
-    ],
-    "artists": [
-      "Nicolas Fructus",
-      "Thierry Masson",
-      "Adrian Smith"
-    ],
+    "designers": ["Eric M. Lang"],
+    "artists": ["Nicolas Fructus", "Thierry Masson", "Adrian Smith"],
     "publishers": [
       "CMON Global Limited",
       "Guillotine Games",
@@ -12568,9 +11040,7 @@
     "image": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__original/img/g4S18szTdrXCdIwVKzMKrZrYAcM=/0x0/filters:format(jpeg)/pic6293412.jpg",
     "rating": 8.53746,
     "weight": 3.7471,
-    "designers": [
-      "Mathias Wigge"
-    ],
+    "designers": ["Mathias Wigge"],
     "artists": [
       "Steffen Bieker",
       "Loïc Billiau",
@@ -12618,13 +11088,8 @@
     "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png",
     "rating": 7.75444,
     "weight": 1.7636,
-    "designers": [
-      "Michael Kiesling"
-    ],
-    "artists": [
-      "Philippe Guérin",
-      "Chris Quilliams"
-    ],
+    "designers": ["Michael Kiesling"],
+    "artists": ["Philippe Guérin", "Chris Quilliams"],
     "publishers": [
       "Next Move Games",
       "Plan B Games",
@@ -12670,14 +11135,8 @@
     "image": "https://cf.geekdo-images.com/5Q2w2rFJiFI_uV89KP6ECg__original/img/MYuRAKLRAGlIQTph2XKWjzqT7sQ=/0x0/filters:format(jpeg)/pic354500.jpg",
     "rating": 7.73048,
     "weight": 3.2509,
-    "designers": [
-      "Corey Konieczka"
-    ],
-    "artists": [
-      "Kevin Childress",
-      "Brian Schomburg",
-      "WiL Springer"
-    ],
+    "designers": ["Corey Konieczka"],
+    "artists": ["Kevin Childress", "Brian Schomburg", "WiL Springer"],
     "publishers": [
       "Fantasy Flight Games",
       "Edge Entertainment",
@@ -12706,12 +11165,8 @@
     "image": "https://cf.geekdo-images.com/jOLEKfuTY4gLszR1h-0Bfw__original/img/MdeUWXhaqOaDwYULBIWER5vBKTA=/0x0/filters:format(jpeg)/pic4338675.jpg",
     "rating": 7.43604,
     "weight": 3.4829,
-    "designers": [
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
+    "designers": ["Alexander Pfister"],
+    "artists": ["Chris Quilliams"],
     "publishers": [
       "eggertspiele",
       "Arclight Games",
@@ -12744,12 +11199,8 @@
     "image": "https://cf.geekdo-images.com/q9sYvC0Tt-1mEiuKnVTS4w__original/img/6CZ5GNkB6vO0w6QGYe0kV_SvnP0=/0x0/filters:format(jpeg)/pic5301335.jpg",
     "rating": 7.67233,
     "weight": 3.6384,
-    "designers": [
-      "Stefan Feld"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Stefan Feld"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Hall Games",
       "999 Games",
@@ -12782,14 +11233,8 @@
     "image": "https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__original/img/GAmiCfqQ1UdkVxYw4LAkryGW4dY=/0x0/filters:format(png)/pic2439102.png",
     "rating": 7.44319,
     "weight": 2.301,
-    "designers": [
-      "Tim Fowers"
-    ],
-    "artists": [
-      "Virginia Critchfield",
-      "Ryan Goldsberry",
-      "Heiko Günther"
-    ],
+    "designers": ["Tim Fowers"],
+    "artists": ["Virginia Critchfield", "Ryan Goldsberry", "Heiko Günther"],
     "publishers": [
       "Fowers Games",
       "(Self-Published)",
@@ -12818,12 +11263,8 @@
     "image": "https://cf.geekdo-images.com/pRZrHJNoPQ3gay9EkpuZLw__original/img/VHOeHhfYK3n-wYSP0G9RT26U0uQ=/0x0/filters:format(jpeg)/pic4304741.jpg",
     "rating": 7.58157,
     "weight": 1.4979,
-    "designers": [
-      "Steffen Bogen"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
+    "designers": ["Steffen Bogen"],
+    "artists": ["Chris Quilliams"],
     "publishers": [
       "eggertspiele",
       "Choo Choo Games",
@@ -12873,11 +11314,7 @@
       "Eliot Weinstein"
     ],
     "artists": [],
-    "publishers": [
-      "(Self-Published)",
-      "Cards Against Humanity  LLC",
-      "Estrela"
-    ]
+    "publishers": ["(Self-Published)", "Cards Against Humanity  LLC", "Estrela"]
   },
   {
     "id": 155426,
@@ -12897,14 +11334,8 @@
     "image": "https://cf.geekdo-images.com/jVAMlNeDMVZakxJPy-lDrQ__original/img/J4J6wVMItmWj4Yxt8JmuO1g76PE=/0x0/filters:format(jpeg)/pic7229993.jpg",
     "rating": 7.51979,
     "weight": 2.6483,
-    "designers": [
-      "Ted Alspach"
-    ],
-    "artists": [
-      "Keith Curtis",
-      "Agnieszka Dabrowiecka",
-      "Ollin Timm"
-    ],
+    "designers": ["Ted Alspach"],
+    "artists": ["Keith Curtis", "Agnieszka Dabrowiecka", "Ollin Timm"],
     "publishers": [
       "Bézier Games",
       "Arclight Games",
@@ -12939,12 +11370,8 @@
     "image": "https://cf.geekdo-images.com/rTlJoKU2lHOZfv1Ad8YvDA__original/img/gZmllkN9eYLyezrjLl8KEGJWlCo=/0x0/filters:format(jpeg)/pic3505750.jpg",
     "rating": 7.10722,
     "weight": 2.5531,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "999 Games",
@@ -12976,13 +11403,8 @@
     "image": "https://cf.geekdo-images.com/VJwOnMF5vwJg2Yaq6ozn3Q__original/img/iEgr80D4UtP0x_WQUYSB60JwGJ0=/0x0/filters:format(jpeg)/pic2869714.jpg",
     "rating": 7.72677,
     "weight": 2.6093,
-    "designers": [
-      "Ole Steiness"
-    ],
-    "artists": [
-      "Jose David Lanza Cebrian",
-      "Víctor Pérez Corbella"
-    ],
+    "designers": ["Ole Steiness"],
+    "artists": ["Jose David Lanza Cebrian", "Víctor Pérez Corbella"],
     "publishers": [
       "Grey Fox Games",
       "Corax Games",
@@ -13011,9 +11433,7 @@
     "image": "https://cf.geekdo-images.com/sHd0jkZZLDgixHjAXtn7kA__original/img/9n76iqzSN06hlbX4DuuPD6fSkHQ=/0x0/filters:format(jpeg)/pic3119514.jpg",
     "rating": 7.25521,
     "weight": 2.0328,
-    "designers": [
-      "Bruno Faidutti"
-    ],
+    "designers": ["Bruno Faidutti"],
     "artists": [
       "Andrew Bosley",
       "Jeff Brown (II)",
@@ -13078,16 +11498,9 @@
     "image": "https://cf.geekdo-images.com/XHTMyEGDsNHLKXkbGDKaKA__original/img/GKb17ffVsXR5RFKmKE5OTT8O21U=/0x0/filters:format(jpeg)/pic1351042.jpg",
     "rating": 7.57326,
     "weight": 3.5978,
-    "designers": [
-      "Christian Marcussen"
-    ],
-    "artists": [
-      "Chris Quilliams"
-    ],
-    "publishers": [
-      "Z-Man Games",
-      "Ediciones MasQueOca"
-    ]
+    "designers": ["Christian Marcussen"],
+    "artists": ["Chris Quilliams"],
+    "publishers": ["Z-Man Games", "Ediciones MasQueOca"]
   },
   {
     "id": 198773,
@@ -13107,9 +11520,7 @@
     "image": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__original/img/i4FVjrk9TtmvVlVK7NtwRqgOxdQ=/0x0/filters:format(jpeg)/pic3476592.jpg",
     "rating": 7.19315,
     "weight": 1.2384,
-    "designers": [
-      "Vlaada Chvátil"
-    ],
+    "designers": ["Vlaada Chvátil"],
     "artists": [
       "David Cochard",
       "Jana Kilianová",
@@ -13162,13 +11573,8 @@
     "image": "https://cf.geekdo-images.com/9rxcvgJyZ4_gJ651hMBU_A__original/img/cdlFURn_ypiHLQ8vreUtbSFODTE=/0x0/filters:format(jpeg)/pic4518807.jpg",
     "rating": 6.97913,
     "weight": 1.6842,
-    "designers": [
-      "Asger Harding Granerud",
-      "Daniel Skjold Pedersen"
-    ],
-    "artists": [
-      "Markus Erdt"
-    ],
+    "designers": ["Asger Harding Granerud", "Daniel Skjold Pedersen"],
+    "artists": ["Markus Erdt"],
     "publishers": [
       "Queen Games",
       "Devil Dice Games",
@@ -13195,13 +11601,8 @@
     "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
     "rating": 7.81645,
     "weight": 1.9558,
-    "designers": [
-      "Thomas Sing"
-    ],
-    "artists": [
-      "Marco Armbruster",
-      "Sensit Communication GmbH"
-    ],
+    "designers": ["Thomas Sing"],
+    "artists": ["Marco Armbruster", "Sensit Communication GmbH"],
     "publishers": [
       "KOSMOS",
       "999 Games",
@@ -13243,13 +11644,8 @@
     "image": "https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__original/img/GuDlOog3eTRrkxCUzCEgRc17B-g=/0x0/filters:format(png)/pic5726930.png",
     "rating": 8.53399,
     "weight": 3.8108,
-    "designers": [
-      "Simone Luciani",
-      "Nestore Mangone"
-    ],
-    "artists": [
-      "Paolo Voto"
-    ],
+    "designers": ["Simone Luciani", "Nestore Mangone"],
+    "artists": ["Paolo Voto"],
     "publishers": [
       "CMON Global Limited",
       "Korea Boardgames",
@@ -13275,16 +11671,8 @@
     "image": "https://cf.geekdo-images.com/wJphcoCCYScWCNkE32D_hw__original/img/qSYnPWdXgggfxYvT03Oa32zSrh0=/0x0/filters:format(jpeg)/pic5756205.jpg",
     "rating": 7.67059,
     "weight": 2.7489,
-    "designers": [
-      "Jakub Łapot",
-      "Przemysław Rymer",
-      "Ignacy Trzewiczek"
-    ],
-    "artists": [
-      "Aga Jakimiec",
-      "Ewa Kostorz",
-      "Rafał Szyma"
-    ],
+    "designers": ["Jakub Łapot", "Przemysław Rymer", "Ignacy Trzewiczek"],
+    "artists": ["Aga Jakimiec", "Ewa Kostorz", "Rafał Szyma"],
     "publishers": [
       "Portal Games",
       "GaGa Games",
@@ -13317,12 +11705,8 @@
     "image": "https://cf.geekdo-images.com/3OjspN1BMrUEL1YN-Q8UKQ__original/img/TDdGcOgqmW-ZhEu6ja98GwEkJgI=/0x0/filters:format(jpeg)/pic2571301.jpg",
     "rating": 7.02554,
     "weight": 2.36,
-    "designers": [
-      "Cédrick Chaboussit"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Cédrick Chaboussit"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Ludonaute",
       "Asterion Press",
@@ -13348,9 +11732,7 @@
     "image": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__original/img/96COuakNiLRrjDLc1sM4Zxsw4WE=/0x0/filters:format(jpeg)/pic394356.jpg",
     "rating": 7.59859,
     "weight": 2.3472,
-    "designers": [
-      "Donald X. Vaccarino"
-    ],
+    "designers": ["Donald X. Vaccarino"],
     "artists": [
       "Matthias Catrein",
       "Julien Delval",
@@ -13419,12 +11801,8 @@
       "Jay Schneider",
       "Rob Watkins (Board Game) (I)"
     ],
-    "artists": [
-      "Kekai Kotaki"
-    ],
-    "publishers": [
-      "Catalyst Game Labs"
-    ]
+    "artists": ["Kekai Kotaki"],
+    "publishers": ["Catalyst Game Labs"]
   },
   {
     "id": 246900,
@@ -13444,9 +11822,7 @@
     "image": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__original/img/yW7d4RNfU1ndISCaPlfGYUyxnRU=/0x0/filters:format(jpeg)/pic5235277.jpg",
     "rating": 8.4657,
     "weight": 3.6704,
-    "designers": [
-      "Touko Tahkokallio"
-    ],
+    "designers": ["Touko Tahkokallio"],
     "artists": [
       "Noah Adelman",
       "Jere Kasanen",
@@ -13485,12 +11861,8 @@
     "image": "https://cf.geekdo-images.com/J-sgq_IT2g6WfnuMY7Y8PA__original/img/GZDhrKUFllmCwVdvcPpSYthyyq0=/0x0/filters:format(jpeg)/pic4178038.jpg",
     "rating": 7.51701,
     "weight": 3.6678,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Angry Lion Games",
@@ -13518,16 +11890,8 @@
     "image": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png",
     "rating": 6.05904,
     "weight": 1.0863,
-    "designers": [
-      "Matthew Inman",
-      "Elan Lee",
-      "Shane Small"
-    ],
-    "artists": [
-      "Matthew Inman",
-      "Elan Lee",
-      "Shane Small"
-    ],
+    "designers": ["Matthew Inman", "Elan Lee", "Shane Small"],
+    "artists": ["Matthew Inman", "Elan Lee", "Shane Small"],
     "publishers": [
       "Ad Magic, Inc. ( AdMagic Games)",
       "Exploding Kittens",
@@ -13568,12 +11932,8 @@
     "image": "https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__original/img/322N77t8F7uTev-U_WCqX5uqmEE=/0x0/filters:format(png)/pic2225968.png",
     "rating": 8.03304,
     "weight": 3.8494,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Feuerland Spiele",
       "999 Games",
@@ -13601,13 +11961,8 @@
     "image": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__original/img/hQOFypZgCn4CQrJnXiNaQc_hjCw=/0x0/filters:format(jpeg)/pic3482521.jpg",
     "rating": 7.49498,
     "weight": 1.6844,
-    "designers": [
-      "Asger Harding Granerud"
-    ],
-    "artists": [
-      "Ossi Hiekkala",
-      "Jere Kasanen"
-    ],
+    "designers": ["Asger Harding Granerud"],
+    "artists": ["Ossi Hiekkala", "Jere Kasanen"],
     "publishers": [
       "Lautapelit.fi",
       "Conclave Editora",
@@ -13641,9 +11996,7 @@
     "image": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__original/img/6ib2NLakSlsf69WYwCOe9NNLcsc=/0x0/filters:format(jpeg)/pic1513085.jpg",
     "rating": 7.25159,
     "weight": 1.2522,
-    "designers": [
-      "Stefan Dorra"
-    ],
+    "designers": ["Stefan Dorra"],
     "artists": [
       "Óscar Aguado",
       "Abbas Amirabadi",
@@ -13714,15 +12067,8 @@
     "image": "https://cf.geekdo-images.com/gLnzfyJio2MYbG9J-uQSiQ__original/img/WIqdfw845duHlpr9d5QvzPuHpGI=/0x0/filters:format(jpeg)/pic5253984.jpg",
     "rating": 7.83831,
     "weight": 2.0965,
-    "designers": [
-      "Mr. Bistro",
-      "J. Arthur Ellis",
-      "Isaac Vega"
-    ],
-    "artists": [
-      "Anton Fadeev",
-      "Nadezhda Tikhomirova"
-    ],
+    "designers": ["Mr. Bistro", "J. Arthur Ellis", "Isaac Vega"],
+    "artists": ["Anton Fadeev", "Nadezhda Tikhomirova"],
     "publishers": [
       "Plaid Hat Games",
       "CrowD Games",
@@ -13751,16 +12097,9 @@
     "image": "https://cf.geekdo-images.com/h87Ft6qXbzwPifN7WGnx2Q__original/img/X5va643QzqHpbIJIPUGv5jp4qGs=/0x0/filters:format(jpeg)/pic7452200.jpg",
     "rating": 7.37222,
     "weight": 3,
-    "designers": [
-      "Matthew O'Malley",
-      "Ben Rosset"
-    ],
-    "artists": [
-      "Pavel Zhovba"
-    ],
-    "publishers": [
-      "Road To Infamy Games (R2i Games)"
-    ]
+    "designers": ["Matthew O'Malley", "Ben Rosset"],
+    "artists": ["Pavel Zhovba"],
+    "publishers": ["Road To Infamy Games (R2i Games)"]
   },
   {
     "id": 220308,
@@ -13780,13 +12119,8 @@
     "image": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__original/img/tjlflQtUPFiTpLpwk1NCVCS29Ic=/0x0/filters:format(png)/pic5375625.png",
     "rating": 8.38644,
     "weight": 4.3945,
-    "designers": [
-      "Jens Drögemüller",
-      "Helge Ostertag"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Jens Drögemüller", "Helge Ostertag"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Feuerland Spiele",
       "Capstone Games",
@@ -13826,15 +12160,8 @@
     "image": "https://cf.geekdo-images.com/vICtYft7WUXKiC3xfeh4Sg__original/img/_9MipvCmHUPDh40CqSVY9sEWoQ8=/0x0/filters:format(png)/pic5990046.png",
     "rating": 7.48051,
     "weight": 2.8088,
-    "designers": [
-      "John Coveyou",
-      "Paul Salomon",
-      "Ian Zang"
-    ],
-    "artists": [
-      "Tomasz Bogusz",
-      "Amelia Sales"
-    ],
+    "designers": ["John Coveyou", "Paul Salomon", "Ian Zang"],
+    "artists": ["Tomasz Bogusz", "Amelia Sales"],
     "publishers": [
       "Genius Games",
       "CrowD Games",
@@ -13862,13 +12189,8 @@
     "image": "https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__original/img/oClfNpLGqRwyqeq54Na_VoVAA3o=/0x0/filters:format(jpeg)/pic1728832.jpg",
     "rating": 7.65078,
     "weight": 3.9323,
-    "designers": [
-      "(Uncredited)"
-    ],
-    "artists": [
-      "Barbro Hennius",
-      "Norman Sommer"
-    ],
+    "designers": ["(Uncredited)"],
+    "artists": ["Barbro Hennius", "Norman Sommer"],
     "publishers": [
       "(Public Domain)",
       "(Unknown)",
@@ -13967,15 +12289,8 @@
     "image": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__original/img/E_QazS4f8ffj6oBcUl3C_VROCEw=/0x0/filters:format(jpeg)/pic7906240.jpg",
     "rating": 7.74406,
     "weight": 3.0115,
-    "designers": [
-      "Wolfgang Kramer",
-      "Richard Ulrich"
-    ],
-    "artists": [
-      "Doris Matthäus",
-      "Stefan Sonnberger",
-      "Franz-Georg Stämmele"
-    ],
+    "designers": ["Wolfgang Kramer", "Richard Ulrich"],
+    "artists": ["Doris Matthäus", "Stefan Sonnberger", "Franz-Georg Stämmele"],
     "publishers": [
       "Hans im Glück",
       "999 Games",
@@ -14011,13 +12326,8 @@
     "image": "https://cf.geekdo-images.com/fKsNUAfk4uSR6TWsxhHfmg__original/img/Rd8KVVTiwN-MtOUhoxMVY6pCjAQ=/0x0/filters:format(jpeg)/pic3388680.jpg",
     "rating": 7.08395,
     "weight": 1.9323,
-    "designers": [
-      "Tim Eisner"
-    ],
-    "artists": [
-      "Lina Cossette",
-      "David Forest"
-    ],
+    "designers": ["Tim Eisner"],
+    "artists": ["Lina Cossette", "David Forest"],
     "publishers": [
       "Druid City Games",
       "Cube Factory of Ideas",
@@ -14048,13 +12358,8 @@
     "image": "https://cf.geekdo-images.com/AdJBpY_o7PQEcoJPU1QdTg__original/img/6iXYfqlV5oZgqMAUHyWVKxn_7AM=/0x0/filters:format(jpeg)/pic5869977.jpg",
     "rating": 7.9006,
     "weight": 3.3059,
-    "designers": [
-      "Uwe Rosenberg"
-    ],
-    "artists": [
-      "Lukas Siegmon",
-      "Klemens Franz"
-    ],
+    "designers": ["Uwe Rosenberg"],
+    "artists": ["Lukas Siegmon", "Klemens Franz"],
     "publishers": [
       "Lookout Games",
       "Funforge",
@@ -14083,13 +12388,8 @@
     "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
     "rating": 8.08949,
     "weight": 2.1901,
-    "designers": [
-      "Asger Harding Granerud",
-      "Daniel Skjold Pedersen"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Asger Harding Granerud", "Daniel Skjold Pedersen"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Days of Wonder",
       "ADC Blackfire Entertainment",
@@ -14122,12 +12422,8 @@
     "image": "https://cf.geekdo-images.com/4DffKExiPihIf9T_AqkPCQ__original/img/00AgwqL0q6j08AE3CfKOPm1S17c=/0x0/filters:format(png)/pic1299877.png",
     "rating": 7.70045,
     "weight": 2.2536,
-    "designers": [
-      "John Yianni"
-    ],
-    "artists": [
-      "John Yianni"
-    ],
+    "designers": ["John Yianni"],
+    "artists": ["John Yianni"],
     "publishers": [
       "Gen42 Games",
       "Asmodee",
@@ -14167,14 +12463,8 @@
     "image": "https://cf.geekdo-images.com/yAhmRtAw66-IOg4C22m9bA__original/img/5-_AFNTEq5mcUgw5iddXTyIz4Ho=/0x0/filters:format(jpeg)/pic6834208.jpg",
     "rating": 7.89035,
     "weight": 2.5959,
-    "designers": [
-      "Jesús Torres Castro",
-      "Matt Leacock"
-    ],
-    "artists": [
-      "Atha Kanaani",
-      "Chris Quilliams"
-    ],
+    "designers": ["Jesús Torres Castro", "Matt Leacock"],
+    "artists": ["Atha Kanaani", "Chris Quilliams"],
     "publishers": [
       "Z-Man Games",
       "Asterion Press",
@@ -14202,13 +12492,8 @@
     "image": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__original/img/6bZdn1SNbpIqU7n5pwtncvdNE_U=/0x0/filters:format(jpeg)/pic4739757.jpg",
     "rating": 7.82615,
     "weight": 2.8992,
-    "designers": [
-      "Christian Martinez"
-    ],
-    "artists": [
-      "Dimitri Bielak",
-      "Jim FitzPatrick"
-    ],
+    "designers": ["Christian Martinez"],
+    "artists": ["Dimitri Bielak", "Jim FitzPatrick"],
     "publishers": [
       "Matagot",
       "Bureau de Juegos",
@@ -14243,13 +12528,8 @@
     "image": "https://cf.geekdo-images.com/NLfqGSoi1n4OGzR-lHUiOA__original/img/oQPGLn--ukf5Fk5TJ0G5HU2ADRI=/0x0/filters:format(png)/pic4515115.png",
     "rating": 8.00451,
     "weight": 2.4943,
-    "designers": [
-      "Rüdiger Dorn"
-    ],
-    "artists": [
-      "Andreas Resch",
-      "Hans-Georg Schneider"
-    ],
+    "designers": ["Rüdiger Dorn"],
+    "artists": ["Andreas Resch", "Hans-Georg Schneider"],
     "publishers": [
       "Pegasus Spiele",
       "Albi",
@@ -14284,12 +12564,8 @@
     "image": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__original/img/Htra4hvxjBlejtNEIUns_B3CNNc=/0x0/filters:format(jpeg)/pic4924232.jpg",
     "rating": 8.42701,
     "weight": 4.3125,
-    "designers": [
-      "Vital Lacerda"
-    ],
-    "artists": [
-      "Ian O'Toole"
-    ],
+    "designers": ["Vital Lacerda"],
+    "artists": ["Ian O'Toole"],
     "publishers": [
       "Eagle-Gryphon Games",
       "Arclight Games",
@@ -14325,9 +12601,7 @@
     "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__original/img/hSvWgiRYJCTTuoLOWTW3c8sYtl8=/0x0/filters:format(jpeg)/pic3043734.jpg",
     "rating": 7.13549,
     "weight": 1.4876,
-    "designers": [
-      "Richard Garfield"
-    ],
+    "designers": ["Richard Garfield"],
     "artists": [
       "Gabriel Butik",
       "Romain Gaschet",
@@ -14396,13 +12670,8 @@
     "image": "https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__original/img/DDk3fDr0FkDpkYAcny5LeekB2qg=/0x0/filters:format(png)/pic3132685.png",
     "rating": 7.31227,
     "weight": 1.2218,
-    "designers": [
-      "Bruno Cathala"
-    ],
-    "artists": [
-      "Cyril Bouquet",
-      "Hervine Galliou"
-    ],
+    "designers": ["Bruno Cathala"],
+    "artists": ["Cyril Bouquet", "Hervine Galliou"],
     "publishers": [
       "Blue Orange (EU)",
       "Blue Orange Games",
@@ -14451,16 +12720,9 @@
     "image": "https://cf.geekdo-images.com/joDlJqoJWoOoFFKhHomkKQ__original/img/VPEVsMp7fqwbkdoFxv3MB-gn0C4=/0x0/filters:format(jpeg)/pic7015708.jpg",
     "rating": 7.64628,
     "weight": 2.1875,
-    "designers": [
-      "Tim Eisner"
-    ],
-    "artists": [
-      "Angela Rizza"
-    ],
-    "publishers": [
-      "Weird City Games",
-      "Kobold Spieleverlag"
-    ]
+    "designers": ["Tim Eisner"],
+    "artists": ["Angela Rizza"],
+    "publishers": ["Weird City Games", "Kobold Spieleverlag"]
   },
   {
     "id": 140620,
@@ -14480,12 +12742,8 @@
     "image": "https://cf.geekdo-images.com/IiJ1JK6AjlSCKsC8U_DqMw__original/img/4W8ffc5xOvC6sl660XMGCBqkzJ8=/0x0/filters:format(jpeg)/pic5375937.jpg",
     "rating": 7.45195,
     "weight": 3.3316,
-    "designers": [
-      "Cédrick Chaboussit"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
+    "designers": ["Cédrick Chaboussit"],
+    "artists": ["Vincent Dutrait"],
     "publishers": [
       "Ludonaute",
       "Asmodee",
@@ -14518,10 +12776,7 @@
     "image": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__original/img/GWNOhno3y7g0XE00VacKaRxoczk=/0x0/filters:format(jpeg)/pic1116080.jpg",
     "rating": 7.73479,
     "weight": 2.4531,
-    "designers": [
-      "Peter Lee",
-      "Rodney Thompson"
-    ],
+    "designers": ["Peter Lee", "Rodney Thompson"],
     "artists": [
       "Eric Belisle",
       "Steven Belledin",
@@ -14557,9 +12812,7 @@
       "Ben Wootten",
       "James Zhang"
     ],
-    "publishers": [
-      "Wizards of the Coast"
-    ]
+    "publishers": ["Wizards of the Coast"]
   },
   {
     "id": 129622,
@@ -14579,9 +12832,7 @@
     "image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__original/img/xIAzJY7rl-mtPStRZSqnTVsAr8Y=/0x0/filters:format(jpeg)/pic1401448.jpg",
     "rating": 7.22519,
     "weight": 1.1854,
-    "designers": [
-      "Seiji Kanai"
-    ],
+    "designers": ["Seiji Kanai"],
     "artists": [
       "Kali Fitzgerald",
       "Andrew Hepworth",
@@ -14645,9 +12896,7 @@
     "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__original/img/Go6c8-ZiXomS8E7X4MBCdDd-aZc=/0x0/filters:format(jpeg)/pic3118622.jpg",
     "rating": 7.9522,
     "weight": 2.6846,
-    "designers": [
-      "Nikki Valens"
-    ],
+    "designers": ["Nikki Valens"],
     "artists": [
       "Cristi Balanescu",
       "Yoann Boissonnet",
@@ -14691,18 +12940,9 @@
     "image": "https://cf.geekdo-images.com/gaiG9Iv8S3G6ppC5AKlNIQ__original/img/Qrleq5aHqrsQEcNKin1FYtgp6-E=/0x0/filters:format(png)/pic4912833.png",
     "rating": 6.91604,
     "weight": 1.08,
-    "designers": [
-      "Danielle Deley",
-      "Lindsey Sherwood",
-      "Nathan Thornton"
-    ],
-    "artists": [
-      "Sarah Kelly"
-    ],
-    "publishers": [
-      "Greater Than Games, LLC",
-      "Storm Chaser Games"
-    ]
+    "designers": ["Danielle Deley", "Lindsey Sherwood", "Nathan Thornton"],
+    "artists": ["Sarah Kelly"],
+    "publishers": ["Greater Than Games, LLC", "Storm Chaser Games"]
   },
   {
     "id": 300217,
@@ -14722,19 +12962,9 @@
     "image": "https://cf.geekdo-images.com/m0097WIpBdC7tdA-mVi5Fw__original/img/bd3RYiimI4iWs2w1u27_2w4ImOI=/0x0/filters:format(png)/pic5252479.png",
     "rating": 7.39422,
     "weight": 3.2121,
-    "designers": [
-      "Brian Suhre"
-    ],
-    "artists": [
-      "Andrew Bosley",
-      "Joey Julian",
-      "Matt Paquette & Co."
-    ],
-    "publishers": [
-      "Elf Creek Games",
-      "Lucrum Games",
-      "Skellig Games"
-    ]
+    "designers": ["Brian Suhre"],
+    "artists": ["Andrew Bosley", "Joey Julian", "Matt Paquette & Co."],
+    "publishers": ["Elf Creek Games", "Lucrum Games", "Skellig Games"]
   },
   {
     "id": 172386,
@@ -14754,13 +12984,8 @@
     "image": "https://cf.geekdo-images.com/VceWk5QVkgIp6rWDl5qHKQ__original/img/8lLnp9nod-NhjaoUobcZ3vvb7Mg=/0x0/filters:format(jpeg)/pic2611318.jpg",
     "rating": 7.85036,
     "weight": 3.8979,
-    "designers": [
-      "Alexander Pfister"
-    ],
-    "artists": [
-      "Klemens Franz",
-      "Andreas Resch"
-    ],
+    "designers": ["Alexander Pfister"],
+    "artists": ["Klemens Franz", "Andreas Resch"],
     "publishers": [
       "eggertspiele",
       "Albi",
@@ -14796,16 +13021,9 @@
     "image": "https://cf.geekdo-images.com/VqFUoUbe0YAGYKgMYpaYFA__original/img/DmUp4vwT2b-kldrM3vPJaCIMM8w=/0x0/filters:format(jpeg)/pic7271550.jpg",
     "rating": 8.14274,
     "weight": 2,
-    "designers": [
-      "Eric Dubus",
-      "Olivier Melison"
-    ],
-    "artists": [
-      "Vincent Dutrait"
-    ],
-    "publishers": [
-      "Holy Grail Games"
-    ]
+    "designers": ["Eric Dubus", "Olivier Melison"],
+    "artists": ["Vincent Dutrait"],
+    "publishers": ["Holy Grail Games"]
   },
   {
     "id": 126042,
@@ -14863,12 +13081,8 @@
     "image": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__original/img/uArsqbWyUALa982zGWsy8QQWnjE=/0x0/filters:format(png)/pic5902073.png",
     "rating": 8.16136,
     "weight": 3.1122,
-    "designers": [
-      "Dan Hallagan"
-    ],
-    "artists": [
-      "Dan Hallagan"
-    ],
+    "designers": ["Dan Hallagan"],
+    "artists": ["Dan Hallagan"],
     "publishers": [
       "Kayenta Games",
       "Boardgame Mall",
@@ -14898,13 +13112,8 @@
     "image": "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__original/img/oRsIxp72iv58128KFdqvjG6Gz64=/0x0/filters:format(jpeg)/pic7070194.jpg",
     "rating": 7.35337,
     "weight": 1.6592,
-    "designers": [
-      "Shimpei Sato"
-    ],
-    "artists": [
-      "Jun Kondo",
-      "Mariusz Szmerdt"
-    ],
+    "designers": ["Shimpei Sato"],
+    "artists": ["Jun Kondo", "Mariusz Szmerdt"],
     "publishers": [
       "conception",
       "Arcane Wonders",
@@ -14938,13 +13147,8 @@
     "image": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__original/img/9ktZDu003VVVTw0RxD-ufLYV1HQ=/0x0/filters:format(png)/pic4462987.png",
     "rating": 7.98644,
     "weight": 3.7234,
-    "designers": [
-      "S J Macdonald",
-      "Shem Phillips"
-    ],
-    "artists": [
-      "Mihajlo Dimitrievski"
-    ],
+    "designers": ["S J Macdonald", "Shem Phillips"],
+    "artists": ["Mihajlo Dimitrievski"],
     "publishers": [
       "Garphill Games",
       "Renegade Game Studios",
@@ -14984,12 +13188,8 @@
     "image": "https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__original/img/2kvlCGamVRWxUarnVS0nuV8LudM=/0x0/filters:format(jpeg)/pic7069377.jpg",
     "rating": 7.12597,
     "weight": 1.9965,
-    "designers": [
-      "Tim Fowers"
-    ],
-    "artists": [
-      "Ryan Goldsberry"
-    ],
+    "designers": ["Tim Fowers"],
+    "artists": ["Ryan Goldsberry"],
     "publishers": [
       "Fowers Games",
       "(Self-Published)",
@@ -15017,12 +13217,8 @@
     "image": "https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__original/img/V6bgfuxV2jfmRbz9pJVyK01x6dI=/0x0/filters:format(jpeg)/pic3364832.jpg",
     "rating": 6.98113,
     "weight": 2.2576,
-    "designers": [
-      "Hjalmar Hach"
-    ],
-    "artists": [
-      "Sabrina Miramon"
-    ],
+    "designers": ["Hjalmar Hach"],
+    "artists": ["Sabrina Miramon"],
     "publishers": [
       "Blue Orange (EU)",
       "Blue Orange Games",
@@ -15061,14 +13257,8 @@
     "image": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__original/img/6sAfG89R42SJRv2wjiItRTMmcoQ=/0x0/filters:format(jpeg)/pic7298696.jpg",
     "rating": 7.12868,
     "weight": 1.7762,
-    "designers": [
-      "Stefano Castelli",
-      "Andrea Crespi",
-      "Lorenzo Silva"
-    ],
-    "artists": [
-      "Giulia Ghigini"
-    ],
+    "designers": ["Stefano Castelli", "Andrea Crespi", "Lorenzo Silva"],
+    "artists": ["Giulia Ghigini"],
     "publishers": [
       "Horrible Guild",
       "999 Games",
@@ -15111,12 +13301,8 @@
     "image": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__original/img/8PEJOyuKGbTaEGbUbCoLQy_i65Y=/0x0/filters:format(png)/pic6137509.png",
     "rating": 7.83014,
     "weight": 1.9479,
-    "designers": [
-      "Wolfgang Warsch"
-    ],
-    "artists": [
-      "Dennis Lohausen"
-    ],
+    "designers": ["Wolfgang Warsch"],
+    "artists": ["Dennis Lohausen"],
     "publishers": [
       "Schmidt Spiele",
       "999 Games",
@@ -15156,12 +13342,8 @@
     "image": "https://cf.geekdo-images.com/hXdfAhgZ8OeyWLunt36wlw__original/img/f5wjooKB2dGPBlBzws5cDsuuJ-k=/0x0/filters:format(jpeg)/pic3578101.jpg",
     "rating": 7.74246,
     "weight": 2.5562,
-    "designers": [
-      "Shem Phillips"
-    ],
-    "artists": [
-      "Mihajlo Dimitrievski"
-    ],
+    "designers": ["Shem Phillips"],
+    "artists": ["Mihajlo Dimitrievski"],
     "publishers": [
       "Garphill Games",
       "Angry Lion Games",
@@ -15200,17 +13382,8 @@
     "image": "https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__original/img/Fr16k-_UzhrIB6_yre7SrMhkDxU=/0x0/filters:format(jpeg)/pic291048.jpg",
     "rating": 6.55446,
     "weight": 1.6598,
-    "designers": [
-      "Cliff Bohm",
-      "Geoff Bottone",
-      "Colleen Skadl"
-    ],
-    "artists": [
-      "Kennon James",
-      "Doug Kovacs",
-      "Rhonda Libbey",
-      "Beth Trott"
-    ],
+    "designers": ["Cliff Bohm", "Geoff Bottone", "Colleen Skadl"],
+    "artists": ["Kennon James", "Doug Kovacs", "Rhonda Libbey", "Beth Trott"],
     "publishers": [
       "SlugFest Games",
       "Arclight Games",
@@ -15238,10 +13411,7 @@
     "image": "https://cf.geekdo-images.com/FbFnaTx3aT5dM18K_bR_Pg__original/img/TB2dGHOnuUr54jQYIJZDIMilOJE=/0x0/filters:format(jpeg)/pic3165731.jpg",
     "rating": 7.75122,
     "weight": 3.8156,
-    "designers": [
-      "Joanna Kijanka",
-      "Ignacy Trzewiczek"
-    ],
+    "designers": ["Joanna Kijanka", "Ignacy Trzewiczek"],
     "artists": [
       "Tomasz Bentkowski",
       "Mateusz Bielski",
@@ -15291,17 +13461,9 @@
     "image": "https://cf.geekdo-images.com/ZT_6gCDjLMxQ_Gp4U1gcvA__original/img/-r8Ux1IG27WLDwtk9eCR8jPHUgo=/0x0/filters:format(jpeg)/pic2865717.jpg",
     "rating": 6.30448,
     "weight": 1.4444,
-    "designers": [
-      "Chris Handy (I)"
-    ],
-    "artists": [
-      "Chris Handy (I)"
-    ],
-    "publishers": [
-      "Lucrum Games",
-      "One Moment Games",
-      "Perplext"
-    ]
+    "designers": ["Chris Handy (I)"],
+    "artists": ["Chris Handy (I)"],
+    "publishers": ["Lucrum Games", "One Moment Games", "Perplext"]
   },
   {
     "id": 199561,
@@ -15321,13 +13483,8 @@
     "image": "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__original/img/5ug9EeKlH_ucJEUXaFpTZbBJ1GY=/0x0/filters:format(jpeg)/pic3525224.jpg",
     "rating": 7.47841,
     "weight": 1.9206,
-    "designers": [
-      "Adrian Adamescu",
-      "Daryl Andrews"
-    ],
-    "artists": [
-      "Peter Wocken"
-    ],
+    "designers": ["Adrian Adamescu", "Daryl Andrews"],
+    "artists": ["Peter Wocken"],
     "publishers": [
       "Floodgate Games",
       "Cranio Creations",
@@ -15421,17 +13578,9 @@
     "image": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__original/img/_eAaG7PMaTcj1DpHbmUaOBTisoY=/0x0/filters:format(jpeg)/pic70547.jpg",
     "rating": 7.10281,
     "weight": 2.568,
-    "designers": [
-      "Bruno Cathala",
-      "Serge Laget"
-    ],
-    "artists": [
-      "Cyrille Daujean",
-      "Julien Delval"
-    ],
-    "publishers": [
-      "Days of Wonder"
-    ]
+    "designers": ["Bruno Cathala", "Serge Laget"],
+    "artists": ["Cyrille Daujean", "Julien Delval"],
+    "publishers": ["Days of Wonder"]
   },
   {
     "id": 2511,
@@ -15451,11 +13600,7 @@
     "image": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__original/img/iu21NR45DwHyFY-UPW0m7hwY_vw=/0x0/filters:format(jpeg)/pic3514298.jpg",
     "rating": 7.63787,
     "weight": 2.6697,
-    "designers": [
-      "Raymond Edwards",
-      "Suzanne Goldberg",
-      "Gary Grady"
-    ],
+    "designers": ["Raymond Edwards", "Suzanne Goldberg", "Gary Grady"],
     "artists": [
       "Bernard Bittler",
       "Arnaud Demaegd",
@@ -15503,13 +13648,8 @@
     "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__original/img/mWOQnkpyYBorh_Y1-0Y2o-ew17k=/0x0/filters:format(jpeg)/pic7398904.jpg",
     "rating": 8.17702,
     "weight": 2.044,
-    "designers": [
-      "Luc Rémond"
-    ],
-    "artists": [
-      "Eric Hibbeler",
-      "Adrien Rives"
-    ],
+    "designers": ["Luc Rémond"],
+    "artists": ["Eric Hibbeler", "Adrien Rives"],
     "publishers": [
       "Scorpion Masqué",
       "999 Games",
@@ -15541,9 +13681,7 @@
     "image": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg",
     "rating": 8.34781,
     "weight": 4.0646,
-    "designers": [
-      "R. Eric Reuss"
-    ],
+    "designers": ["R. Eric Reuss"],
     "artists": [
       "Jason Behnke",
       "Loïc Berger",
@@ -15600,13 +13738,8 @@
     "image": "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__original/img/QXgamCDRuBoRJyU1PQjeh58Pvr8=/0x0/filters:format(jpeg)/pic1903816.jpg",
     "rating": 7.56225,
     "weight": 1.9239,
-    "designers": [
-      "Robert Dougherty",
-      "Darwin Kastle"
-    ],
-    "artists": [
-      "Vito Gesualdi"
-    ],
+    "designers": ["Robert Dougherty", "Darwin Kastle"],
+    "artists": ["Vito Gesualdi"],
     "publishers": [
       "Wise Wizard Games",
       "ADC Blackfire Entertainment",
@@ -15638,9 +13771,7 @@
     "image": "https://cf.geekdo-images.com/yNqgVxaqoZepir7Hzkfe-Q__original/img/H6rYWOhYjT_PXTrvHKyX6FEt-vw=/0x0/filters:format(jpeg)/pic1603292.jpg",
     "rating": 7.63774,
     "weight": 2.4943,
-    "designers": [
-      "Jay Little"
-    ],
+    "designers": ["Jay Little"],
     "artists": [
       "Matt Allsopp",
       "Sacha Angel Diener",
@@ -15693,12 +13824,8 @@
     "image": "https://cf.geekdo-images.com/DYD5pILusNffN5X2gQrpiQ__original/img/SaOAwL5Wrjeb5Xu0jNoeyNs_EHQ=/0x0/filters:format(png)/pic4389753.png",
     "rating": 7.96181,
     "weight": 2.2923,
-    "designers": [
-      "Bernd Brunnhofer"
-    ],
-    "artists": [
-      "Michael Menzel"
-    ],
+    "designers": ["Bernd Brunnhofer"],
+    "artists": ["Michael Menzel"],
     "publishers": [
       "Hans im Glück",
       "Devir",
@@ -15726,12 +13853,8 @@
     "image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg",
     "rating": 7.3992,
     "weight": 1.3013,
-    "designers": [
-      "Phil Walker-Harding"
-    ],
-    "artists": [
-      "Nan Rangsima"
-    ],
+    "designers": ["Phil Walker-Harding"],
+    "artists": ["Nan Rangsima"],
     "publishers": [
       "Gamewright",
       "AURUM, Inc.",
@@ -15763,14 +13886,8 @@
     "image": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__original/img/HxMG1z7bIVGCGPI6u6ciVO0Oubk=/0x0/filters:format(jpeg)/pic1912529.jpg",
     "rating": 7.21789,
     "weight": 1.9762,
-    "designers": [
-      "Antoine Bauza"
-    ],
-    "artists": [
-      "Nicolas Fructus",
-      "Picksel",
-      "Yuio"
-    ],
+    "designers": ["Antoine Bauza"],
+    "artists": ["Nicolas Fructus", "Picksel", "Yuio"],
     "publishers": [
       "Bombyx",
       "Matagot",
@@ -15816,9 +13933,7 @@
     "image": "https://cf.geekdo-images.com/pxqUJZDKEyHAY0Ex5zk66A__original/img/DxhdgQiNz_n8zlg3nuv5nYJhr40=/0x0/filters:format(jpeg)/pic5325153.jpg",
     "rating": 7.4308,
     "weight": 4.1088,
-    "designers": [
-      "Dávid Turczi"
-    ],
+    "designers": ["Dávid Turczi"],
     "artists": [
       "Michał Długaj",
       "Jakub Fajtanowski",
@@ -15858,12 +13973,8 @@
     "image": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__original/img/72kzn6t41ZxLEr3GFd8ir6hDdH4=/0x0/filters:format(jpeg)/pic4583626.jpg",
     "rating": 7.86933,
     "weight": 3.7805,
-    "designers": [
-      "Daniele Tascini"
-    ],
-    "artists": [
-      "Odysseas Stamoglou"
-    ],
+    "designers": ["Daniele Tascini"],
+    "artists": ["Odysseas Stamoglou"],
     "publishers": [
       "NSKN Games",
       "Board&Dice",
@@ -15899,15 +14010,9 @@
     "image": "https://cf.geekdo-images.com/jyonN5H3YhUE8rGZ4AtLrQ__original/img/0uAkHut-ci7bYxMhaHVAOkx-Vh8=/0x0/filters:format(jpeg)/pic1427798.jpg",
     "rating": 6.66667,
     "weight": 0,
-    "designers": [
-      "Aaron Moriarity"
-    ],
-    "artists": [
-      "Aaron Moriarity"
-    ],
-    "publishers": [
-      "Hot Games & Puzzles LLC"
-    ]
+    "designers": ["Aaron Moriarity"],
+    "artists": ["Aaron Moriarity"],
+    "publishers": ["Hot Games & Puzzles LLC"]
   },
   {
     "id": 9209,
@@ -15927,13 +14032,8 @@
     "image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__original/img/LgzEsQlF3xkSEQLoorc8ntiYiIY=/0x0/filters:format(jpeg)/pic38668.jpg",
     "rating": 7.39342,
     "weight": 1.8303,
-    "designers": [
-      "Alan R. Moon"
-    ],
-    "artists": [
-      "Cyrille Daujean",
-      "Julien Delval"
-    ],
+    "designers": ["Alan R. Moon"],
+    "artists": ["Cyrille Daujean", "Julien Delval"],
     "publishers": [
       "Days of Wonder",
       "ADC Blackfire Entertainment",
@@ -15973,12 +14073,8 @@
     "image": "https://cf.geekdo-images.com/81z-qIsx51gT1PDRGQ_dDA__original/img/CooNWBRczlMPhvQDv9PvvNJaW54=/0x0/filters:format(jpeg)/pic7739376.jpg",
     "rating": 6.93248,
     "weight": 1.7426,
-    "designers": [
-      "Antoine Bauza"
-    ],
-    "artists": [
-      "Xavier Gueniffey Durin"
-    ],
+    "designers": ["Antoine Bauza"],
+    "artists": ["Xavier Gueniffey Durin"],
     "publishers": [
       "Funforge",
       "Asterion Press",
@@ -16017,15 +14113,9 @@
     "image": "https://cf.geekdo-images.com/NR3f9d7gCrwJymUCpmMIXQ__original/img/-qXJbdBCWflYnxlXc2g_FsqilJY=/0x0/filters:format(png)/pic5701252.png",
     "rating": 7.19721,
     "weight": 3.5,
-    "designers": [
-      "Glen Dresser"
-    ],
-    "artists": [
-      "Glen Dresser"
-    ],
-    "publishers": [
-      "Wheelhouse Games"
-    ]
+    "designers": ["Glen Dresser"],
+    "artists": ["Glen Dresser"],
+    "publishers": ["Wheelhouse Games"]
   },
   {
     "id": 163068,
@@ -16045,14 +14135,8 @@
     "image": "https://cf.geekdo-images.com/9gob752VqEklQFV_gz16hw__original/img/ivQUea2qrHp2TDLM4i7gp1123vQ=/0x0/filters:format(png)/pic2585510.png",
     "rating": 7.97623,
     "weight": 4.2514,
-    "designers": [
-      "Richard Amann",
-      "Viktor Peter"
-    ],
-    "artists": [
-      "Villő Farkas",
-      "László Fejes"
-    ],
+    "designers": ["Richard Amann", "Viktor Peter"],
+    "artists": ["Villő Farkas", "László Fejes"],
     "publishers": [
       "Mindclash Games",
       "APE Games",
@@ -16081,17 +14165,9 @@
     "image": "https://cf.geekdo-images.com/MHeQQrbauUVsvh2QF6PMog__original/img/LfjXNSzbVuSmMfcRYwGcuZwFHZo=/0x0/filters:format(jpeg)/pic4128153.jpg",
     "rating": 7.79399,
     "weight": 4.2577,
-    "designers": [
-      "Christian T. Petersen"
-    ],
-    "artists": [
-      "Scott Schomburg",
-      "Brian Schomburg",
-      "Tyler Walpole"
-    ],
-    "publishers": [
-      "Fantasy Flight Games"
-    ]
+    "designers": ["Christian T. Petersen"],
+    "artists": ["Scott Schomburg", "Brian Schomburg", "Tyler Walpole"],
+    "publishers": ["Fantasy Flight Games"]
   },
   {
     "id": 247763,
@@ -16111,13 +14187,8 @@
     "image": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__original/img/1WL5-4DZi0hX76HEgsLIYRRaIh4=/0x0/filters:format(png)/pic4837710.png",
     "rating": 8.0686,
     "weight": 3.5973,
-    "designers": [
-      "Vladimír Suchý"
-    ],
-    "artists": [
-      "Uildrim",
-      "Milan Vavroň"
-    ],
+    "designers": ["Vladimír Suchý"],
+    "artists": ["Uildrim", "Milan Vavroň"],
     "publishers": [
       "Delicious Games",
       "Arrakis Games",
@@ -16153,13 +14224,8 @@
     "image": "https://cf.geekdo-images.com/znCYAtq2-hYk0wqqudGRow__original/img/-6vjSX81YVEJvdpzNbk6WpQdDwQ=/0x0/filters:format(jpeg)/pic1848490.jpg",
     "rating": 7.01418,
     "weight": 2.1786,
-    "designers": [
-      "Tom Cleaver"
-    ],
-    "artists": [
-      "Banu Andaru",
-      "Guillermo H. Nuñez"
-    ],
+    "designers": ["Tom Cleaver"],
+    "artists": ["Banu Andaru", "Guillermo H. Nuñez"],
     "publishers": [
       "Alderac Entertainment Group",
       "BoardBros",
@@ -16185,20 +14251,9 @@
     "image": "https://cf.geekdo-images.com/WrnWFA1Sysm3-nQyBe1sUA__original/img/cGg9S0AH41VxczdybvFsb81AKWw=/0x0/filters:format(jpeg)/pic2619743.jpg",
     "rating": 7.50426,
     "weight": 2.9338,
-    "designers": [
-      "Jamey Stegmaier",
-      "Alan Stone"
-    ],
-    "artists": [
-      "Jacqui Davis",
-      "David Montgomery",
-      "Beth Sobel"
-    ],
-    "publishers": [
-      "Stonemaier Games",
-      "One Moment Games",
-      "Regatul Jocurilor"
-    ]
+    "designers": ["Jamey Stegmaier", "Alan Stone"],
+    "artists": ["Jacqui Davis", "David Montgomery", "Beth Sobel"],
+    "publishers": ["Stonemaier Games", "One Moment Games", "Regatul Jocurilor"]
   },
   {
     "id": 115746,
@@ -16218,15 +14273,8 @@
     "image": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__original/img/38jB7fN07DwlrGKYAf-J0vsNdgs=/0x0/filters:format(jpeg)/pic1215633.jpg",
     "rating": 8.53559,
     "weight": 4.2166,
-    "designers": [
-      "Roberto Di Meglio",
-      "Marco Maggi",
-      "Francesco Nepitello"
-    ],
-    "artists": [
-      "John Howe",
-      "Fabio Maiorana"
-    ],
+    "designers": ["Roberto Di Meglio", "Marco Maggi", "Francesco Nepitello"],
+    "artists": ["John Howe", "Fabio Maiorana"],
     "publishers": [
       "Ares Games",
       "Angry Lion Games",
@@ -16262,13 +14310,8 @@
     "image": "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__original/img/26CKXFLZQ1sUlUwdu_kJ3E8F4Bs=/0x0/filters:format(jpeg)/pic4415135.jpg",
     "rating": 7.13018,
     "weight": 1.1644,
-    "designers": [
-      "Ted Alspach"
-    ],
-    "artists": [
-      "Jason Boles",
-      "Roland MacDonald"
-    ],
+    "designers": ["Ted Alspach"],
+    "artists": ["Jason Boles", "Roland MacDonald"],
     "publishers": [
       "Bézier Games",
       "GoKids 玩樂小子",
@@ -16296,9 +14339,7 @@
     "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
     "rating": 8.05875,
     "weight": 2.4616,
-    "designers": [
-      "Elizabeth Hargrave"
-    ],
+    "designers": ["Elizabeth Hargrave"],
     "artists": [
       "Ana Maria Martinez Jaramillo",
       "Natalia Rojas",
@@ -16354,19 +14395,9 @@
     "image": "https://cf.geekdo-images.com/6uEBiPxMH8gfGJ6f3HLNGg__original/img/p-g0LziOt6tE90cVJUvLZF0exfI=/0x0/filters:format(png)/pic1807124.png",
     "rating": 7.86179,
     "weight": 3.1858,
-    "designers": [
-      "Cody Miller"
-    ],
-    "artists": [
-      "Cody Miller",
-      "Steve \"Coolhand\" Tyler",
-      "Peter Wocken"
-    ],
-    "publishers": [
-      "Far Off Games",
-      "Lavka Games",
-      "Maldito Games"
-    ]
+    "designers": ["Cody Miller"],
+    "artists": ["Cody Miller", "Steve \"Coolhand\" Tyler", "Peter Wocken"],
+    "publishers": ["Far Off Games", "Lavka Games", "Maldito Games"]
   },
   {
     "id": 207062,
@@ -16386,14 +14417,8 @@
     "image": "https://cf.geekdo-images.com/f4semdquq7V6NkVs4cJCnw__original/img/_UpUt8_BFm8kXoARD1GIsv5xiyg=/0x0/filters:format(png)/pic3148756.png",
     "rating": 6.57736,
     "weight": 1.3333,
-    "designers": [
-      "Josh Cappel",
-      "Jay Cormier",
-      "Sen-Foong Lim"
-    ],
-    "artists": [
-      "Josh Cappel"
-    ],
+    "designers": ["Josh Cappel", "Jay Cormier", "Sen-Foong Lim"],
+    "artists": ["Josh Cappel"],
     "publishers": [
       "WizKids (I)",
       "Broadway Toys LTD",
@@ -16420,14 +14445,8 @@
     "image": "https://cf.geekdo-images.com/5PoW-h-FrVK6hpcNvQsBVg__original/img/49EyDKElwANJp-zQyjAfaesYyHg=/0x0/filters:format(jpeg)/pic1097435.jpg",
     "rating": 6,
     "weight": 0,
-    "designers": [
-      "(Uncredited)"
-    ],
-    "artists": [
-      "(Uncredited)"
-    ],
-    "publishers": [
-      "Galaxy-Foundation Games"
-    ]
+    "designers": ["(Uncredited)"],
+    "artists": ["(Uncredited)"],
+    "publishers": ["Galaxy-Foundation Games"]
   }
 ]
