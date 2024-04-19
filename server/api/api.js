@@ -94,29 +94,23 @@ gameRouter.put('/edit', (req, res) => {
       res.status(err.status).json({ error: true, message: err.message })
     }
     else {
-      if (games.find((game) => game.id === gameToSubmit.id)) {
-        games = games.map((game) => {
-          if (game.id === gameToSubmit.id) {
-            return gameToSubmit
-          }
-          else {
-            return game
-          }
-        })
+      Object.keys(gameToSubmit).forEach((key) => {
+        if (gameToSubmit[key] === null || gameToSubmit[key] === undefined) {
+          delete gameToSubmit[key]
+        }
+      })
 
-        summarizedGames = summarizedGames.map((game) => {
-          if (game.id === gameToSubmit.id) {
-            return {
-              id: gameToSubmit.id,
-              title: gameToSubmit.title,
-              year: gameToSubmit.year,
-              thumbnail: gameToSubmit.thumbnail
-            }
-          }
-          else {
-            return game
-          }
-        })
+      const index = games.findIndex((game) => game.id === gameToSubmit.id)
+      if (index !== -1) {
+        const oldGame = games[index]
+        games[index] = { ...oldGame, ...gameToSubmit }
+
+        summarizedGames[index] = {
+          id: games[index].id,
+          title: games[index].title,
+          year: games[index].year,
+          thumbnail: games[index].thumbnail
+        }
 
         res.status(200).json({
           success: true,
@@ -125,7 +119,7 @@ gameRouter.put('/edit', (req, res) => {
         })
       }
       else {
-        res.status(400).json({ error: true, message: 'Game does not exist' })
+        res.status(404).json({ error: true, message: 'Game does not exist' })
       }
     }
   })
