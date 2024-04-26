@@ -10,7 +10,7 @@ import htmlRefReplacer from '../utils.js'
 
 export default function GameForm ({ addGame }) {
   const {
-    id: gameID = null,
+    // id: gameID = null,
     func,
     game: gameToEdit
   } = useContext(GameDetailsContext)
@@ -40,8 +40,8 @@ export default function GameForm ({ addGame }) {
       }
     }
     else if (func === 'editing') {
-      data.id = gameID
-      const response = await editGame(data)
+      const editedData = { ...data, id }
+      const response = await editGame(editedData)
 
       window.alert(response.message)
       if (!response.error) {
@@ -50,6 +50,7 @@ export default function GameForm ({ addGame }) {
       else {
         console.error(response.message)
       }
+      console.log(editedData)
     }
   }
 

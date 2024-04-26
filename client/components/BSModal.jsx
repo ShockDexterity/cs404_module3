@@ -5,7 +5,7 @@ import Modal from 'bootstrap/js/dist/modal'
 
 import { GameDetailsContext } from '../state/GameDetailsContext.js'
 
-export default function BSModal ({ onClose, children }) {
+export default function BSModal ({ onClose, children = null }) {
   const { title = 'N/A', show } = useContext(GameDetailsContext)
 
   // Create a reference for the modal
@@ -73,9 +73,4 @@ export default function BSModal ({ onClose, children }) {
 BSModal.propTypes = {
   onClose: PropTypes.func.isRequired,
   children: PropTypes.element
-}
-
-BSModal.defaultProps = {
-  // title: 'N/A',
-  children: null
 }

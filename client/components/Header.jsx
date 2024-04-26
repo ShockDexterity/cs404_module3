@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export default function Header ({ title, subtitle, onOpenForm }) {
+export default function Header ({ title, subtitle = '', onOpenForm }) {
   return (
     <>
       <div className="row">
@@ -23,9 +23,4 @@ Header.propTypes = {
   title: PropTypes.string.isRequired,
   subtitle: PropTypes.string,
   onOpenForm: PropTypes.func.isRequired
-}
-
-// Default props
-Header.defaultProps = {
-  subtitle: ''
 }
