@@ -5,7 +5,7 @@ const emphasis = {
   fontWeight: 'bold'
 }
 
-export default function DetailItem ({ header, value, label }) {
+export default function DetailItem ({ header, value, label = '' }) {
   let text = `${value ?? 'Not available'} ${value ? label : ''}`
   if (Array.isArray(value)) {
     if (value.length > 5) {
@@ -33,9 +33,4 @@ DetailItem.propTypes = {
     PropTypes.array
   ]),
   label: PropTypes.string
-}
-
-// Default props
-DetailItem.defaultProps = {
-  label: ''
 }

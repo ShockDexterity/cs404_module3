@@ -17,14 +17,7 @@ export default function App (props) {
   // Let React know to re-render the GameGrid when a game is added
   // const [refreshGames, setRefreshGames] = useState(true)
 
-  const [reducer, dispatch] = useReducer(gameReducer, {
-    func: '',
-    requestedID: '',
-    title: '',
-    show: false,
-    game: null,
-    refresh: true
-  })
+  const [reducer, dispatch] = useReducer(gameReducer)
 
   useEffect(() => {
     if (reducer.requestedID !== '') {

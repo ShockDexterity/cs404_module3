@@ -1,5 +1,4 @@
 import React, { useContext } from 'react'
-// import PropTypes from 'prop-types'
 
 import DetailRangeItem from './DetailRangeItem.jsx'
 import DetailSingleItem from './DetailSingleItem.jsx'
@@ -70,9 +69,4 @@ export default function GameDetails (props) {
       </div>
     </div>
   )
-}
-
-// Prop validation
-GameDetails.propTypes = {
-  // detailsID: PropTypes.number
 }

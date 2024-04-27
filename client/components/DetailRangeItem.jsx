@@ -5,7 +5,7 @@ const emphasis = {
   fontWeight: 'bold'
 }
 
-export default function DetailItem ({ header, min, max, label }) {
+export default function DetailItem ({ header, min = 0, max = 0, label = '' }) {
   const text =
     min === 0 && max === 0
       ? 'N/A'
@@ -27,11 +27,4 @@ DetailItem.propTypes = {
   min: PropTypes.number,
   max: PropTypes.number,
   label: PropTypes.string
-}
-
-// Default props
-DetailItem.defaultProps = {
-  min: 0,
-  max: 0,
-  label: ''
 }

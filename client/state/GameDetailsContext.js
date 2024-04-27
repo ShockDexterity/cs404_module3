@@ -5,6 +5,15 @@ import { retrieveSpecificGame } from '../dataHelper.js'
 export const GameDetailsContext = createContext(null)
 export const DetailsDispatchContext = createContext(null)
 
+export const initialReducerState = {
+  func: '',
+  requestedID: '',
+  title: '',
+  show: false,
+  game: null,
+  refresh: true
+}
+
 export function gameReducer (state, action) {
   switch (action.type) {
     // Refresh the game grid

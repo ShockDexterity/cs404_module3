@@ -56,5 +56,3 @@ export default function GameGrid (props) {
     </div>
   )
 }
-
-GameGrid.propTypes = {}
